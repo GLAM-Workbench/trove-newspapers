@@ -6,3 +6,4 @@ pandas==0.23.4
 requests==2.19.1
 vega==1.4.0
 vega-datasets==0.5.0
+arrow==0.12.1

@@ -7,3 +7,4 @@ requests==2.19.1
 vega==1.4.0
 vega-datasets==0.5.0
 arrow==0.12.1
+folium==0.6.0

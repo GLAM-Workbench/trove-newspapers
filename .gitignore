@@ -2,5 +2,4 @@
 .DS_Store
 snippets.ipynb
 .ipynb_checkpoints
-*.jpg
-*.csv
+#*.csv

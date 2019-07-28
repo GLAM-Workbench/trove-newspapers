@@ -1,0 +1,15 @@
+altair
+numpy
+pandas
+requests
+vega
+vega-datasets
+arrow
+folium
+tqdm
+appmode
+Pillow
+beautifulsoup4
+lxml
+Pyzotero
+jupyter

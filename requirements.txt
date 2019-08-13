@@ -9,7 +9,7 @@ bibtexparser==1.1.0
 bleach==3.1.0
 bqplot==0.11.5
 branca==0.3.1
-certifi==2018.8.24
+certifi
 chardet==3.0.4
 decorator==4.4.0
 defusedxml==0.6.0
@@ -27,7 +27,7 @@ ipywidgets==7.5.0
 jedi==0.14.0
 Jinja2==2.10.1
 jsonschema==3.0.1
-jupyter==1.0.0
+jupyter
 jupyter-client==5.2.4
 jupyter-console==6.0.0
 jupyter-core==4.5.0

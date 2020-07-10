@@ -1,3 +1,4 @@
+title_id,newspaper_title,state,place_id,place,latitude,longitude
 984,Adelaide Chronicle and South Australian Advertiser (SA : 1839 - 1840),SA,SA0055886,Adelaide,-34.92869,138.60102
 986,Adelaide Chronicle and South Australian Literary Record (SA : 1840 - 1842),SA,SA0055886,Adelaide,-34.92869,138.60102
 174,Adelaide Morning Chronicle (SA : 1852 - 1853),SA,SA0055886,Adelaide,-34.92869,138.60102
@@ -1579,7 +1580,7 @@
 1314,"The Dowerin Guardian and Amery Line Advocate (Wyalkatchem, WA : 1927 - 1954)",WA,WA100185152,Dowerin,-31.16876,116.9787
 1314,"The Dowerin Guardian and Amery Line Advocate (Wyalkatchem, WA : 1927 - 1954)",WA,WA100000451,Amery,-31.1482,117.0906
 1314,"The Dowerin Guardian and Amery Line Advocate (Wyalkatchem, WA : 1927 - 1954)",WA,WA100189002,Wyalkatchem,-31.17722,117.3833
-1275,"The Magnet Mirror and Murchison Reflector (Meekatharra, WA : 1928 - 1935)",WA,WA100043213,Murchison,-26.0725,115.9225
+1275,"The Magnet Mirror and Murchison Reflector (Meekatharra, WA : 1928 - 1935)",WA,WA100187085,Mount Magnet,-28.08733,117.8822
 1275,"The Magnet Mirror and Murchison Reflector (Meekatharra, WA : 1928 - 1935)",WA,WA100186941,Meekatharra,-26.64175,118.8561
 1276,"The Manganese Record, Peak Hill, Nullagine and Marble Bar Gazette (Meekatharra, WA : 1928 - 1941)",WA,WA100186940,Peak Hill,-25.6375,118.7244
 1276,"The Manganese Record, Peak Hill, Nullagine and Marble Bar Gazette (Meekatharra, WA : 1928 - 1941)",WA,WA100190543,Marble Bar,-21.17167,119.7458
@@ -1589,11 +1590,9 @@
 1278,The Mt. Leonora Miner (WA : 1899 - 1910),WA,WA100190390,Leonora,-28.88528,121.3311
 1313,The Mullewa Mail (WA : 1921 - 1947),WA,WA100192009,Mullewa,-28.53722,115.5119
 1279,"The Murchison Times and Day Dawn Gazette (Cue, WA : 1894 - 1925)",WA,WA100042185,Day Dawn,-27.45843,117.8611
-1279,"The Murchison Times and Day Dawn Gazette (Cue, WA : 1894 - 1925)",WA,WA100043213,Murchison,-26.0725,115.9225
 1279,"The Murchison Times and Day Dawn Gazette (Cue, WA : 1894 - 1925)",WA,WA100188161,Cue,-27.42778,117.8806
 1315,"The Weekly Gazette (Goomalling, WA : 1924 - 1946)",WA,WA100187135,Goomalling,-31.29321,116.8445
 1280,"The Yalgoo Observer and Murchison Chronicle (Meekatharra, WA : 1923 - 1941)",WA,WA100192527,Yalgoo,-28.34111,116.6831
-1280,"The Yalgoo Observer and Murchison Chronicle (Meekatharra, WA : 1923 - 1941)",WA,WA100043213,Murchison,-26.0725,115.9225
 1280,"The Yalgoo Observer and Murchison Chronicle (Meekatharra, WA : 1923 - 1941)",WA,WA100186941,Meekatharra,-26.64175,118.8561
 1346,Sawtell Guardian (NSW : 1971 - 1975),NSW,NSW51839,Sawtell,-30.3652,153.1012
 1336,Adelaide Independent and Cabinet of Amusement (SA : 1841),SA,SA0055886,Adelaide,-34.92869,138.60102
@@ -1676,7 +1675,6 @@
 1408,Day Dawn Chronicle (WA : 1902 - 1909),WA,WA100042185,Day Dawn,-27.45843,117.8611
 1385,"Der Australische Spiegel = The Australian Mirror (Perth, WA : 1952)",WA,WA100137118,Perth,-31.95184,115.8587
 1411,East Murchison News (WA : 1901 - 1911),WA,WA100192506,East Murchison,-26.43056,117.0472
-1411,East Murchison News (WA : 1901 - 1911),WA,WA100043213,Murchison,-26.0725,115.9225
 1384,"Echo : Polski Tygodnik Niezalezny (Perth, WA : 1950 - 1952)",WA,WA100137118,Perth,-31.95184,115.8587
 1387,"Eco Italiano (Perth, WA : 1958 - 1959)",WA,WA100137118,Perth,-31.95184,115.8587
 1412,Esperance Times (WA : 1896 - 1898),WA,WA100164794,Esperance,-33.86123,121.892
@@ -1734,6 +1732,150 @@
 1426,"Wheatbelt Tribune and Koorda Record (Wyalkatchem, WA : 1940 - 1954)",WA,WA100189002,Wyalkatchem,-31.17722,117.3833
 1434,Wiluna Chronicle and East Murchison Advocate (WA : 1924 - 1931),WA,WA100192506,East Murchison,-26.43056,117.0472
 1434,Wiluna Chronicle and East Murchison Advocate (WA : 1924 - 1931),WA,WA100193015,Wiluna,-26.595,120.225
-1434,Wiluna Chronicle and East Murchison Advocate (WA : 1924 - 1931),WA,WA100043213,Murchison,-26.0725,115.9225
 1425,Wongan-Ballidu Budget (WA : 1939 - 1954),WA,WA100192647,Ballidu,-30.59611,116.7717
 1432,York Chronicle (WA : 1927 - 1954),WA,WA100176007,York,-31.8771,116.777
+1492,"Border Morning Mail (Albury, NSW : 1938 - 1946)",NSW,NSW78648,Albury,-36.0735,146.9145
+1493,"North Coast Times (Bellingen and Coffs Harbour, NSW : 1888 - 1889)",NSW,NSW13093,Coffs Harbour,-30.3152,153.1179
+1493,"North Coast Times (Bellingen and Coffs Harbour, NSW : 1888 - 1889)",NSW,NSW82607,Bellingen,-30.4485,152.9012
+1501,"Nota (Hawks Nest and Tea Gardens, NSW : 1970 - 1999)",NSW,NSW81732,Hawks Nest,-32.6302,152.2007
+1501,"Nota (Hawks Nest and Tea Gardens, NSW : 1970 - 1999)",NSW,NSW81739,Tea Gardens,-32.6274,152.1701
+1500,"The Bananacoast Opinion (Coffs Harbour, NSW : 1973 - 1978)",NSW,NSW13093,Coffs Harbour,-30.3152,153.1179
+1587,"The News (Shoalhaven, NSW : 1867)",NSW,NSW80439,Nowra,-34.881,150.6076
+1588,"The News, Shoalhaven and Southern Coast Districts Advertiser (NSW : 1867 - 1871)",NSW,NSW80439,Nowra,-34.881,150.6076
+1586,The Nowra Colonist (NSW : 1899 - 1904),NSW,NSW80439,Nowra,-34.881,150.6076
+1590,"The Shoalhaven News, Broughton Creek, Kiama and Ulladulla Advertiser (NSW : 1873, 1875 - 1877)",NSW,NSW9615,Broughton,-34.7652,150.7346
+1590,"The Shoalhaven News, Broughton Creek, Kiama and Ulladulla Advertiser (NSW : 1873, 1875 - 1877)",NSW,NSW30724,Kiama,-34.6652,150.8512
+1590,"The Shoalhaven News, Broughton Creek, Kiama and Ulladulla Advertiser (NSW : 1873, 1875 - 1877)",NSW,NSW80463,Ulladulla,-35.3577,150.4607
+1578,"The Catholic Advocate (Brisbane, Qld. : 1911 - 1928)",QLD,QLD4555,Brisbane,-27.46784774,153.0280133
+1577,"Deutsche Zeitung für Sud-Australien = German Times for South Australia (Tanunda, SA : 1851)",SA,SA0043854,Tanunda,-34.52476,138.96251
+1576,"Die Deutsche Post für die Australischen Colonien = The German Australian Post (Adelaide, SA : 1848 - 1851)",SA,SA0055886,Adelaide,-34.92869,138.60102
+1506,"The Yellow Flag and Torrens Island Terror (Adelaide, SA : 1901)",SA,SA0086026,Torrens Island,-34.79177,138.53064
+1506,"The Yellow Flag and Torrens Island Terror (Adelaide, SA : 1901)",SA,SA0055886,Adelaide,-34.92869,138.60102
+1575,Box Hill Reporter (Vic. : 1925 - 1930),VIC,VIC100468,Box Hill,-37.8215005,145.126177
+1495,Chiltern Leader (Vic. : 1896 - 1898),VIC,VIC100742,Chiltern,-36.1860905,146.6114475
+1494,Mountain District Free Press (Vic. : 1947 - 1954),VIC,VIC102973,Tecoma,-37.9068355,145.3418125
+1574,"Progress (North Fitzroy, Vic. : 1889 - 1890)",VIC,VIC20018,North Fitzroy,-37.78625,144.9820833
+1585,"Sunraysia Daily (Mildura, Vic. : 1920 - 1926)",VIC,VIC102049,Mildura,-34.21111,142.1337569
+1503,"The Arena (Melbourne, Vic. : 1900 - 1903)",VIC,VIC102000,Melbourne,-37.8243016,144.9739883
+1504,"The Arena-Sun (Melbourne, Vic. : 1903 - 1904)",VIC,VIC102000,Melbourne,-37.8243016,144.9739883
+1502,"The Express, Melton (Vic. 1943 - 1954)",VIC,VIC102003,Melton,-37.6778564,144.6128006
+1580,The Merbein Irrigationist and Murray Valley Soldiers' Gazette (Vic. : 1919 - 1920),VIC,VIC102015,Merbein,-34.1605808,142.05126
+1579,The Mildura and Merbein Sun (Vic. : 1921),VIC,VIC102049,Mildura,-34.21111,142.1337569
+1579,The Mildura and Merbein Sun (Vic. : 1921),VIC,VIC102015,Merbein,-34.1605808,142.05126
+1583,The Mildura Irrigationist (Vic. : 1892 - 1893),VIC,VIC102049,Mildura,-34.21111,142.1337569
+1581,The Mildura Irrigationist and Murray River Agricultural Times (Vic. : 1888),VIC,VIC102049,Mildura,-34.21111,142.1337569
+1582,The Mildura Irrigationist and Murray River Cultural Advocate (Vic. : 1891 - 1892),VIC,VIC102049,Mildura,-34.21111,142.1337569
+1570,The Moe Register and Narracan Shire Advocate (Vic. : 1888 - 1889),VIC,VIC102091,Moe,-38.1826896,146.2537762
+1570,The Moe Register and Narracan Shire Advocate (Vic. : 1888 - 1889),VIC,VIC102291,Narracan,-38.3029383,146.2601073
+1496,"Weekly Free Press, and Port Phillip Commercial Advertiser (Vic. : 1841)",VIC,VIC102000,Melbourne,-37.8243016,144.9739883
+1513,"Blackwood-Warren Sentinel (Bridgetown, WA : 1950 - 1954)",WA,WA100186247,Bridgetown,-33.95297,116.1335
+1399,Bullfinch Budget (WA : 1910 - 1911),WA,WA100187153,Bullfinch,-30.89679,119.144
+1460,Bullfinch Miner and Yilgarn Advocate (WA : 1910),WA,WA100187153,Bullfinch,-30.89679,119.144
+1514,"Cathedral Chronicle (Geraldton, WA : 1931 - 1954)",WA,WA100013635,Geraldton,-28.77904,114.6145
+1401,"Central Districts Advertiser and Agriculture and Mining Journal (Northam, WA : 1893 - 1895)",WA,WA100177317,Northam,-31.65321,116.6665
+1515,"Clare's Weekly (Perth, WA : 1897 - 1899)",WA,WA100137118,Perth,-31.95184,115.8587
+1516,"Coastal Districts Star (Perth, WA : 1952 - 1954)",WA,WA100137118,Perth,-31.95184,115.8587
+1517,Corrigin Chronicle and Kunjin-Bullaring Representative (WA : 1925 - 1943),WA,WA100187474,Corrigin,-32.3307,117.9026
+1517,Corrigin Chronicle and Kunjin-Bullaring Representative (WA : 1925 - 1943),WA,WA100187473,Kunjin,-32.36043,117.702
+1517,Corrigin Chronicle and Kunjin-Bullaring Representative (WA : 1925 - 1943),WA,WA100187478,Bullaring,-32.5071,117.7382
+1406,"Daily Advertiser (Geraldton, WA : 1890 - 1893)",WA,WA100013635,Geraldton,-28.77904,114.6145
+1566,"Dampier Herald (Kununoppin, WA : 1928 - 1937)",WA,WA100188895,Kununoppin,-31.11139,117.9189
+1518,"Dampier Herald and Bencubbin Chronicle (Kununoppin, WA : 1937 - 1943)",WA,WA100187175,Bencubbin,-30.89763,117.8884
+1518,"Dampier Herald and Bencubbin Chronicle (Kununoppin, WA : 1937 - 1943)",WA,WA100188895,Kununoppin,-31.11139,117.9189
+1567,"Dampier Herald and Nungarin Standard (Kununoppin, WA : 1943 - 1954)",WA,WA100193325,Nungarin,-31.18667,118.1011
+1567,"Dampier Herald and Nungarin Standard (Kununoppin, WA : 1943 - 1954)",WA,WA100188895,Kununoppin,-31.11139,117.9189
+1409,"Democrat (Perth, WA : 1904 - 1905)",WA,WA100137118,Perth,-31.95184,115.8587
+1410,Dumbleyung-Lake Grace-Newdegate Cultivator and Kukerin and Moulyinning Producer (WA : 1930),WA,WA100189014,Lake Grace,-33.10028,118.4608
+1410,Dumbleyung-Lake Grace-Newdegate Cultivator and Kukerin and Moulyinning Producer (WA : 1930),WA,WA100190070,Dumbleyung,-33.315,117.7383
+1410,Dumbleyung-Lake Grace-Newdegate Cultivator and Kukerin and Moulyinning Producer (WA : 1930),WA,WA100189020,Newdegate,-33.09389,119.0339
+1410,Dumbleyung-Lake Grace-Newdegate Cultivator and Kukerin and Moulyinning Producer (WA : 1930),WA,WA100190071,Kukerin,-33.18694,118.0847
+1410,Dumbleyung-Lake Grace-Newdegate Cultivator and Kukerin and Moulyinning Producer (WA : 1930),WA,WA100190073,Moulyinning,-33.22806,117.9286
+1522,"Evening Courier (Fremantle, WA : 1902 - 1903)",WA,WA100171972,Fremantle,-32.056,115.7459
+1528,Fremantle Courier (WA : 1902),WA,WA100171972,Fremantle,-32.056,115.7459
+1416,Geraldton Observer (WA : 1880 - 1881),WA,WA100013635,Geraldton,-28.77904,114.6145
+1532,Kalamunda and District News (WA : 1952 - 1954),WA,WA100175880,Kalamunda,-31.97822,116.0434
+1459,Kalgoorlie and Boulder Standard (WA : 1897 - 1898),WA,WA100018291,Kalgoorlie,-30.74926,121.4656
+1459,Kalgoorlie and Boulder Standard (WA : 1897 - 1898),WA,WA100003797,Boulder,-30.78204,121.4912
+1458,Kanowna Democrat and North East Coolgardie Advertiser (WA : 1896 - 1897),WA,WA100187646,Kanowna,-30.60833,121.6033
+1458,Kanowna Democrat and North East Coolgardie Advertiser (WA : 1896 - 1897),WA,WA100187240,Coolgardie,-30.94566,120.1753
+1457,Kanowna Herald (WA : 1898),WA,WA100187646,Kanowna,-30.60833,121.6033
+1631,Kojonup Courier (WA : 1951 - 1958),WA,WA100187451,Kojonup,-33.83379,117.1651
+1456,Kondinin Wheatlander and Kulin and Karlgarin Gazette (WA : 1926 - 1927),WA,WA100186098,Kondinin,-32.42598,118.3243
+1456,Kondinin Wheatlander and Kulin and Karlgarin Gazette (WA : 1926 - 1927),WA,WA100188951,Kulin,-32.67056,118.1531
+1456,Kondinin Wheatlander and Kulin and Karlgarin Gazette (WA : 1926 - 1927),WA,WA100186099,Karlgarin,-32.41403,118.6804
+1534,Kondinin-Kulin Kourier and Karlgarin Advocate (WA : 1926 - 1941),WA,WA100186098,Kondinin,-32.42598,118.3243
+1534,Kondinin-Kulin Kourier and Karlgarin Advocate (WA : 1926 - 1941),WA,WA100188951,Kulin,-32.67056,118.1531
+1534,Kondinin-Kulin Kourier and Karlgarin Advocate (WA : 1926 - 1941),WA,WA100186099,Karlgarin,-32.41403,118.6804
+1455,Kookynie Advocate and Northern Goldfields News (WA : 1903 - 1904),WA,WA100185136,Kookynie,-29.84619,122.1728
+1453,Koorda Record (WA : 1934 - 1939),WA,WA100186324,Koorda,-30.81569,117.4831
+1536,"Liberty (Fremantle, WA : 1891 - 1892)",WA,WA100171972,Fremantle,-32.056,115.7459
+1537,"Listening Post (Perth, WA : 1891 - 1954)",WA,WA100137118,Perth,-31.95184,115.8587
+1539,Manjimup and Warren Times (WA : 1927 - 1954),WA,WA100191036,Manjimup,-34.24056,116.1461
+1449,"Morning Post (Geraldton, WA : 1895 - 1896)",WA,WA100013635,Geraldton,-28.77904,114.6145
+1427,Mullewa Magnet and Perenjori-Morawa Advertiser (WA : 1927 - 1931),WA,WA100192009,Mullewa,-28.53722,115.5119
+1427,Mullewa Magnet and Perenjori-Morawa Advertiser (WA : 1927 - 1931),WA,WA100190744,Perenjori,-29.44167,116.2867
+1427,Mullewa Magnet and Perenjori-Morawa Advertiser (WA : 1927 - 1931),WA,WA100184697,Morawa,-29.20417,116.02
+1427,Mullewa Magnet and Perenjori-Morawa Advertiser (WA : 1927 - 1931),WA,WA100187085,Mount Magnet,-28.08733,117.8822
+1423,Murchison Magnet and Mullewa Mercury (WA : 1926 - 1927),WA,WA100187085,Mount Magnet,-28.08733,117.8822
+1423,Murchison Magnet and Mullewa Mercury (WA : 1926 - 1927),WA,WA100192009,Mullewa,-28.53722,115.5119
+1543,Murchison Times and Cue-Big Bell-Reedy Advocate (WA : 1937 - 1942),WA,WA100188161,Cue,-27.42778,117.8806
+1543,Murchison Times and Cue-Big Bell-Reedy Advocate (WA : 1937 - 1942),WA,WA100188163,Reedy,-27.12361,118.2764
+1568,"North-Eastern Courier (Perth, WA : 1923 - 1954)",WA,WA100137118,Perth,-31.95184,115.8587
+1442,"Northern Public Opinion and Mining and Pastoral News (Roebourne, WA : 1894 - 1902)",WA,WA100187899,Roebourne,-20.77111,117.1453
+1563,Once a Week (Perth : 1889),WA,WA100137118,Perth,-31.95184,115.8587
+1547,"Pink Penny (Perth, WA : 1909)",WA,WA100137118,Perth,-31.95184,115.8587
+1548,"Sunday Chronicle (Perth, WA : 1897 - 1899)",WA,WA100137118,Perth,-31.95184,115.8587
+1521,"The Advertiser (Fremantle, WA : 1921 - 1932)",WA,WA100171972,Fremantle,-32.056,115.7459
+1520,"The Argonaut (Perth, WA : 1899 - 1900)",WA,WA100137118,Perth,-31.95184,115.8587
+1402,"The Central Districts Advocate (Goomalling, WA : 1922 - 1924)",WA,WA100187135,Goomalling,-31.29321,116.8445
+1560,"The Christian Herald (Perth, WA : 1882)",WA,WA100137118,Perth,-31.95184,115.8587
+1403,The Collie Times (WA : 1935),WA,WA100191342,Collie,-33.35389,116.1522
+1614,The Corrigin Sun (WA : 1929 - 1930),WA,WA100187474,Corrigin,-32.3307,117.9026
+1519,"The Dawn (Perth, WA : 1918 - 1954)",WA,WA100137118,Perth,-31.95184,115.8587
+1523,"The Evening Mail (Fremantle, WA : 1905 - 1910)",WA,WA100171972,Fremantle,-32.056,115.7459
+1524,"The Evening Times (Fremantle, WA : 1888)",WA,WA100171972,Fremantle,-32.056,115.7459
+1527,"The Express (Fremantle, WA : 1870-1871)",WA,WA100171972,Fremantle,-32.056,115.7459
+1525,"The Express (Perth, WA : 1872 - 1873)",WA,WA100137118,Perth,-31.95184,115.8587
+1526,"The Express (Perth, WA : 1905 - 1907)",WA,WA100137118,Perth,-31.95184,115.8587
+1529,"The Fremantle Times (WA : 1919 - 1921, 1932)",WA,WA100171972,Fremantle,-32.056,115.7459
+1622,The Geraldton Express and Murchison and Yalgo Goldfields Chronicler (WA : 1896 - 1905),WA,WA100013635,Geraldton,-28.77904,114.6145
+1530,"The Golden Age (Coolgardie, WA : 1894 - 1898)",WA,WA100187240,Coolgardie,-30.94566,120.1753
+1569,"The Great North-West (Perth, WA : 1904)",WA,WA100137118,Perth,-31.95184,115.8587
+1531,"The Guardian : Suburban and Municipal Recorder (Claremont, WA : 1903 - 1908)",WA,WA100136533,Claremont,-31.97961,115.7823
+1533,The Kendenup Index (WA : 1921 - 1923),WA,WA100203717,Kendenup,-34.48667,117.5642
+1535,"The Leader (Perth, WA : 1923 - 1928)",WA,WA100137118,Perth,-31.95184,115.8587
+1538,"The Magpie (Perth, WA : 1923)",WA,WA100137118,Perth,-31.95184,115.8587
+1540,"The Miners' Daily News (Menzies, WA : 1896 - 1898)",WA,WA100185137,Menzies,-29.67148,121.0412
+1541,"The Mirror (Perth, WA : 1905 - 1910)",WA,WA100137118,Perth,-31.95184,115.8587
+1542,"The Murchison Times (Cue, WA : 1924 - 1937)",WA,WA100188161,Cue,-27.42778,117.8806
+1544,"The Northern Grazier and Miner (Leonora, WA : 1929 - 1944)",WA,WA100190390,Leonora,-28.88528,121.3311
+1565,The Northern Producer and Morawa and District Advertiser (WA : 1930 - 1947),WA,WA100184697,Morawa,-29.20417,116.02
+1564,The Northern Producer and Morawa and Perenjori Advertiser (WA : 1928 - 1930),WA,WA100184697,Morawa,-29.20417,116.02
+1564,The Northern Producer and Morawa and Perenjori Advertiser (WA : 1928 - 1930),WA,WA100190744,Perenjori,-29.44167,116.2867
+1545,"The People (Perth, WA : 1891 - 1892",WA,WA100137118,Perth,-31.95184,115.8587
+1546,"The Phillips River Times (Ravensthorpe, WA : 1908 - 1909)",WA,WA100190032,Ravensthorpe,-33.58278,120.0492
+1440,The Pingelly Express (WA : 1905 - 1906),WA,WA100187503,Pingelly,-32.52849,117.0851
+1437,The Southern Cross Herald (WA : 1894 - 1896),WA,WA100187270,Southern Cross,-31.25401,119.3445
+1436,The Southern Cross Miner (WA : 1899 - 1902),WA,WA100187270,Southern Cross,-31.25401,119.3445
+1549,"The Sunday Press (Perth, WA : 1902 - 1903)",WA,WA100137118,Perth,-31.95184,115.8587
+1550,"The Swan and Canning Leader (Victoria Park, WA : 1928 - 1929)",WA,WA100037422,Victoria Park,-31.96878,115.8965
+1550,"The Swan and Canning Leader (Victoria Park, WA : 1928 - 1929)",WA,WA100136511,Canning,-32.01711,115.9345
+1551,"The Swan and Canning Times and Hills Gazette (Perth, WA : 1926 - 1928)",WA,WA100136511,Canning,-32.01711,115.9345
+1551,"The Swan and Canning Times and Hills Gazette (Perth, WA : 1926 - 1928)",WA,WA100137118,Perth,-31.95184,115.8587
+1552,"The Swan Leader (Victoria Park, WA : 1931 - 1937)",WA,WA100037422,Victoria Park,-31.96878,115.8965
+1562,"The Swan, Helena Vale and Guildford advertiser (WA : 1897)",WA,WA100165728,Guildford,-31.89933,115.9687
+1561,"The Temperance Advocate (Perth, WA : 1882)",WA,WA100137118,Perth,-31.95184,115.8587
+1665,"The Tothersider (Coolgardie, WA : 1897)",WA,WA100187240,Coolgardie,-30.94566,120.1753
+1553,"The Umpire (Fremantle, WA : 1896 - 1903)",WA,WA100171972,Fremantle,-32.056,115.7459
+1554,"The W.A. Table Talk (Perth, WA : 1921)",WA,WA100137118,Perth,-31.95184,115.8587
+1555,"The Wagin Argus and Arthur, Dumbleyung, Lake Grace Express (WA : 1924 - 1954)",WA,WA100189014,Lake Grace,-33.10028,118.4608
+1555,"The Wagin Argus and Arthur, Dumbleyung, Lake Grace Express (WA : 1924 - 1954)",WA,WA100188492,Wagin,-33.30861,117.345
+1555,"The Wagin Argus and Arthur, Dumbleyung, Lake Grace Express (WA : 1924 - 1954)",WA,WA100190070,Dumbleyung,-33.315,117.7383
+1556,"The Weekly Herald (Fremantle, WA : 1922 - 1926)",WA,WA100171972,Fremantle,-32.056,115.7459
+1505,"The Wheatbelt Wheatsheaf and Dampier Advocate (Merredin, WA : 1930 - 1939)",WA,WA100188711,Merredin,-31.48278,118.2856
+1559,The Wiluna Miner (WA : 1931 - 1947),WA,WA100193015,Wiluna,-26.595,120.225
+1557,"Weekly Judge (Perth, WA : 1919 - 1931)",WA,WA100137118,Perth,-31.95184,115.8587
+1558,"Western Women (Perth, WA : 1914 - 1919)",WA,WA100137118,Perth,-31.95184,115.8587
+1431,York Gazette and Quairading and Dangin Herald (WA : 1930 - 1931),WA,WA100176007,York,-31.8771,116.777
+1431,York Gazette and Quairading and Dangin Herald (WA : 1930 - 1931),WA,WA100194070,Quairading,-32.01028,117.3994
+1431,York Gazette and Quairading and Dangin Herald (WA : 1930 - 1931),WA,WA100194066,Dangin,-32.04028,117.3306

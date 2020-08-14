@@ -66,6 +66,7 @@ pyzmq==19.0.1
 Pyzotero==1.4.16
 qtconsole==4.7.5
 QtPy==1.9.0
+rectpack==0.2.1
 requests==2.24.0
 Send2Trash==1.5.0
 simplegeneric==0.8.1

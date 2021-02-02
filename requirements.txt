@@ -6,7 +6,7 @@ attrs==19.3.0
 backcall==0.2.0
 beautifulsoup4==4.9.1
 bibtexparser==1.2.0
-bleach==3.1.5
+bleach==3.3.0
 bqplot==0.11.0
 branca==0.4.1
 certifi

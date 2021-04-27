@@ -1,6 +1,6 @@
 # Trove newspapers
 
-This repository contains Jupyter notebooks to work with data from Trove's newspapers zone.
+This repository contains Jupyter notebooks to work with data from Trove's newspapers zone. For more information see the [Trove Newspapers](https://glam-workbench.net/trove-newspapers/) section of the GLAM Workbench.
 
 ## Notebook topics
 
@@ -103,8 +103,6 @@ See the GLAM Workbench for more details.
 ## Cite as
 
 See the GLAM Workbench or [Zenodo](https://doi.org/10.5281/zenodo.3521724) for up-to-date citation details.
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3521724.svg)](https://doi.org/10.5281/zenodo.3521724)
 
 ----
 

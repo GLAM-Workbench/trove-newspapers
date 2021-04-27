@@ -27,7 +27,7 @@ jobs:
         DOCKER_PASSWORD: ${{ secrets.DOCKER_PASSWORD }}
         BINDER_CACHE: true
         PUBLIC_REGISTRY_CHECK: true
-        IMAGE_NAME: glamworkbench/anu-archives
+        IMAGE_NAME: glamworkbench/trove-newspapers
 
     - name: Modify readme for DockerHub
       run: |

@@ -32,6 +32,7 @@ This repository contains Jupyter notebooks to work with data from Trove's newspa
 * [**Today’s news yesterday**](Todays-news-yesterday.ipynb) – uses the `date` index and the `firstpageseq` parameter to find articles from exactly 100 years ago that were published on the front page
 * [**Create a Trove OCR corrections ticker**](Create-a-Trove-corrections-ticker.ipynb) – uses the `has:corrections` parameter to get the total number of newspaper articles with OCR corrections
 * [**Get a list of Trove newspapers that doesn't include government gazettes**](Get_newspaper_titles_not_including_gazettes.ipynb) – workaround for a problem with the `newspaper/titles` endpoint of the API
+* [**Get the page coordinates of a digitised newspaper article from Trove**](trove-newspapers-get-coordinates-of-articles.ipynb) – demonstrates how to find the coordinates of a newspaper article on a digitised page
 
 ### Get creative
 
@@ -40,6 +41,20 @@ This repository contains Jupyter notebooks to work with data from Trove's newspa
 * [**Create large composite images from snipped words**](trove-newspapers-create-composite-from-words.ipynb) – harvest multiple versions of a list of words and compile them all into one big image
 
 See the [GLAM Workbench for more details](https://glam-workbench.github.io/trove-newspapers/).
+
+### Data files
+
+* [CSV formatted list of Australian Women's Weekly issues, 1933 to 1982](data/aww-issues.csv)
+* [Australian Women's Weekly front covers, 1933 to 1982](https://cloudstor.aarnet.edu.au/plus/s/NaKjoKNFOGXXDNN) (2,566 images on Cloudstor)
+For easy browsing, I've compiled the images into a set of PDF files, one for each decade, available from Dropbox:
+  * [1933 to 1939](https://www.dropbox.com/s/0j6zpeuw6tbey5k/aww-1933-1939.pdf?dl=0)
+  * [1940 to 1949](https://www.dropbox.com/s/y1he8dd6h655weu/aww-1940-1949.pdf?dl=0)
+  * [1950 to 1959](https://www.dropbox.com/s/i9gp9i51nofmlqo/aww-1950-1959.pdf?dl=0)
+  * [1960 to 1969](https://www.dropbox.com/s/2of63tovcnphijo/aww-1960-1969.pdf?dl=0)
+  * [1970 to 1979](https://www.dropbox.com/s/f2yxpg8u4dx5uf2/aww-1970-1979.pdf?dl=0)
+  * [1980 to 1982](https://www.dropbox.com/s/xanohtas1fi7eu4/aww-1980-1982.pdf?dl=0)
+* [Trove newspapers with non-English language content](https://gist.github.com/wragge/9aa385648cff5f0de0c7d4837896df97)
+* [Trove newspapers with articles published after 1954](newspapers_post_54.csv)
 
 <!-- START RUN INFO -->
 

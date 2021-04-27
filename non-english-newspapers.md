@@ -168,8 +168,8 @@
 
 | Language | Language code | Proportion of sample |
 |---|---|---|
-| Italian | it | 0.6825396825396826 |
-| Maltese | mt | 0.2222222222222222 |
+| Italian | it | 0.6875 |
+| Maltese | mt | 0.21875 |
 
 ### 27. [L'Italo-Australiano = The Italo-Australian (Sydney, NSW : 1905 - 1909)](http://nla.gov.au/nla.news-title1597)
 
@@ -235,32 +235,45 @@
 | English | en | 0.574468085106383 |
 | Italian | it | 0.425531914893617 |
 
-### 36. [Stampa Italiana = The Italian Press (Perth, WA : 1931 - 1932)](http://nla.gov.au/nla.news-title1380)
+### 36. [Revue Australienne : Journal des Interets Francais en Australie, Nouvelle Caledonie, Nouvelle Zelande, Fiji, Tahiti, Polynesie =](http://nla.gov.au/nla.news-title1604)
+
+| Language | Language code | Proportion of sample |
+|---|---|---|
+| French | fr | 0.99 |
+
+### 37. [Stampa Italiana = The Italian Press (Perth, WA : 1931 - 1932)](http://nla.gov.au/nla.news-title1380)
 
 | Language | Language code | Proportion of sample |
 |---|---|---|
 | Italian | it | 0.97 |
 
-### 37. [Suedaustralische Zeitung (Adelaide, SA : 1850 - 1851)](http://nla.gov.au/nla.news-title314)
+### 38. [Suedaustralische Zeitung (Adelaide, SA : 1850 - 1851)](http://nla.gov.au/nla.news-title314)
 
 | Language | Language code | Proportion of sample |
 |---|---|---|
 | German | de | 0.8888888888888888 |
 | English | en | 0.1111111111111111 |
 
-### 38. [Sunday Times Edizione Italiana (Perth, WA : 1958 - 1959)](http://nla.gov.au/nla.news-title1379)
+### 39. [Sunday Times Edizione Italiana (Perth, WA : 1958 - 1959)](http://nla.gov.au/nla.news-title1379)
 
 | Language | Language code | Proportion of sample |
 |---|---|---|
 | Italian | it | 1.0 |
 
-### 39. [Süd Australische Zeitung (Tanunda and Adelaide, SA : 1860 - 1874)](http://nla.gov.au/nla.news-title278)
+### 40. [Süd Australische Zeitung (Tanunda and Adelaide, SA : 1860 - 1874)](http://nla.gov.au/nla.news-title278)
 
 | Language | Language code | Proportion of sample |
 |---|---|---|
 | German | de | 0.9896907216494846 |
 
-### 40. [The Chinese Advertiser (Ballarat, Vic. : 1856)](http://nla.gov.au/nla.news-title706)
+### 41. [The Australian Jewish News (Melbourne, Vic. : 1935 - 1999)](http://nla.gov.au/nla.news-title1685)
+
+| Language | Language code | Proportion of sample |
+|---|---|---|
+| English | en | 0.8947368421052632 |
+| Yiddish | yi | 0.08421052631578947 |
+
+### 42. [The Chinese Advertiser (Ballarat, Vic. : 1856)](http://nla.gov.au/nla.news-title706)
 
 | Language | Language code | Proportion of sample |
 |---|---|---|
@@ -268,7 +281,7 @@
 | English | en | 0.3333333333333333 |
 | Scottish Gaelic | gd | 0.16666666666666666 |
 
-### 41. [The English and Chinese Advertiser (Vic. : 1856 - 1858)](http://nla.gov.au/nla.news-title685)
+### 43. [The English and Chinese Advertiser (Vic. : 1856 - 1858)](http://nla.gov.au/nla.news-title685)
 
 | Language | Language code | Proportion of sample |
 |---|---|---|
@@ -276,37 +289,44 @@
 | Chinese | zh | 0.05263157894736842 |
 | Maltese | mt | 0.05263157894736842 |
 
-### 42. [The Voice of Freedom = Elefthera Phoni (Perth, WA : 1956 - 1957)](http://nla.gov.au/nla.news-title1381)
+### 44. [The Jewish Weekly News (Melbourne, Vic. : 1933 - 1935)](http://nla.gov.au/nla.news-title1707)
+
+| Language | Language code | Proportion of sample |
+|---|---|---|
+| English | en | 0.7835051546391752 |
+| Yiddish | yi | 0.1958762886597938 |
+
+### 45. [The Voice of Freedom = Elefthera Phoni (Perth, WA : 1956 - 1957)](http://nla.gov.au/nla.news-title1381)
 
 | Language | Language code | Proportion of sample |
 |---|---|---|
 | Modern Greek (1453-) | el | 0.97 |
 
-### 43. [To Ethnico Vema = Greek National Tribune (Arncliffe, NSW : 1931 - 1954)](http://nla.gov.au/nla.news-title1592)
+### 46. [To Ethnico Vema = Greek National Tribune (Arncliffe, NSW : 1931 - 1954)](http://nla.gov.au/nla.news-title1592)
 
 | Language | Language code | Proportion of sample |
 |---|---|---|
 | Modern Greek (1453-) | el | 0.9893617021276596 |
 
-### 44. [Tung Wah News (Sydney, NSW : 1898 - 1902)](http://nla.gov.au/nla.news-title1185)
+### 47. [Tung Wah News (Sydney, NSW : 1898 - 1902)](http://nla.gov.au/nla.news-title1185)
 
 | Language | Language code | Proportion of sample |
 |---|---|---|
 | Chinese | zh | 0.9263157894736842 |
 
-### 45. [Tung Wah Times (Sydney, NSW : 1901 - 1936)](http://nla.gov.au/nla.news-title1184)
+### 48. [Tung Wah Times (Sydney, NSW : 1901 - 1936)](http://nla.gov.au/nla.news-title1184)
 
 | Language | Language code | Proportion of sample |
 |---|---|---|
 | Chinese | zh | 0.9680851063829787 |
 
-### 46. [Uniamoci (Sydney, NSW : 1903 - 1904)](http://nla.gov.au/nla.news-title1599)
+### 49. [Uniamoci (Sydney, NSW : 1903 - 1904)](http://nla.gov.au/nla.news-title1599)
 
 | Language | Language code | Proportion of sample |
 |---|---|---|
 | Italian | it | 1.0 |
 
-### 47. [Vesnik (Perth, WA : 1975 - 1994)](http://nla.gov.au/nla.news-title1382)
+### 50. [Vesnik (Perth, WA : 1975 - 1994)](http://nla.gov.au/nla.news-title1382)
 
 | Language | Language code | Proportion of sample |
 |---|---|---|
@@ -314,7 +334,7 @@
 | English | en | 0.35789473684210527 |
 | Bulgarian | bg-Latn | 0.22105263157894736 |
 
-### 48. [Vil'na Dumka = Free Thought (Sydney, NSW : 1949 - 1954)](http://nla.gov.au/nla.news-title1593)
+### 51. [Vil'na Dumka = Free Thought (Sydney, NSW : 1949 - 1954)](http://nla.gov.au/nla.news-title1593)
 
 | Language | Language code | Proportion of sample |
 |---|---|---|

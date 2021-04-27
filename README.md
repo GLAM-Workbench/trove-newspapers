@@ -1,12 +1,112 @@
 # Trove newspapers
 
-Jupyter notebooks to work with data from Trove's newspapers zone.
+This repository contains Jupyter notebooks to work with data from Trove's newspapers zone.
 
-Run the notebooks in this repository live on MyBinder — just click the button (it might take a little while to load).
+## Notebook topics
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/glam-workbench/trove-newspapers/master)
+### Trove newspapers in context
+
+* [**Visualise the total number of newspaper articles in Trove by year and state**](visualise-total-newspaper-articles-by-state-year.ipynb) – explore how Trove's newspaper articles are distributed over time, and by state
+* [**Analyse rates of OCR correction**](Analysing_OCR_corrections.ipynb) – explore patterns in OCR text correction; how many corrections are there and where have they been made?
+* [**Finding non-English newspapers in Trove**](find-non-english-newspapers.ipynb) – use automated language detection to identify non-English language newspapers in Trove
+* [**Beyond the copyright cliff of death**](Beyond_the_copyright_cliff_of_death.ipynb) – find newspapers with content published after 1954
+
+### Visualising searches
+
+* [**QueryPic Deconstructed**](QueryPic_deconstructed.ipynb) – simple app to visualise newspaper searches over time
+* [**Visualise Trove newspaper searches over time**](visualise-searches-over-time.ipynb) – use facets to slice up newspaper search results and visualise over time
+* [**Map Trove newspaper results by state**](Map-newspaper-results-by-state.ipynb) – create a choropleth map to visualise search results by state
+* [**Map Trove newspaper results by place of publication**](Map-newspaper-results-by-place-of-publication.ipynb) – links newspapers to their place of publication and maps the results
+* [**Map Trove newspaper results by place of publication over time**](Map-newspaper-results-by-place-of-publication-over-time.ipynb) – adds a time dimension to the example above
+
+### Useful tools
+
+* [**Save a Trove newspaper article as an image**](Save-Trove-newspaper-article-as-image.ipynb) – grabs the page on which an article was published, and then crops the page image to the boundaries of the article to create a complete, intact image of the article as it was originally published
+* [**Download a page image**](Save-page-image.ipynb) – a simple app that lets you download page images as complete, high-resolution JPG files
+* [**Generate an article thumbnail**](Get-article-thumbnail.ipynb) – generate a nice square thumbnail image for a newspaper article
+* [**Upload Trove newspaper articles to Omeka-S**](Upload-Trove-newspapers-to-Omeka.ipynb) – steps through the process of uploading Trove newspaper articles to your own Omeka-S instance via the API
+* [**Harvest Australian Women's Weekly covers (or the front pages of any newspaper)**](harvest-aww-covers-and-newspaper-front-pages.ipynb) – harvest the front pages of any newspaper, including covers from the Australian Women's Weekly
+
+### Tips and tricks
+
+* [**Today’s news yesterday**](Todays-news-yesterday.ipynb) – uses the `date` index and the `firstpageseq` parameter to find articles from exactly 100 years ago that were published on the front page
+* [**Create a Trove OCR corrections ticker**](Create-a-Trove-corrections-ticker.ipynb) – uses the `has:corrections` parameter to get the total number of newspaper articles with OCR corrections
+* [**Get a list of Trove newspapers that doesn't include government gazettes**](Get_newspaper_titles_not_including_gazettes.ipynb) – workaround for a problem with the `newspaper/titles` endpoint of the API
+
+### Get creative
+
+* [**Make composite images from lots of Trove newspaper thumbnails**](Composite-thumbnails.ipynb) – creates thumbnails from a search and compiles them into a mega image
+* [**Create 'scissors and paste' messages from Trove newspaper articles**](trove-newspapers-scissors-and-paste.ipynb) – snip words out of page images and compile them into the message of your choice
+* [**Create large composite images from snipped words**](trove-newspapers-create-composite-from-words.ipynb) – harvest multiple versions of a list of words and compile them all into one big image
+
+See the [GLAM Workbench for more details](https://glam-workbench.github.io/trove-newspapers/).
+
+<!-- START RUN INFO -->
+
+## Run these notebooks
+
+There are a number of different ways to use these notebooks. Binder is quickest and easiest, but it doesn't save your data. I've listed the options below from easiest to most complicated (requiring more technical knowledge).
+
+### Using Binder
+
+[![Launch on Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GLAM-Workbench/trove-newspapers/master/?urlpath=lab)
+
+Click on the button above to launch the notebooks in this repository using the [Binder](https://mybinder.org/) service (it might take a little while to load). This is a free service, but note that sessions will close if you stop using the notebooks, and no data will be saved. Make sure you download any changed notebooks or harvested data that you want to save.
+
+### Using Reclaim Cloud
+
+[![Launch on Reclaim Cloud](https://glam-workbench.github.io/images/launch-on-reclaim-cloud.svg)](https://app.my.reclaim.cloud/?manifest=https://raw.githubusercontent.com/GLAM-Workbench/trove-newspapers/master/reclaim-manifest.jps)
+
+[Reclaim Cloud](https://reclaim.cloud/) is a paid hosting service, aimed particularly at supported digital scholarship in hte humanities. Unlike Binder, the environments you create on Reclaim Cloud will save your data – even if you switch them off! To run this repository on Reclaim Cloud for the first time:
+
+* Create a [Reclaim Cloud](https://reclaim.cloud/) account and log in.
+* Click on the button above to start the installation process.
+* A dialogue box will ask you to set a password, this is used to limit access to your Jupyter installation.
+* Sit back and wait for the installation to complete!
+* Once the installation is finished click on the 'Open in Browser' button of your newly created environment (note that you might need to wait a few minutes before everything is ready).
+
+See the GLAM Workbench for more details.
+
+### Using Docker
+
+You can use Docker to run a pre-built computing environment on your own computer. It will set up everything you need to run the notebooks in this repository. This is free, but requires more technical knowledge – you'll have to install Docker on your computer, and be able to use the command line.
+
+* Install [Docker Desktop](https://docs.docker.com/get-docker/).
+* Create a new directory for this repository and open it from the command line.
+* From the command line, run the following command:  
+  ```
+  docker run -p 8888:8888 --name trove-newspapers -v "$PWD":/home/jovyan/work wragge/trove-newspapers repo2docker-entrypoint jupyter lab --ip 0.0.0.0 --NotebookApp.token='' --LabApp.default_url='/lab/tree/index.md'
+  ```
+* It will take a while to download and configure the Docker image. Once it's ready you'll see a message saying that Jupyter Notebook is running.
+* Point your web browser to `http://127.0.0.1:8888`
+
+See the GLAM Workbench for more details.
+
+### Setting up on your own computer
+
+If you know your way around the command line and are comfortable installing software, you might want to set up your own computer to run these notebooks.
+
+Assuming you have recent versions of Python and Git installed, the steps might be something like:
+
+* Create a virtual environment, eg: `python -m venv trove-harvester`
+* Open the new directory" `cd trove-harvester`
+* Activate the environment `source bin/activate`
+* Clone the repository: `git clone https://github.com/GLAM-Workbench/trove-newspapers.git notebooks`
+* Open the new `notebooks` directory: `cd notebooks`
+* Install the necessary Python packages: `pip install -r requirements.txt`
+* Run Jupyter: `jupyter lab`
+
+See the GLAM Workbench for more details.
+
+<!-- END RUN INFO -->
+
+## Cite as
+
+See the GLAM Workbench or [Zenodo](https://doi.org/10.5281/zenodo.3521724) for up-to-date citation details.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3521724.svg)](https://doi.org/10.5281/zenodo.3521724)
 
 ----
 
-See the [GLAM Workbench documentation](https://glam-workbench.github.io/) for more details.  
-If you think this project is worthwhile, you might like [to support me on Patreon](https://www.patreon.com/timsherratt).
+This repository is part of the [GLAM Workbench](https://glam-workbench.github.io/).  
+If you think this project is worthwhile, you might like [to sponsor me on GitHub](https://github.com/sponsors/wragge?o=esb).

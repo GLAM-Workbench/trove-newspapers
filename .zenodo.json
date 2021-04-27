@@ -1,0 +1,48 @@
+{
+    "language": "eng",
+    "license": "MIT",
+    "title": "GLAM-Workbench/trove-newspapers",
+    "related_identifiers": [
+        {
+            "scheme": "url",
+            "identifier": "https://github.com/GLAM-Workbench/trove-newspapers/tree/v0.1.0",
+            "relation": "isDerivedFrom",
+            "resource_type": "software"
+        },
+        {
+            "scheme": "url",
+            "identifier": "https://glam-workbench.github.io/trove-newspapers/",
+            "relation": "isDocumentedBy",
+            "resource_type": "publication-softwaredocumentation"
+        },
+        {
+            "scheme": "url",
+            "identifier": "https://glam-workbench.github.io/",
+            "relation": "isPartOf",
+            "resource_type": "other"
+        },
+        {
+            "scheme": "doi",
+            "identifier": "10.5281/zenodo.3521724",
+            "relation": "isVersionOf"
+        }
+    ],
+    "version": "v0.1.0",
+    "upload_type": "software",
+    "keywords": [
+        "digital humanities",
+        "Trove",
+        "Jupyter",
+        "newspapers",
+        "GLAM Workbench"
+    ],
+    "publication_date": "2019-10-29",
+    "creators": [
+        {
+            "orcid": "0000-0001-7956-4498",
+            "name": "Sherratt, Tim"
+        }
+    ],
+    "access_right": "open",
+    "description": "<p>Assorted experiments and examples working with Trove&rsquo;s digitised newspapers.</p>"
+}

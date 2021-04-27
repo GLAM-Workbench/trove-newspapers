@@ -3,3 +3,6 @@
 snippets.ipynb
 .ipynb_checkpoints
 #*.csv
+list_imports.py
+write_requirements.sh
+*.sqlite

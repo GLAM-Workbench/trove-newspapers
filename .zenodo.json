@@ -11,13 +11,13 @@
         },
         {
             "scheme": "url",
-            "identifier": "https://glam-workbench.github.io/trove-newspapers/",
+            "identifier": "https://glam-workbench.net/trove-newspapers/",
             "relation": "isDocumentedBy",
             "resource_type": "publication-softwaredocumentation"
         },
         {
             "scheme": "url",
-            "identifier": "https://glam-workbench.github.io/",
+            "identifier": "https://glam-workbench.net/",
             "relation": "isPartOf",
             "resource_type": "other"
         },

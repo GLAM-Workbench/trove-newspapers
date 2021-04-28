@@ -5,4 +5,7 @@ snippets.ipynb
 #*.csv
 list_imports.py
 write_requirements.sh
+update_zenodo.py
 *.sqlite
+.zenodo-new.json
+.zenodo-old.json

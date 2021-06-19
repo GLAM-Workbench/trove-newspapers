@@ -22,3 +22,4 @@ numpy
 appmode
 requests
 lxml
+trove-query-parser @ git+https://github.com/wragge/trove_query_parser.git@6be3449e7718245aec72249a97a62c4ab26cbac4

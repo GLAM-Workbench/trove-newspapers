@@ -113,6 +113,7 @@ tqdm==4.60.0
 traceback2==1.4.0
 traitlets==5.0.5
 traittypes==0.2.1
+trove-query-parser @ git+https://github.com/wragge/trove_query_parser.git@6be3449e7718245aec72249a97a62c4ab26cbac4
 typing==3.7.4.3
 unittest2==1.1.0
 url-normalize==1.4.3

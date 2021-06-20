@@ -14,7 +14,8 @@ This repository contains Jupyter notebooks to work with data from Trove's newspa
 
 ### Visualising searches
 
-* [**QueryPic Deconstructed**](QueryPic_deconstructed.ipynb) – simple app to visualise newspaper searches over time
+* [**QueryPic**](querypic.ipynb) – simple app to visualise newspaper searches over time, this is the latest version with many new features
+* [**QueryPic Deconstructed**](QueryPic_deconstructed.ipynb) – an older version of QueryPic that lets you build queries using keywords, states, or newspapers
 * [**Visualise Trove newspaper searches over time**](visualise-searches-over-time.ipynb) – use facets to slice up newspaper search results and visualise over time
 * [**Map Trove newspaper results by state**](Map-newspaper-results-by-state.ipynb) – create a choropleth map to visualise search results by state
 * [**Map Trove newspaper results by place of publication**](Map-newspaper-results-by-place-of-publication.ipynb) – links newspapers to their place of publication and maps the results

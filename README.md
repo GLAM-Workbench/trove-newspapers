@@ -14,7 +14,8 @@ This repository contains Jupyter notebooks to work with data from Trove's newspa
 
 ### Visualising searches
 
-* [**QueryPic Deconstructed**](QueryPic_deconstructed.ipynb) – simple app to visualise newspaper searches over time
+* [**QueryPic**](querypic.ipynb) – simple app to visualise newspaper searches over time, this is the latest version with many new features
+* [**QueryPic Deconstructed**](QueryPic_deconstructed.ipynb) – an older version of QueryPic that lets you build queries using keywords, states, or newspapers
 * [**Visualise Trove newspaper searches over time**](visualise-searches-over-time.ipynb) – use facets to slice up newspaper search results and visualise over time
 * [**Map Trove newspaper results by state**](Map-newspaper-results-by-state.ipynb) – create a choropleth map to visualise search results by state
 * [**Map Trove newspaper results by place of publication**](Map-newspaper-results-by-place-of-publication.ipynb) – links newspapers to their place of publication and maps the results
@@ -69,7 +70,7 @@ There are a number of different ways to use these notebooks. Binder is quickest 
 
 ### Using Binder
 
-[![Launch on Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GLAM-Workbench/trove-newspapers/master/?urlpath=lab)
+[![Launch on Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GLAM-Workbench/trove-newspapers/master/?urlpath=lab/tree/index.md)
 
 Click on the button above to launch the notebooks in this repository using the [Binder](https://mybinder.org/) service (it might take a little while to load). This is a free service, but note that sessions will close if you stop using the notebooks, and no data will be saved. Make sure you download any changed notebooks or harvested data that you want to save.
 
@@ -108,8 +109,8 @@ If you know your way around the command line and are comfortable installing soft
 
 Assuming you have recent versions of Python and Git installed, the steps might be something like:
 
-* Create a virtual environment, eg: `python -m venv trove-harvester`
-* Open the new directory" `cd trove-harvester`
+* Create a virtual environment, eg: `python -m venv trove-newspapers`
+* Open the new directory" `cd trove-newspapers`
 * Activate the environment `source bin/activate`
 * Clone the repository: `git clone https://github.com/GLAM-Workbench/trove-newspapers.git notebooks`
 * Open the new `notebooks` directory: `cd notebooks`

@@ -1,0 +1,22 @@
+jupyterlab
+voila
+voila-material @ git+https://github.com/GLAM-Workbench/voila-material.git
+beautifulsoup4
+pycountry
+langdetect
+pillow
+folium
+requests_cache
+arrow
+surt
+pandas
+ipywidgets
+language_tags
+tqdm
+altair
+pyzotero @ git+https://github.com/wragge/pyzotero.git
+requests
+lxml
+trove-query-parser
+pycld3
+rectpack

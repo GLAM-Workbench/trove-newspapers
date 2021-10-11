@@ -42,12 +42,12 @@ jobs:
 
     - name: Modify readme for DockerHub
       run: |
-        sed -i -r 's/\[(.*)\]\(.*\.ipynb\)/\1/' index.md
+        sed -i -r 's/\[(.*)\]\(.*\.ipynb\)/\1/' README.md
 
     - name: push README to Quay.io
       uses: christian-korneck/update-container-description-action@v1
       env:
-        DOCKER_APIKEY: ${{ secrets.APIKEY__QUAY_IO }}
+        DOCKER_APIKEY: ${{ secrets.API_KEY__QUAY_IO }}
       with:
         destination_container_repo: quay.io/glamworkbench/trove-newspapers
         provider: quay

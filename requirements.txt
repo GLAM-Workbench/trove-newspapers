@@ -60,7 +60,7 @@ entrypoints==0.3
     #   altair
     #   jupyterlab-server
     #   nbconvert
-feedparser==5.2.1
+feedparser==6.0.8
     # via pyzotero
 filelock==3.3.0
     # via tldextract
@@ -250,7 +250,7 @@ pyzmq==22.3.0
     #   jupyter-client
     #   jupyter-server
     #   notebook
-pyzotero==1.4.25
+pyzotero @ git+https://github.com/wragge/pyzotero.git
     # via -r requirements.in
 rectpack==0.2.1
     # via -r requirements.in
@@ -275,6 +275,8 @@ send2trash==1.8.0
     # via
     #   jupyter-server
     #   notebook
+sgmllib3k==1.0.0
+    # via feedparser
 six==1.16.0
     # via
     #   bleach

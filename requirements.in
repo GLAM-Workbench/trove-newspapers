@@ -14,7 +14,7 @@ ipywidgets
 language_tags
 tqdm
 altair
-pyzotero
+pyzotero @ git+https://github.com/wragge/pyzotero.git
 requests
 lxml
 trove-query-parser

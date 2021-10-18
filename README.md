@@ -74,6 +74,8 @@ There are a number of different ways to use these notebooks. Binder is quickest 
 
 Click on the button above to launch the notebooks in this repository using the [Binder](https://mybinder.org/) service (it might take a little while to load). This is a free service, but note that sessions will close if you stop using the notebooks, and no data will be saved. Make sure you download any changed notebooks or harvested data that you want to save.
 
+See [Using Binder](https://glam-workbench.net/using-binder/) for more details.
+
 ### Using Reclaim Cloud
 
 [![Launch on Reclaim Cloud](https://glam-workbench.github.io/images/launch-on-reclaim-cloud.svg)](https://app.my.reclaim.cloud/?manifest=https://raw.githubusercontent.com/GLAM-Workbench/trove-newspapers/master/reclaim-manifest.jps)
@@ -86,7 +88,24 @@ Click on the button above to launch the notebooks in this repository using the [
 * Sit back and wait for the installation to complete!
 * Once the installation is finished click on the 'Open in Browser' button of your newly created environment (note that you might need to wait a few minutes before everything is ready).
 
-See the GLAM Workbench for more details.
+See [Using Reclaim Cloud](https://glam-workbench.net/using-reclaim-cloud/) for more details.
+
+### Using the Nectar Research Cloud
+
+The [Nectar Research Cloud](https://ardc.edu.au/services/nectar-research-cloud/) (part of the Australian Research Data Commons) provides cloud computing services to researchers in Australian and New Zealand universities. Any university-affiliated researcher can log on to Nectar and receive [up to 6 months of free cloud computing time](https://tutorials.rc.nectar.org.au/allocation-management/03-account-and-trial). And if you need more, you can [apply for a specific project allocation](https://tutorials.rc.nectar.org.au/allocation-management/04-allocation-and-projects).
+
+The GLAM Workbench is available in the Nectar Cloud as a pre-configured application. This means you can get it up and going without worrying about the technical infrastructure – just fill in a few details and you're away! To create an instance of this repository in the Nectar Cloud:
+
+* Log in to the [Nectar Dashboard](https://dashboard.rc.nectar.org.au/) using your university credentials.
+* From the Dashboard choose **Applications -> Browse Local**.
+* Enter 'GLAM' in the filter box and hit Enter, you should see the GLAM Workbench application.
+* Click on the GLAM Workbench application's  **Quick Deploy** button.
+* Step through the various [configuration options](https://glam-workbench.net/using-nectar/#setting-up-your-own-glam-workbench-repository). Some options are only available if you have a dedicated project allocation.
+* When asked to select a GLAM Workbench repository, choose 'Trove newspapers' from the dropdown.
+* Complete the configuration and deploy your GLAM Workbench instance.
+* The url to access your instance will be displayed once it's ready. Click on the url!
+
+See [Using Nectar](https://glam-workbench.net/using-nectar/) for more details.
 
 ### Using Docker
 
@@ -101,7 +120,7 @@ You can use Docker to run a pre-built computing environment on your own computer
 * It will take a while to download and configure the Docker image. Once it's ready you'll see a message saying that Jupyter Notebook is running.
 * Point your web browser to `http://127.0.0.1:8888`
 
-See the GLAM Workbench for more details.
+See [Using Docker](https://glam-workbench.net/using-docker/) for more details.
 
 ### Setting up on your own computer
 
@@ -117,7 +136,7 @@ Assuming you have recent versions of Python and Git installed, the steps might b
 * Install the necessary Python packages: `pip install -r requirements.txt`
 * Run Jupyter: `jupyter lab`
 
-See the GLAM Workbench for more details.
+See the [GLAM Workbench for [more details](https://glam-workbench.net/getting-started/#using-python-on-your-own-computer.
 
 <!-- END RUN INFO -->
 

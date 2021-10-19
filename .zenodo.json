@@ -5,7 +5,7 @@
     "related_identifiers": [
         {
             "scheme": "url",
-            "identifier": "https://github.com/GLAM-Workbench/trove-newspapers/tree/v1.0.2",
+            "identifier": "https://github.com/GLAM-Workbench/trove-newspapers/tree/v1.1.0",
             "relation": "isDerivedFrom",
             "resource_type": "software"
         },
@@ -20,14 +20,9 @@
             "identifier": "https://glam-workbench.net/",
             "relation": "isPartOf",
             "resource_type": "other"
-        },
-        {
-            "scheme": "doi",
-            "identifier": "10.5281/zenodo.3521724",
-            "relation": "isVersionOf"
         }
     ],
-    "version": "v1.0.2",
+    "version": "v1.1.0",
     "upload_type": "software",
     "keywords": [
         "digital humanities",
@@ -36,7 +31,7 @@
         "newspapers",
         "GLAM Workbench"
     ],
-    "publication_date": "2021-04-28",
+    "publication_date": "2021-10-18",
     "creators": [
         {
             "orcid": "0000-0001-7956-4498",

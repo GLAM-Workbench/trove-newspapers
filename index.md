@@ -10,10 +10,12 @@ This repository contains Jupyter notebooks to work with data from Trove's newspa
 * [**Analyse rates of OCR correction**](Analysing_OCR_corrections.ipynb) – explore patterns in OCR text correction; how many corrections are there and where have they been made?
 * [**Finding non-English newspapers in Trove**](find-non-english-newspapers.ipynb) – use automated language detection to identify non-English language newspapers in Trove
 * [**Beyond the copyright cliff of death**](Beyond_the_copyright_cliff_of_death.ipynb) – find newspapers with content published after 1954
+* [**Gathering historical data about the addition of newspaper titles to Trove**](historical-data-newspaper-titles.ipynb) – find when newspaper titles were added to Trove by extracting lists from web archives
 
 ### Visualising searches
 
-* [**QueryPic Deconstructed**](QueryPic_deconstructed.ipynb) – simple app to visualise newspaper searches over time
+* [**QueryPic**](querypic.ipynb) – simple app to visualise newspaper searches over time, this is the latest version with many new features
+* [**QueryPic Deconstructed**](QueryPic_deconstructed.ipynb) – an older version of QueryPic that lets you build queries using keywords, states, or newspapers
 * [**Visualise Trove newspaper searches over time**](visualise-searches-over-time.ipynb) – use facets to slice up newspaper search results and visualise over time
 * [**Map Trove newspaper results by state**](Map-newspaper-results-by-state.ipynb) – create a choropleth map to visualise search results by state
 * [**Map Trove newspaper results by place of publication**](Map-newspaper-results-by-place-of-publication.ipynb) – links newspapers to their place of publication and maps the results
@@ -44,6 +46,10 @@ See the [GLAM Workbench for more details](https://glam-workbench.github.io/trove
 
 ### Data files
 
+* CSV formatted lists of newspaper titles in Trove
+  * [trove_newspaper_titles_2009_2021.csv](trove_newspaper_titles_2009_2021.csv) – complete dataset of captures and titles
+  * [trove_newspaper_titles_first_appearance_2009_2021.csv](trove_newspaper_titles_first_appearance_2009_2021.csv) – filtered dataset, showing only the first appearance of each title / place / date range combination
+  * There is also an [alphabetical list of newspaper titles](https://gist.github.com/wragge/7d80507c3e7957e271c572b8f664031a), showing approximately when they first appeared in Trove.
 * [CSV formatted list of Australian Women's Weekly issues, 1933 to 1982](data/aww-issues.csv)
 * [Australian Women's Weekly front covers, 1933 to 1982](https://cloudstor.aarnet.edu.au/plus/s/NaKjoKNFOGXXDNN) (2,566 images on Cloudstor)
 For easy browsing, I've compiled the images into a set of PDF files, one for each decade, available from Dropbox:

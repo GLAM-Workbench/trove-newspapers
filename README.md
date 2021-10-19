@@ -1,5 +1,7 @@
 # Trove newspapers
 
+Current version: [v1.1.1](https://github.com/GLAM-Workbench/trove-newspapers/releases/tag/v1.1.1)
+
 This repository contains Jupyter notebooks to work with data from Trove's newspapers zone. For more information see the [Trove Newspapers](https://glam-workbench.net/trove-newspapers/) section of the GLAM Workbench.
 
 ## Notebook topics

@@ -1,10 +1,11 @@
 # Trove newspapers
 
-Current version: [v1.1.3](https://github.com/GLAM-Workbench/trove-newspapers/releases/tag/v1.1.3)
+Current version: [v1.2.0](https://github.com/GLAM-Workbench/trove-newspapers/releases/tag/v1.2.0)
 
 This repository contains Jupyter notebooks to work with data from Trove's newspapers zone. For more information see the [Trove Newspapers](https://glam-workbench.net/trove-newspapers/) section of the GLAM Workbench.
 
 ## Notebook topics
+
 
 ### Trove newspapers in context
 
@@ -23,13 +24,23 @@ This repository contains Jupyter notebooks to work with data from Trove's newspa
 * [**Map Trove newspaper results by place of publication**](Map-newspaper-results-by-place-of-publication.ipynb) – links newspapers to their place of publication and maps the results
 * [**Map Trove newspaper results by place of publication over time**](Map-newspaper-results-by-place-of-publication-over-time.ipynb) – adds a time dimension to the example above
 
+
+### Harvesting data
+
+See the [Trove Newspaper and Gazette Harvester](https://glam-workbench.net/trove-harvester/) if you want to harvest all the articles from a search.
+
+* [**Harvest information about newspaper issues**](harvest_newspaper_issues.ipynb) – get information about available issues for each newspaper from the Trove API
+* [**Harvest the issues of a newspaper as PDFs**](harvest_newspaper_issues_as_pdfs.ipynb) – harvest available issues of a newspaper as PDFs
+* [**Harvest Australian Women's Weekly covers (or the front pages of any newspaper)**](harvest-aww-covers-and-newspaper-front-pages.ipynb) – harvest the front pages of any newspaper, including covers from the Australian Women's Weekly
+
+
 ### Useful tools
 
 * [**Save a Trove newspaper article as an image**](Save-Trove-newspaper-article-as-image.ipynb) – grabs the page on which an article was published, and then crops the page image to the boundaries of the article to create a complete, intact image of the article as it was originally published
 * [**Download a page image**](Save-page-image.ipynb) – a simple app that lets you download page images as complete, high-resolution JPG files
 * [**Generate an article thumbnail**](Get-article-thumbnail.ipynb) – generate a nice square thumbnail image for a newspaper article
 * [**Upload Trove newspaper articles to Omeka-S**](Upload-Trove-newspapers-to-Omeka.ipynb) – steps through the process of uploading Trove newspaper articles to your own Omeka-S instance via the API
-* [**Harvest Australian Women's Weekly covers (or the front pages of any newspaper)**](harvest-aww-covers-and-newspaper-front-pages.ipynb) – harvest the front pages of any newspaper, including covers from the Australian Women's Weekly
+
 
 ### Tips and tricks
 
@@ -38,6 +49,7 @@ This repository contains Jupyter notebooks to work with data from Trove's newspa
 * [**Get a list of Trove newspapers that doesn't include government gazettes**](Get_newspaper_titles_not_including_gazettes.ipynb) – workaround for a problem with the `newspaper/titles` endpoint of the API
 * [**Get the page coordinates of a digitised newspaper article from Trove**](trove-newspapers-get-coordinates-of-articles.ipynb) – demonstrates how to find the coordinates of a newspaper article on a digitised page
 
+
 ### Get creative
 
 * [**Make composite images from lots of Trove newspaper thumbnails**](Composite-thumbnails.ipynb) – creates thumbnails from a search and compiles them into a mega image
@@ -45,6 +57,7 @@ This repository contains Jupyter notebooks to work with data from Trove's newspa
 * [**Create large composite images from snipped words**](trove-newspapers-create-composite-from-words.ipynb) – harvest multiple versions of a list of words and compile them all into one big image
 
 See the [GLAM Workbench for more details](https://glam-workbench.github.io/trove-newspapers/).
+
 
 ### Data files
 
@@ -65,6 +78,7 @@ For easy browsing, I've compiled the images into a set of PDF files, one for eac
 * [Trove newspapers with articles published after 1954](newspapers_post_54.csv)
 
 <!-- START RUN INFO -->
+
 
 ## Run these notebooks
 

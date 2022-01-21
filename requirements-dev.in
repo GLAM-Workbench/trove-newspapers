@@ -1,0 +1,7 @@
+pytest
+nbval
+nbqa
+black[jupyter]
+isort
+flake8
+pre-commit

@@ -2028,14 +2028,94 @@ title_id,full_title,title,place,dates,capture_date,capture_timestamp
 1707,"Jewish Weekly News (Melbourne, Vic. : 1933 - 1935)",Jewish Weekly News,"Melbourne, VIC",1933 - 1935,2021-03-11,20210311060139
 1655,"Nor'West Times and Northern Advocate (Roebourne, WA : 1891 - 1894)",Nor'West Times and Northern Advocate,"Roebourne, WA",1891 - 1894,2021-03-11,20210311060139
 1701,"Sun (Kalgoorlie, WA : 1939)",Sun,"Kalgoorlie, WA",1939,2021-03-11,20210311060139
-1492,"Border Morning Mail (Albury, NSW : 1938 - 1950)",Border Morning Mail,"Albury, NSW",1938 - 1950,2021-04-15,20210415021550
-1699,Campbelltown Ingleburn News (NSW : 1953 - 1954),Campbelltown Ingleburn News,NSW,1953 - 1954,2021-04-15,20210415021550
-1697,Cowra Guardian and Lachlan Agricultural Recorder (NSW : 1896 - 1907),Cowra Guardian and Lachlan Agricultural Recorder,NSW,1896 - 1907,2021-04-15,20210415021550
-1698,The Campbelltown News (NSW : 1920 - 1929),The Campbelltown News,NSW,1920 - 1929,2021-04-15,20210415021550
-1680,"Coromandel (Blackwood, SA : 1945 - 1970)",Coromandel,"Blackwood, SA",1945 - 1970,2021-04-15,20210415021550
-1681,"Coromandel Times (Blackwood, SA : 1970 - 1976)",Coromandel Times,"Blackwood, SA",1970 - 1976,2021-04-15,20210415021550
-1700,"Port Lincoln, Tumby and West Coast Recorder (SA : 1904 - 1909)","Port Lincoln, Tumby and West Coast Recorder",SA,1904 - 1909,2021-04-15,20210415021550
-1702,"West Coast Recorder (Port Lincoln, SA : 1909 - 1942)",West Coast Recorder,"Port Lincoln, SA",1909 - 1942,2021-04-15,20210415021550
-1703,"Express, Bacchus Marsh (Vic. : 1943 - 1954)","Express, Bacchus Marsh",VIC,1943 - 1954,2021-04-15,20210415021550
-310,Richmond Guardian (Vic. : 1885; 1904 - 1922),Richmond Guardian,VIC,1885; 1904 - 1922,2021-04-15,20210415021550
-1638,"Miner's Right (Boulder, WA : 1897)",Miner's Right,"Boulder, WA",1897,2021-04-15,20210415021550
+1492,"Border Morning Mail (Albury, NSW : 1938 - 1950)",Border Morning Mail,"Albury, NSW",1938 - 1950,2021-04-10,20210410135733
+1699,Campbelltown Ingleburn News (NSW : 1953 - 1954),Campbelltown Ingleburn News,NSW,1953 - 1954,2021-04-10,20210410135733
+1697,Cowra Guardian and Lachlan Agricultural Recorder (NSW : 1896 - 1907),Cowra Guardian and Lachlan Agricultural Recorder,NSW,1896 - 1907,2021-04-10,20210410135733
+1698,The Campbelltown News (NSW : 1920 - 1929),The Campbelltown News,NSW,1920 - 1929,2021-04-10,20210410135733
+1680,"Coromandel (Blackwood, SA : 1945 - 1970)",Coromandel,"Blackwood, SA",1945 - 1970,2021-04-10,20210410135733
+1681,"Coromandel Times (Blackwood, SA : 1970 - 1976)",Coromandel Times,"Blackwood, SA",1970 - 1976,2021-04-10,20210410135733
+1700,"Port Lincoln, Tumby and West Coast Recorder (SA : 1904 - 1909)","Port Lincoln, Tumby and West Coast Recorder",SA,1904 - 1909,2021-04-10,20210410135733
+1702,"West Coast Recorder (Port Lincoln, SA : 1909 - 1942)",West Coast Recorder,"Port Lincoln, SA",1909 - 1942,2021-04-10,20210410135733
+1703,"Express, Bacchus Marsh (Vic. : 1943 - 1954)","Express, Bacchus Marsh",VIC,1943 - 1954,2021-04-10,20210410135733
+310,Richmond Guardian (Vic. : 1885; 1904 - 1922),Richmond Guardian,VIC,1885; 1904 - 1922,2021-04-10,20210410135733
+1638,"Miner's Right (Boulder, WA : 1897)",Miner's Right,"Boulder, WA",1897,2021-04-10,20210410135733
+1725,"North-Western Watchman (Coonabarabran, NSW : 1936 - 1949)",North-Western Watchman,"Coonabarabran, NSW",1936 - 1949,2021-06-10,20210610123012
+1708,"Daylight (Adelaide, SA : 1919 - 1928)",Daylight,"Adelaide, SA",1919 - 1928,2021-06-10,20210610123012
+1712,"Northern District Times (North Adelaide, SA : 1937 - 1938)",Northern District Times,"North Adelaide, SA",1937 - 1938,2021-06-10,20210610123012
+1686,"Australier Leben = Australian Life (Melbourne, Vic. : 1931 - 1933)",Australier Leben = Australian Life,"Melbourne, VIC",1931 - 1933,2021-06-10,20210610123012
+1704,"West Bourke and South Grant Guardian (Bacchus Marsh, Vic. : 1869 - 1970)",West Bourke and South Grant Guardian,"Bacchus Marsh, VIC",1869 - 1970,2021-06-10,20210610123012
+1729,"Miner's Right (Perth, WA : 1894)",Miner's Right,"Perth, WA",1894,2021-06-10,20210610123012
+1546,"Phillips River Times (Ravensthorpe, WA : 1908 - 1911)",Phillips River Times,"Ravensthorpe, WA",1908 - 1911,2021-06-10,20210610123012
+1724,Bligh Watchman and Coonabarabran Gazette (NSW : 1898 - 1910),Bligh Watchman and Coonabarabran Gazette,NSW,1898 - 1910,2021-08-11,20210811221224
+1492,"Border Morning Mail (Albury, NSW : 1938 - 1949)",Border Morning Mail,"Albury, NSW",1938 - 1949,2021-08-11,20210811221224
+1699,Campbelltown Ingleburn News (NSW : 1953 - 1954),Campbelltown Ingleburn News,NSW,1953 - 1954,2021-08-11,20210811221224
+1698,Campbelltown News (NSW : 1920 - 1929),Campbelltown News,NSW,1920 - 1929,2021-08-11,20210811221224
+1697,Cowra Guardian and Lachlan Agricultural Recorder (NSW : 1896 - 1907),Cowra Guardian and Lachlan Agricultural Recorder,NSW,1896 - 1907,2021-08-11,20210811221224
+664,Gundagai Independent (NSW : 1928 - 1954),Gundagai Independent,NSW,1928 - 1954,2021-08-11,20210811221224
+1726,"Now (Potts Point, NSW : 1968 - 1975)",Now,"Potts Point, NSW",1968 - 1975,2021-08-11,20210811221224
+1710,Adelaide Examiner (SA : 1841 - 1843),Adelaide Examiner,SA,1841 - 1843,2021-08-11,20210811221224
+1711,"Northern Districts Courier (North Adelaide, SA : 1925 - 1927)",Northern Districts Courier,"North Adelaide, SA",1925 - 1927,2021-08-11,20210811221224
+1700,"Port Lincoln, Tumby and West Coast Recorder (SA : 1904 - 1909)","Port Lincoln, Tumby and West Coast Recorder",SA,1904 - 1909,2021-08-11,20210811221224
+1709,"Western Mail (Ceduna, SA : 1928 - 1930)",Western Mail,"Ceduna, SA",1928 - 1930,2021-08-11,20210811221224
+22,Hobart Town Gazette (Tas. : 1825 - 1833),Hobart Town Gazette,TAS,1825 - 1833,2021-08-11,20210811221224
+1078,"King Island News (Currie, King Island : 1912 - 19586","King Island News (Currie, King Island : 1912 - 19586",,,2021-08-11,20210811221224
+1715,"Fern Tree Gully News (Upper Ferntree Gully, Vic. : 1923-1938)",Fern Tree Gully News,"Upper Ferntree Gully, VIC",1923 - 1938,2021-08-11,20210811221224
+1716,"Fern Tree Gully and District Times (Boronia, Vic. : 1953-1954)",Fern Tree Gully and District Times,"Boronia, VIC",1953 - 1954,2021-08-11,20210811221224
+296,"Gippsland Farmers' Journal (Traralgon, Vic. : 1893 - 1922)",Gippsland Farmers' Journal,"Traralgon, VIC",1893 - 1922,2021-08-11,20210811221224
+250,Lilydale Express (Vic. : 1886 - 1897 ; 1914 - 1926),Lilydale Express,VIC,1886 - 1897 ; 1914 - 1926,2021-08-11,20210811221224
+1713,"Mountaineer (Ferntree Gully, Vic. : 1920 - 1921)",Mountaineer,"Ferntree Gully, VIC",1920 - 1921,2021-08-11,20210811221224
+586,Narracan Shire Advocate (Vic. : 1889 - 1923),Narracan Shire Advocate,VIC,1889 - 1923,2021-08-11,20210811221224
+1714,"Pilot (Upper Ferntree Gully, Vic. : 1921 - 1922)",Pilot,"Upper Ferntree Gully, VIC",1921 - 1922,2021-08-11,20210811221224
+1287,San Remo Times and Phillip Island and Bass Valley Advertiser (Vic. : 1896 - 1898),San Remo Times and Phillip Island and Bass Valley Advertiser,VIC,1896 - 1898,2021-08-11,20210811221224
+617,Violet Town Sentinel (Vic. : 1894 - 1946),Violet Town Sentinel,VIC,1894 - 1946,2021-08-11,20210811221224
+1365,"Western Port Times and Phillip Island and Bass Valley Advertiser (Grantville, Vic. : 1898 - 1903)",Western Port Times and Phillip Island and Bass Valley Advertiser,"Grantville, VIC",1898 - 1903,2021-08-11,20210811221224
+436,Albury Banner and Wodonga Express (NSW : 1860 - 1938),Albury Banner and Wodonga Express,NSW,1860 - 1938,2021-11-16,20211116090509
+1604,"Revue Australienne : Journal des Interets Francais en Australie ... (Sydney, NSW : 1873 - 1874)",Revue Australienne : Journal des Interets Francais en Australie ...,"Sydney, NSW",1873 - 1874,2021-11-16,20211116090509
+1578,"Catholic Advocate (Brisbane, Qld. : 1911 - 1934; 1936 - 1938)",Catholic Advocate,"Brisbane, QLD",1911 - 1934; 1936 - 1938,2021-11-16,20211116090509
+374,Western Star and Roma Advertiser (Qld. : 1875 - 1948),Western Star and Roma Advertiser,QLD,1875 - 1948,2021-11-16,20211116090509
+1732,"Challenger (Port Lincoln, SA. : 1932 - 1934)",Challenger,"Port Lincoln, SA",1932 - 1934,2021-11-16,20211116090509
+1731,Kimba Dispatch (SA. : 1927 - 1941),Kimba Dispatch,SA,1927 - 1941,2021-11-16,20211116090509
+1329,"South Australian Record (London, England : 1837 - 1840)",South Australian Record,"London, ENGLAND",1837 - 1840,2021-11-16,20211116090509
+1330,"South Australian Record and Australasian Chronicle (London, England : 1840)",South Australian Record and Australasian Chronicle,"London, ENGLAND",1840,2021-11-16,20211116090509
+1331,"South Australian Record and Australasian and South African Chronicle (London, England : 1840 - 1841)",South Australian Record and Australasian and South African Chronicle,"London, ENGLAND",1840 - 1841,2021-11-16,20211116090509
+1736,"Advertiser (Hobart, Tas. : 1837 - 1840)",Advertiser,"Hobart, TAS",1837 - 1840,2021-11-16,20211116090509
+1737,Hobart Town Advertiser (Tas. : 1839 - 1861),Hobart Town Advertiser,TAS,1839 - 1861,2021-11-16,20211116090509
+1696,"Australian Jewish Herald (Melbourne, Vic. : 1935 - 1968)",Australian Jewish Herald,"Melbourne, VIC",1935 - 1968,2021-11-16,20211116090509
+575,Kyneton Guardian (Vic. : 1870 - 1881; 1914 - 1918),Kyneton Guardian,VIC,1870 - 1881; 1914 - 1918,2021-11-16,20211116090509
+1733,Morwell Advocate and Boolara and Mirboo Chronicle (Vic. : 1886),Morwell Advocate and Boolara and Mirboo Chronicle,VIC,1886,2021-11-16,20211116090509
+1734,"Morwell Advocate and Narracan, Boolara and Mirboo Chronicle (Vic. : 1886)","Morwell Advocate and Narracan, Boolara and Mirboo Chronicle",VIC,1886,2021-11-16,20211116090509
+1735,"Narracan Shire Advocate and Yallourn Brown Coal Mine, Walhalla and Thorpdale Lines Echo (Moe, Vic. : 1923 - 1943)","Narracan Shire Advocate and Yallourn Brown Coal Mine, Walhalla and Thorpdale Lines Echo","Moe, VIC",1923 - 1943,2021-11-16,20211116090509
+310,Richmond Guardian (Vic. : 1884 - 1885; 1894 - 1895; 1904 - 1922),Richmond Guardian,VIC,1884 - 1885; 1894 - 1895; 1904 - 1922,2021-11-16,20211116090509
+1585,"Sunraysia Daily (Mildura, Vic. : 1920 - 1932)",Sunraysia Daily,"Mildura, VIC",1920 - 1932,2021-11-16,20211116090509
+1365,"Western Port Times and Phillip Island and Bass Valley Advertiser (Granville, Vic. : 1898 - 1903)",Western Port Times and Phillip Island and Bass Valley Advertiser,"Granville, VIC",1898 - 1903,2021-11-16,20211116090509
+275,"Daily News (Perth, WA : 1882 - 1955)",Daily News,"Perth, WA",1882 - 1955,2021-11-16,20211116090509
+534,Ballan Times (Vic. : 1899 - 1920),Ballan Times,VIC,1899 - 1920,2021-11-20,20211120024020
+293,Brunswick and Coburg Leader (Vic. : 1914 - 1925),Brunswick and Coburg Leader,VIC,1914 - 1925,2021-11-20,20211120024020
+1715,"Fern Tree Gully News (Upper Ferntree Gully, Vic. : 1923-1947)",Fern Tree Gully News,"Upper Ferntree Gully, VIC",1923 - 1947,2021-11-20,20211120024020
+585,Nagambie Times (Vic. : 1882 - 1920),Nagambie Times,VIC,1882 - 1920,2021-11-20,20211120024020
+1738,"Advertiser (Hobart, Tas. : 1861 - 1865)",Advertiser,"Hobart, TAS",1861 - 1865,2021-12-13,20211213153300
+1741,"Herald of Tasmania (Hobart, Tas. : 1845)",Herald of Tasmania,"Hobart, TAS",1845,2021-12-13,20211213153300
+1739,Hobart Town Advertiser : Weekly Edt. (Tas. : 1859 - 1865),Hobart Town Advertiser : Weekly Edt.,TAS,1859 - 1865,2021-12-13,20211213153300
+1740,Hobart Town Herald (Tas. : 1845),Hobart Town Herald,TAS,1845,2021-12-13,20211213153300
+1744,Hobart Town Herald (Tas. : 1880),Hobart Town Herald,TAS,1880,2021-12-13,20211213153300
+1743,Hobart Town Herald and abstinence advocate (Tas. : 1846 - 1847),Hobart Town Herald and abstinence advocate,TAS,1846 - 1847,2021-12-13,20211213153300
+1742,"Hobart Town Herald, or, Southern reporter (Tas. : 1846)","Hobart Town Herald, or, Southern reporter",TAS,1846,2021-12-13,20211213153300
+296,"Gippsland Farmers' Journal (Traralgon, Vic. : 1893 - 1918)",Gippsland Farmers' Journal,"Traralgon, VIC",1893 - 1918,2021-12-13,20211213153300
+310,Richmond Guardian (Vic. : 1884 - 1885; 1894 - 1895; 1902 - 1924),Richmond Guardian,VIC,1884 - 1885; 1894 - 1895; 1902 - 1924,2021-12-13,20211213153300
+1519,"Dawn (Perth, WA : 1921 - 1949)",Dawn,"Perth, WA",1921 - 1949,2021-12-13,20211213153300
+422,Forbes Times (NSW : 1899 - 1902; 1912 - 1920),Forbes Times,NSW,1899 - 1902; 1912 - 1920,2022-01-10,20220110214554
+1484,"Egotist (Adelaide, SA : 1839)",Egotist,"Adelaide, SA",1839,2022-01-10,20220110214554
+1078,"King Island News (Currie, King Island : 1912 - 1955; 1963 - 1969","King Island News (Currie, King Island : 1912 - 1955; 1963 - 1969",,,2022-01-10,20220110214554
+1747,"Saturday Evening Express (Launceston, Tas. : 1924 - 1954)",Saturday Evening Express,"Launceston, TAS",1924 - 1954,2022-01-10,20220110214554
+1483,Elmore Standard (Vic. : 1882 - 1912),Elmore Standard,VIC,1882 - 1912,2022-01-10,20220110214554
+1704,"West Bourke and South Grant Guardian (Bacchus Marsh, Vic. : 1869 - 1870)",West Bourke and South Grant Guardian,"Bacchus Marsh, VIC",1869 - 1870,2022-01-10,20220110214554
+1365,"Western Port Times and Phillip Island and Bass Valley Advertiser (Granville, Vic. : 1898 - 1904)",Western Port Times and Phillip Island and Bass Valley Advertiser,"Granville, VIC",1898 - 1904,2022-01-10,20220110214554
+1566,"Dampier Herald (Wyalkatchem, W.A. : 1928 - 1937)",Dampier Herald,"Wyalkatchem, W.A",1928 - 1937,2022-01-10,20220110214554
+1518,"Dampier Herald and Bencubbin Chronicle (Wyalkatchem, W.A. : 1937 - 1943)",Dampier Herald and Bencubbin Chronicle,"Wyalkatchem, W.A",1937 - 1943,2022-01-10,20220110214554
+1567,"Dampier Herald and Nungarin Standard (Wyalkatchem, W.A.: 1943 - 1954)",Dampier Herald and Nungarin Standard,"Wyalkatchem, W.A",1943 - 1954,2022-01-10,20220110214554
+1772,"Dawn News-Sheet (Perth, WA : 1950 - 1952)",Dawn News-Sheet,"Perth, WA",1950 - 1952,2022-01-10,20220110214554
+1773,"Dawn Newsletter (Perth, WA : 1952 - 1954)",Dawn Newsletter,"Perth, WA",1952 - 1954,2022-01-10,20220110214554
+1388,"La Rondine (Perth, WA : 1970 - 1974; 1983 - 1984)",La Rondine,"Perth, WA",1970 - 1974; 1983 - 1984,2022-01-10,20220110214554
+1537,"Listening Post (Perth, WA : 1921 - 1954)",Listening Post,"Perth, WA",1921 - 1954,2022-01-10,20220110214554
+99,"Western Argus (Kalgoorlie, WA : 1894 - 1895)",Western Argus,"Kalgoorlie, WA",1894 - 1895,2022-01-10,20220110214554
+1649,"North Coolgardie Herald and Miners Daily News (Menzies, WA : 1899 - 1904)",North Coolgardie Herald and Miners Daily News,"Menzies, WA",1899 - 1904,2022-01-16,20220116142742

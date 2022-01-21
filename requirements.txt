@@ -4,27 +4,25 @@
 #
 #    pip-compile requirements.in
 #
-altair==4.1.0
+altair==4.2.0
     # via -r requirements.in
-anyio==3.3.3
+anyio==3.5.0
     # via jupyter-server
 appdirs==1.4.4
     # via requests-cache
-appnope==0.1.2
-    # via
-    #   ipykernel
-    #   ipython
-argon2-cffi==21.1.0
+argon2-cffi==21.3.0
     # via
     #   jupyter-server
     #   notebook
-argparse==1.4.0
-    # via unittest2
-arrow==1.2.0
+argon2-cffi-bindings==21.2.0
+    # via argon2-cffi
+arrow==1.2.1
     # via
     #   -r requirements.in
     #   trove-query-parser
-attrs==21.2.0
+asttokens==2.0.5
+    # via stack-data
+attrs==21.4.0
     # via
     #   cattrs
     #   jsonschema
@@ -37,63 +35,71 @@ beautifulsoup4==4.10.0
     # via -r requirements.in
 bibtexparser==1.2.0
     # via pyzotero
+black==21.12b0
+    # via ipython
 bleach==4.1.0
     # via nbconvert
 branca==0.4.2
     # via folium
-cattrs==1.8.0
+cattrs==1.10.0
     # via requests-cache
 certifi==2021.10.8
     # via requests
-cffi==1.14.6
-    # via argon2-cffi
-charset-normalizer==2.0.6
+cffi==1.15.0
+    # via argon2-cffi-bindings
+charset-normalizer==2.0.10
     # via requests
-debugpy==1.5.0
+click==8.0.3
+    # via black
+debugpy==1.5.1
     # via ipykernel
-decorator==5.1.0
+decorator==5.1.1
     # via ipython
 defusedxml==0.7.1
     # via nbconvert
 entrypoints==0.3
     # via
     #   altair
+    #   jupyter-client
     #   jupyterlab-server
     #   nbconvert
+executing==0.8.2
+    # via stack-data
 feedparser==6.0.8
     # via pyzotero
-filelock==3.3.0
+filelock==3.4.2
     # via tldextract
-folium==0.12.1
+folium==0.12.1.post1
     # via -r requirements.in
 future==0.18.2
     # via bibtexparser
-idna==3.2
+idna==3.3
     # via
     #   anyio
     #   requests
     #   tldextract
-ipykernel==6.4.1
+importlib-resources==5.4.0
+    # via jsonschema
+ipykernel==6.7.0
     # via
     #   ipywidgets
     #   notebook
-ipython==7.28.0
+ipython==8.0.0
     # via
     #   ipykernel
     #   ipywidgets
     #   jupyterlab
 ipython-genutils==0.2.0
     # via
-    #   ipykernel
     #   ipywidgets
     #   jupyter-server
     #   nbformat
     #   notebook
 ipywidgets==7.6.5
     # via -r requirements.in
-jedi==0.18.0
+jedi==0.18.1
     # via ipython
-jinja2==3.0.2
+jinja2==3.0.3
     # via
     #   altair
     #   branca
@@ -105,19 +111,19 @@ jinja2==3.0.2
     #   notebook
 json5==0.9.6
     # via jupyterlab-server
-jsonschema==4.1.0
+jsonschema==4.4.0
     # via
     #   altair
     #   jupyterlab-server
     #   nbformat
-jupyter-client==6.1.12
+jupyter-client==7.1.1
     # via
     #   ipykernel
     #   jupyter-server
     #   nbclient
     #   notebook
     #   voila
-jupyter-core==4.8.1
+jupyter-core==4.9.1
     # via
     #   jupyter-client
     #   jupyter-server
@@ -125,17 +131,17 @@ jupyter-core==4.8.1
     #   nbconvert
     #   nbformat
     #   notebook
-jupyter-server==1.11.1
+jupyter-server==1.13.3
     # via
     #   jupyterlab
     #   jupyterlab-server
     #   nbclassic
     #   voila
-jupyterlab==3.1.18
+jupyterlab==3.2.8
     # via -r requirements.in
 jupyterlab-pygments==0.1.2
     # via nbconvert
-jupyterlab-server==2.8.2
+jupyterlab-server==2.10.3
     # via jupyterlab
 jupyterlab-widgets==1.0.2
     # via ipywidgets
@@ -143,9 +149,7 @@ langdetect==1.0.9
     # via -r requirements.in
 language-tags==1.1.0
     # via -r requirements.in
-linecache2==1.0.0
-    # via traceback2
-lxml==4.6.3
+lxml==4.7.1
     # via -r requirements.in
 markupsafe==2.0.1
     # via jinja2
@@ -155,13 +159,15 @@ matplotlib-inline==0.1.3
     #   ipython
 mistune==0.8.4
     # via nbconvert
-nbclassic==0.3.2
+mypy-extensions==0.4.3
+    # via black
+nbclassic==0.3.5
     # via jupyterlab
-nbclient==0.5.4
+nbclient==0.5.10
     # via
     #   nbconvert
     #   voila
-nbconvert==6.2.0
+nbconvert==6.4.0
     # via
     #   jupyter-server
     #   notebook
@@ -173,73 +179,82 @@ nbformat==5.1.3
     #   nbclient
     #   nbconvert
     #   notebook
-nest-asyncio==1.5.1
-    # via nbclient
-nose==1.3.7
-    # via rectpack
-notebook==6.4.4
+nest-asyncio==1.5.4
+    # via
+    #   ipykernel
+    #   jupyter-client
+    #   nbclient
+    #   notebook
+notebook==6.4.7
     # via
     #   nbclassic
     #   widgetsnbextension
-numpy==1.21.2
+numpy==1.22.1
     # via
     #   altair
     #   folium
     #   pandas
-packaging==21.0
+packaging==21.3
     # via
     #   bleach
+    #   jupyter-server
     #   jupyterlab
     #   jupyterlab-server
     #   trove-query-parser
-pandas==1.3.3
+pandas==1.3.5
     # via
     #   -r requirements.in
     #   altair
 pandocfilters==1.5.0
     # via nbconvert
-parso==0.8.2
+parso==0.8.3
     # via jedi
-pathlib==1.0.1
-    # via pyzotero
+pathspec==0.9.0
+    # via black
 pexpect==4.8.0
     # via ipython
 pickleshare==0.7.5
     # via ipython
-pillow==8.3.2
+pillow==9.0.0
     # via -r requirements.in
-prometheus-client==0.11.0
+platformdirs==2.4.1
+    # via black
+prometheus-client==0.12.0
     # via
     #   jupyter-server
     #   notebook
-prompt-toolkit==3.0.20
+prompt-toolkit==3.0.24
     # via ipython
 ptyprocess==0.7.0
     # via
     #   pexpect
     #   terminado
+pure-eval==0.2.1
+    # via stack-data
 pycld3==0.22
     # via -r requirements.in
-pycountry==20.7.3
+pycountry==22.1.10
     # via -r requirements.in
-pycparser==2.20
+pycparser==2.21
     # via cffi
-pygments==2.10.0
+pygments==2.11.2
     # via
     #   ipython
     #   jupyterlab-pygments
     #   nbconvert
-pyparsing==2.4.7
+pyparsing==3.0.6
     # via
     #   bibtexparser
     #   packaging
-pyrsistent==0.18.0
+pyrsistent==0.18.1
     # via jsonschema
 python-dateutil==2.8.2
     # via
     #   arrow
     #   jupyter-client
     #   pandas
+python-dotenv==0.19.2
+    # via -r requirements.in
 pytz==2021.3
     # via
     #   babel
@@ -250,11 +265,11 @@ pyzmq==22.3.0
     #   jupyter-client
     #   jupyter-server
     #   notebook
-pyzotero @ git+https://github.com/wragge/pyzotero.git
+pyzotero==1.5.1
     # via -r requirements.in
-rectpack==0.2.1
+rectpack==0.2.2
     # via -r requirements.in
-requests==2.26.0
+requests==2.27.1
     # via
     #   -r requirements.in
     #   folium
@@ -262,15 +277,12 @@ requests==2.26.0
     #   pyzotero
     #   requests-cache
     #   requests-file
-    #   requests-unixsocket
     #   tldextract
     #   trove-query-parser
-requests-cache==0.8.1
+requests-cache==0.9.1
     # via -r requirements.in
 requests-file==1.5.1
     # via tldextract
-requests-unixsocket==0.2.0
-    # via jupyter-server
 send2trash==1.8.0
     # via
     #   jupyter-server
@@ -279,17 +291,19 @@ sgmllib3k==1.0.0
     # via feedparser
 six==1.16.0
     # via
+    #   asttokens
     #   bleach
     #   langdetect
     #   python-dateutil
     #   requests-file
     #   surt
-    #   unittest2
     #   url-normalize
 sniffio==1.2.0
     # via anyio
-soupsieve==2.2.1
+soupsieve==2.3.1
     # via beautifulsoup4
+stack-data==0.1.4
+    # via ipython
 surt==0.3.1
     # via -r requirements.in
 terminado==0.12.1
@@ -300,7 +314,9 @@ testpath==0.5.0
     # via nbconvert
 tldextract==3.1.2
     # via surt
-toolz==0.11.1
+tomli==1.2.3
+    # via black
+toolz==0.11.2
     # via altair
 tornado==6.1
     # via
@@ -312,9 +328,7 @@ tornado==6.1
     #   terminado
 tqdm==4.62.3
     # via -r requirements.in
-traceback2==1.4.0
-    # via unittest2
-traitlets==5.1.0
+traitlets==5.1.1
     # via
     #   ipykernel
     #   ipython
@@ -329,16 +343,15 @@ traitlets==5.1.0
     #   notebook
 trove-query-parser==0.1.1
     # via -r requirements.in
-unittest2==1.1.0
-    # via rectpack
+typing-extensions==4.0.1
+    # via black
 url-normalize==1.4.3
     # via requests-cache
-urllib3==1.26.7
+urllib3==1.26.8
     # via
     #   requests
     #   requests-cache
-    #   requests-unixsocket
-voila==0.2.16
+voila==0.3.0
     # via
     #   -r requirements.in
     #   voila-material
@@ -348,10 +361,14 @@ wcwidth==0.2.5
     # via prompt-toolkit
 webencodings==0.5.1
     # via bleach
-websocket-client==1.2.1
+websocket-client==1.2.3
     # via jupyter-server
-widgetsnbextension==3.5.1
+websockets==10.1
+    # via voila
+widgetsnbextension==3.5.2
     # via ipywidgets
+zipp==3.7.0
+    # via importlib-resources
 
 # The following packages are considered to be unsafe in a requirements file:
 # pip

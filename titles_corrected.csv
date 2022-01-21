@@ -13,9 +13,9 @@ id,title,articles_with_corrections,total_articles,percentage_with_corrections
 1686,"Australier Leben = Australian Life (Melbourne, Vic. : 1931 - 1933)",1,3816,0.026205450733752623
 1745,The Hobart Herald (Tas. : 1880 - 1882),1,3056,0.032722513089005235
 1592,"To Ethnico Vema = Greek National Tribune (Arncliffe, NSW : 1931 - 1954)",29,62861,0.04613353271503794
-1731,Kimba Dispatch (SA. : 1927 - 1941),18,35136,0.05122950819672131
 1732,"The Challenger (Port Lincoln, SA. : 1932 - 1934)",3,5599,0.05358099660653688
 1365,"The Western Port Times and Phillip Island and Bass Valley Advertiser (Granville, Vic. : 1898 - 1904)",7,12684,0.05518763796909492
+1731,Kimba Dispatch (SA. : 1927 - 1941),20,35136,0.056921675774134796
 1597,"L'Italo-Australiano = The Italo-Australian (Sydney, NSW : 1905 - 1909)",6,6106,0.0982640026203734
 1594,"Mu̇sų Pastogė = Our Haven (Sydney, NSW : 1950 - 1954)",9,9060,0.09933774834437085
 1711,"The Northern Districts Courier (North Adelaide, SA : 1925 - 1927)",1,885,0.11299435028248588
@@ -36,13 +36,13 @@ id,title,articles_with_corrections,total_articles,percentage_with_corrections
 1729,"The Miner's Right (Perth, WA : 1894)",1,426,0.2347417840375587
 1716,"Fern Tree Gully and District Times (Boronia, Vic. : 1953-1954)",21,8809,0.2383925530707231
 1518,"Dampier Herald and Bencubbin Chronicle (Wyalkatchem, W.A. : 1937 - 1943)",35,14610,0.23956194387405885
-1739,Hobart Town Advertiser : Weekly Edt. (Tas. : 1859 - 1865),36,14789,0.2434241666103185
 1662,"The Southern Sentinel (Mount Barker, WA : 1934 - 1954)",218,89469,0.24365981513149804
+1739,Hobart Town Advertiser : Weekly Edt. (Tas. : 1859 - 1865),37,14789,0.25018594901616065
 1645,"Norseman Advertiser (Coolgardie, WA : 1935 - 1936)",20,7892,0.25342118601115055
 1707,"The Jewish Weekly News (Melbourne, Vic. : 1933 - 1935)",31,11865,0.2612726506531816
 1666,"The W.A. Sportsman (Kalgoorlie, WA : 1901 - 1902)",11,4129,0.2664083313150884
 1708,"Daylight (Adelaide, SA : 1919 - 1928)",17,6257,0.2716957008150871
-1607,The Boyup Brook Bulletin (WA : 1930 - 1950),257,94381,0.2723005689704495
+1607,The Boyup Brook Bulletin (WA : 1930 - 1950),258,94381,0.27336010425827234
 1604,"Revue Australienne : Journal des Interets Francais en Australie ... (Sydney, NSW : 1873 - 1874)",1,364,0.27472527472527475
 1664,"Sunday Figaro (Kalgoorlie, WA : 1904)",1,362,0.2762430939226519
 1600,"Deutsch-Australische Post : Wochenschrift = German-Australian Post : Weekly (Sydney, NSW : 1893 - 1906)",41,14518,0.2824080451852872
@@ -53,43 +53,43 @@ id,title,articles_with_corrections,total_articles,percentage_with_corrections
 1534,Kondinin-Kulin Kourier and Karlgarin Advocate (WA : 1926 - 1941),104,33117,0.31403810731648396
 1599,"Uniamoci (Sydney, NSW : 1903 - 1904)",3,951,0.31545741324921134
 1661,The Southern Cross News (WA : 1935 - 1957),269,85249,0.31554622341611044
-1694,"The Australian Jewish Times (Sydney, NSW : 1953 - 1990)",893,268379,0.33273840352635636
+1694,"The Australian Jewish Times (Sydney, NSW : 1953 - 1990)",894,268379,0.3331110109211227
 1615,Cue-Big Bell Chronicle and Reedy Recorder (WA : 1937 - 1942),55,16211,0.33927580038245636
 1629,"The Harvey-Waroona Mail (Collie, WA : 1931 - 1956)",109,31867,0.34204663131138796
 1625,Geraldton Murchison Telegraph (WA : 1892 - 1899),99,28847,0.3431899330952959
 1543,Murchison Times and Cue-Big Bell-Reedy Advocate (WA : 1937 - 1942),55,15707,0.350162347997708
 1738,"The Advertiser (Hobart, Tas. :  1861 - 1865)",116,33108,0.3503684909991543
-1626,"The Goldfields Observer (Kalgoorlie, WA : 1930 - 1939)",228,64470,0.35365286179618427
+1626,"The Goldfields Observer (Kalgoorlie, WA : 1930 - 1939)",229,64470,0.35520397083915
 1624,The York Leader and Quairading and Dangin Herald (WA : 1935 - 1947),97,27029,0.3588738022124385
 1380,"Stampa Italiana = The Italian Press (Perth, WA : 1931 - 1932)",9,2493,0.36101083032490977
 1602,"Italian Bulletin of Australia (Sydney, NSW : 1922 - 1928, 1935 - 1940)",17,4697,0.3619331488183947
 1544,"The Northern Grazier and Miner (Leonora, WA : 1929 - 1944)",291,79991,0.3637909264792289
-1693,"The Sydney Jewish News (Sydney, N.S.W : 1939 - 1954)",263,71686,0.36687777250788156
 1653,Northam News (WA : 1947 - 1954),177,48001,0.36874231786837774
 1656,The Nungarin Standard (WA : 1934 - 1939),42,11346,0.370174510840825
+1693,"The Sydney Jewish News (Sydney, N.S.W : 1939 - 1954)",266,71686,0.3710626900650057
 1557,"Weekly Judge (Perth, WA : 1919 - 1931)",149,38456,0.38745579363428334
 1637,"The Miner (Norseman, WA : 1896 - 1897)",32,8180,0.3911980440097799
-1696,"The Australian Jewish Herald (Melbourne, Vic. : 1935 - 1968)",364,92124,0.39511962137987927
+1696,"The Australian Jewish Herald (Melbourne, Vic. : 1935 - 1968)",365,92124,0.3962051148452086
 1655,"Nor'West Times and Northern Advocate (Roebourne, WA : 1891 - 1894)",21,5207,0.4033032456308815
 1681,"The Coromandel Times (Blackwood, SA : 1970 - 1976)",40,9900,0.40404040404040403
 1640,The Mount Magnet Leader and Youanmi Miner (WA : 1935 - 1947),142,33377,0.42544267010216613
 1517,Corrigin Chronicle and Kunjin-Bullaring Representative (WA : 1925 - 1943),140,32302,0.4334096959940561
-1559,The Wiluna Miner (WA : 1931 - 1947),260,59866,0.43430327731934654
 1647,The Norseman-Esperance News (WA : 1936 - 1954),382,87632,0.43591382143509216
-1702,"West Coast Recorder (Port Lincoln, SA : 1909 - 1942)",466,104481,0.4460141078282176
-1737,The Hobart Town Advertiser (Tas. : 1839 - 1861),431,96605,0.4461466797784794
-1685,"The Australian Jewish News (Melbourne, Vic. : 1935 - 1999)",3326,723789,0.45952618788072214
-1658,"The Preston Mail and District Advocate (Collie, WA : 1932 - 1954)",247,52769,0.4680778487369478
+1559,The Wiluna Miner (WA : 1931 - 1947),262,59866,0.43764407176026465
+1702,"West Coast Recorder (Port Lincoln, SA : 1909 - 1942)",467,104481,0.44697121964759146
+1737,The Hobart Town Advertiser (Tas. : 1839 - 1861),436,96605,0.45132239532115315
+1685,"The Australian Jewish News (Melbourne, Vic. : 1935 - 1999)",3345,723789,0.46215126231539855
 1636,Menzies Weekly Times (WA : 1897 - 1898),26,5548,0.4686373467916366
+1658,"The Preston Mail and District Advocate (Collie, WA : 1932 - 1954)",250,52769,0.47376300479448163
 1639,The Mount Barker-Denmark Sentinel and Cranbrook Chronicle (WA : 1930),4,844,0.47393364928909953
-1568,"North-Eastern Courier (Perth, WA : 1923 - 1955)",487,101252,0.48097815351795514
+1568,"North-Eastern Courier (Perth, WA : 1923 - 1955)",488,101252,0.4819657883301071
 1691,"The Australasian Hebrew (Sydney, NSW : 1895 - 1896)",10,2027,0.493339911198816
 1701,"The Sun (Kalgoorlie, WA : 1939)",35,7089,0.4937226689236846
 1606,"The Australian Advertiser (Albany, WA : 1888 - 1897)",341,68798,0.495653943428588
 1542,"The Murchison Times (Cue, WA : 1924 - 1937)",284,55074,0.5156698260522207
 1567,"Dampier Herald and Nungarin Standard (Wyalkatchem, W.A.: 1943 - 1954)",170,32873,0.517141727253369
 1591,"Die Brucke = The Bridge (Sydney, NSW : 1934 - 1939)",73,14088,0.5181714934696195
-1657,The Pemberton Post (WA : 1937 - 1950),280,52777,0.5305341341872406
+1657,The Pemberton Post (WA : 1937 - 1950),281,52777,0.532428898952195
 1616,"The Denmark Post (Albany, WA : 1949 - 1954)",102,18657,0.5467116899823122
 1564,The Northern Producer and Morawa and Perenjori Advertiser (WA : 1928 - 1930),60,10932,0.5488474204171241
 1648,The North Coolgardie Herald and Menzies Times (WA : 1896 - 1898),98,17372,0.5641261800598665
@@ -97,10 +97,10 @@ id,title,articles_with_corrections,total_articles,percentage_with_corrections
 1608,Broome Chronicle and Nor'West Advertiser (WA : 1908 - 1912),61,10124,0.6025286448044251
 1540,"The Miners' Daily News (Menzies, WA : 1896 - 1898)",96,15915,0.6032045240339303
 705,"Chinese Times (Melbourne, Vic. : 1902 - 1922)",337,55040,0.612281976744186
-1618,Esperance Chronicle and Dundas and Norseman Advertiser (WA : 1895 - 1898),48,7521,0.6382130035899481
 1530,"The Golden Age (Coolgardie, WA : 1894 - 1898)",344,53858,0.6387166251995989
 934,"The Eastern Recorder (Kellerberrin, WA : 1909 - 1954)",1784,274713,0.6494050154160887
 1556,"The Weekly Herald (Fremantle, WA : 1922 - 1926)",97,14931,0.6496550800348269
+1618,Esperance Chronicle and Dundas and Norseman Advertiser (WA : 1895 - 1898),49,7521,0.6515091078314054
 1443,"North-Eastern Wheatbelt Tribune (Wyalkatchem, WA : 1926 - 1940)",233,35695,0.6527524863426251
 1531,"The Guardian : Suburban and Municipal Recorder (Claremont, WA : 1903 - 1908)",70,10653,0.6570918989955882
 1623,Geraldton Express and Murchison Goldfields News (WA : 1894 - 1896),53,7850,0.6751592356687898
@@ -109,23 +109,23 @@ id,title,articles_with_corrections,total_articles,percentage_with_corrections
 1638,"The Miner's Right (Boulder, WA : 1897)",6,879,0.6825938566552902
 1395,Ballidu-Wongan Budget (WA : 1927 - 1941),434,63251,0.6861551596022197
 704,"Guang yi hua bao = The Chinese Australian Herald (Sydney, NSW : 1894 - 1923)",514,74454,0.6903591479302656
-1695,"The Australian Jewish News (Sydney, NSW : 1990 - 2008)",1361,192991,0.7052142327880575
+1695,"The Australian Jewish News (Sydney, NSW : 1990 - 2008)",1366,192991,0.7078050271774331
 1552,"The Swan Leader (Victoria Park, WA : 1931 - 1937)",162,22753,0.7119940227662287
-1578,"The Catholic Advocate (Brisbane, Qld. : 1911 - 1934; 1936 - 1938)",1018,142646,0.7136547817674522
+1578,"The Catholic Advocate (Brisbane, Qld. : 1911 - 1934; 1936 - 1938)",1022,142646,0.7164589262930611
 1612,"The Coalfields Star (Collie, WA : 1934)",14,1942,0.7209062821833162
 1504,"The Arena-Sun (Melbourne, Vic. : 1903 - 1904)",29,4010,0.7231920199501247
 1631,Kojonup Courier (WA : 1951 - 1958),158,21747,0.7265369936083138
 1683,"The Prospecter (Fitzroy, SA : 1978 - 1984)",14,1919,0.7295466388744137
 1546,"The Phillips River Times (Ravensthorpe, WA : 1908 - 1911)",125,17037,0.7336972471679286
 1044,"Dutch Australian Weekly (Sydney, NSW : 1951 - 1993)",1258,169766,0.7410199922245915
-1078,"King Island News (Currie, King Island : 1912 - 1955; 1963 - 1969",1158,154830,0.7479170703352064
+1078,"King Island News (Currie, King Island : 1912 - 1955; 1963 - 1969",1161,154830,0.749854679325712
 1712,"Northern District Times (North Adelaide, SA : 1937 - 1938)",2,257,0.7782101167315175
 1574,"Progress (North Fitzroy, Vic. : 1889 - 1890)",2,254,0.7874015748031495
 1407,"Dampier Despatch (Broome, WA : 1904 - 1905)",7,871,0.8036739380022963
-1481,Toowoomba Chronicle and Darling Downs Gazette (Qld. : 1922 - 1933),4986,611636,0.815190734358344
+1481,Toowoomba Chronicle and Darling Downs Gazette (Qld. : 1922 - 1933),4996,611636,0.8168256937132542
 1434,Wiluna Chronicle and East Murchison Advocate (WA : 1924 - 1931),195,23804,0.8191900520920854
 1453,Koorda Record (WA : 1934 - 1939),101,12154,0.8310021392134277
-1537,"Listening Post (Perth, WA : 1921 - 1954)",221,26547,0.8324857799374694
+1537,"Listening Post (Perth, WA : 1921 - 1954)",222,26547,0.8362526839190868
 1426,"Wheatbelt Tribune and Koorda Record (Wyalkatchem, WA : 1940 - 1954)",391,46716,0.8369723435225619
 1535,"The Leader (Perth, WA : 1923 - 1928)",214,25057,0.854052759707866
 1184,"Tung Wah Times (Sydney, NSW : 1901 - 1936)",937,108186,0.8661009742480543
@@ -133,28 +133,27 @@ id,title,articles_with_corrections,total_articles,percentage_with_corrections
 1446,Narembeen Observer (WA : 1928 - 1933),204,23107,0.8828493530099105
 1550,"The Swan and Canning Leader (Victoria Park, WA : 1928 - 1929)",118,13354,0.8836303729219709
 1698,The Campbelltown News (NSW : 1920 - 1953),526,58889,0.8932058618757323
-1539,Manjimup and Warren Times (WA : 1927 - 1954),874,96853,0.9023984801709808
+1539,Manjimup and Warren Times (WA : 1927 - 1954),875,96853,0.9034309727112222
 1315,"The Weekly Gazette (Goomalling, WA : 1924 - 1946)",657,72558,0.9054825105432895
 1436,The Southern Cross Miner (WA : 1899 - 1902),37,4080,0.9068627450980393
 1622,The Geraldton Express and Murchison and Yalgo Goldfields Chronicler (WA : 1896 - 1905),512,56242,0.9103516944632125
 1505,"The Wheatbelt Wheatsheaf and Dampier Advocate (Merredin, WA : 1930 - 1939)",126,13813,0.912184174328531
-1492,"Border Morning Mail (Albury, NSW : 1938 - 1949)",5065,554607,0.913259298926988
+1492,"Border Morning Mail (Albury, NSW : 1938 - 1949)",5087,554607,0.9172260717949828
 1424,Nelson Advocate (WA : 1926 - 1938),594,64219,0.9249599028324951
 1425,Wongan-Ballidu Budget (WA : 1941 - 1954),406,43696,0.9291468326620286
-1082,The Narrogin Observer (WA : 1918 - 1955),1187,126910,0.9353084863288945
+1082,The Narrogin Observer (WA : 1918 - 1955),1188,126910,0.9360964463005279
 1394,Avon Argus and Cunderdin-Meckering-Tammin Mail (WA : 1925 - 1954),1285,136275,0.9429462483947899
-1703,"The Express, Bacchus Marsh (Vic. : 1943 - 1954)",343,36163,0.948483256367005
+1703,"The Express, Bacchus Marsh (Vic. : 1943 - 1954)",344,36163,0.9512485136741973
 1457,Kanowna Herald (WA : 1898),76,7976,0.9528585757271816
-1659,"The Reliance Weekly (Narrogin, WA : 1952 - 1954)",140,14689,0.9530941520865954
-1287,The San Remo Times and Phillip Island and Bass Valley Advertiser (Vic. : 1896 - 1898),55,5745,0.9573542210617928
 1405,Corrigin Broadcaster and Peoples Weekly (WA : 1930 - 1933),36,3753,0.9592326139088728
-1523,"The Evening Mail (Fremantle, WA : 1905 - 1910)",1536,159397,0.96363168692008
+1659,"The Reliance Weekly (Narrogin, WA : 1952 - 1954)",141,14689,0.9599019674586425
 1684,"The Australian Jewish Herald (Melbourne, Vic. : 1920 - 1933)",231,23798,0.9706698041852255
+1523,"The Evening Mail (Fremantle, WA : 1905 - 1910)",1549,159397,0.9717874238536484
+1287,The San Remo Times and Phillip Island and Bass Valley Advertiser (Vic. : 1896 - 1898),56,5745,0.9747606614447346
 1397,Bonnie Rock-Lake Brown-Mukinbudin Leader (WA : 1934 - 1939),126,12885,0.9778812572759022
 795,"Labor Call (Melbourne, Vic. : 1906 - 1953)",1964,200816,0.9780097203410087
 1522,"Evening Courier (Fremantle, WA : 1902 - 1903)",308,31460,0.9790209790209791
 932,"Nor-West Echo (Broome, WA : 1912 - 1930)",648,64913,0.9982592084790411
-1706,"The Australian Israelite (Melbourne, Vic. : 1871 - 1875)",30,2995,1.001669449081803
 1433,The Wyalkatchem Wheatsheaf and Bencubbin Banner (WA : 1922 - 1930),133,13265,1.0026385224274408
 1613,The Coolgardie Review (WA : 1895),4,396,1.0101010101010102
 1090,Pingelly-Brookton Leader (WA : 1925 - 1954),722,71152,1.0147290308072858
@@ -162,33 +161,34 @@ id,title,articles_with_corrections,total_articles,percentage_with_corrections
 1227,"Weekly Supplement to Building (Sydney, NSW : 1908 - 1909)",31,3045,1.018062397372742
 1454,Kookynie Press (WA : 1903 - 1911),402,39155,1.0266888009194228
 586,The Narracan Shire Advocate (Vic. : 1889 - 1923),843,81678,1.0321016675236905
+1706,"The Australian Israelite (Melbourne, Vic. : 1871 - 1875)",31,2995,1.0350584307178632
 1459,Kalgoorlie and Boulder Standard (WA : 1897 - 1898),67,6439,1.0405342444478958
 1186,"Chinese Republic News (Sydney, NSW : 1914 - 1937)",821,78581,1.0447818174876877
-1450,"Morgans Courier (Mount Morgan, WA : 1904 - 1911)",392,36592,1.0712724092697858
+1450,"Morgans Courier (Mount Morgan, WA : 1904 - 1911)",393,36592,1.0740052470485353
 1323,"Nasza droga (Adelaide, SA : 1952 - 1954)",25,2324,1.0757314974182444
 1700,"Port Lincoln, Tumby and West Coast Recorder (SA : 1904 - 1909)",125,11597,1.0778649650771752
-1391,The Tribune (Philippines : 1932 - 1945),3495,322903,1.0823683892686038
+1391,The Tribune (Philippines : 1932 - 1945),3497,322903,1.0829877703211181
 1134,"The Daily Express (Wagga Wagga, NSW : 1919 - 1930)",1957,180075,1.0867694016382063
 1112,"Call (Perth, WA : 1945 - 1953)",240,22060,1.087941976427924
-1052,"The Lorgnette (Melbourne, Vic. : 1878 - 1898)",1375,126379,1.0879972147271302
-1585,"Sunraysia Daily (Mildura, Vic. : 1920 - 1932)",5152,467517,1.1019920131246566
+1052,"The Lorgnette (Melbourne, Vic. : 1878 - 1898)",1376,126379,1.08878848542875
+1585,"Sunraysia Daily (Mildura, Vic. : 1920 - 1932)",5163,467517,1.1043448687427408
 1456,Kondinin Wheatlander and Kulin and Karlgarin Gazette (WA : 1926 - 1927),14,1267,1.1049723756906076
 1480,"Mosman, Neutral and Middle Harbour Resident (NSW : 1904 - 1907, 1916 - 1919)",126,11334,1.1116993118051879
-1312,"Mount Barker and Denmark Record (Albany, WA : 1929 - 1949)",1880,168752,1.1140608703896844
-1170,"Sport (Adelaide, SA : 1911 - 1948)",1807,158693,1.1386765641836754
+1312,"Mount Barker and Denmark Record (Albany, WA : 1929 - 1949)",1881,168752,1.1146534559590404
+1170,"Sport (Adelaide, SA : 1911 - 1948)",1809,158693,1.139936859218743
 815,Merredin Mercury and Central Districts Index (WA : 1912 - 1954),1111,96410,1.1523700860906545
-1687,"The Westralian Judean (Perth, WA : 1924 - 1925; 1929 - 1955)",230,19725,1.1660329531051965
-1276,"The Manganese Record, Peak Hill, Nullagine and Marble Bar Gazette (Meekatharra, WA : 1928 - 1941)",628,52559,1.1948476949713656
-641,"Daily Commercial News and Shipping List (Sydney, NSW : 1891 - 1954)",15448,1292615,1.1950967612166035
-1715,"Fern Tree Gully News (Upper Ferntree Gully, Vic. : 1923-1947)",563,46875,1.2010666666666665
+1687,"The Westralian Judean (Perth, WA : 1924 - 1925; 1929 - 1955)",231,19725,1.1711026615969582
+641,"Daily Commercial News and Shipping List (Sydney, NSW : 1891 - 1954)",15451,1292615,1.1953288488838518
+1276,"The Manganese Record, Peak Hill, Nullagine and Marble Bar Gazette (Meekatharra, WA : 1928 - 1941)",630,52559,1.19865294240758
 1553,"The Umpire (Fremantle, WA : 1896 - 1903)",187,15553,1.202340384491738
+1715,"Fern Tree Gully News (Upper Ferntree Gully, Vic. : 1923-1947)",564,46875,1.2031999999999998
 1697,Cowra Guardian and Lachlan Agricultural Recorder (NSW : 1898 - 1907),446,36453,1.223493265300524
-1502,"The Express, Melton (Vic. 1943 - 1954)",435,35201,1.2357603477173944
 1449,"Morning Post (Geraldton, WA : 1895 - 1896)",22,1779,1.2366498032602586
+1502,"The Express, Melton (Vic. 1943 - 1954)",436,35201,1.2386011761029516
 617,The Violet Town Sentinel (Vic. : 1894 - 1946),619,49658,1.2465262394780297
 829,"Le Courrier Australien (Sydney, NSW : 1892 - 2011)",2589,207395,1.248342534776634
 1174,Coolgardie Miner (WA : 1935 - 1954),1074,85427,1.2572137614571506
-798,"Sporting Judge (Melbourne, Vic. : 1914 - 1918)",211,16641,1.2679526470764977
+798,"Sporting Judge (Melbourne, Vic. : 1914 - 1918)",212,16641,1.2739619013280452
 1432,York Chronicle (WA : 1927 - 1954),1060,82808,1.2800695584967636
 1665,"The Tothersider (Coolgardie, WA : 1897)",7,544,1.2867647058823528
 1526,"The Express (Perth, WA : 1905 - 1907)",38,2937,1.2938372488934287
@@ -203,7 +203,7 @@ id,title,articles_with_corrections,total_articles,percentage_with_corrections
 1109,"Call and Bailey's Weekly (Perth, WA : 1940 - 1945)",122,9139,1.3349381770434403
 1346,Sawtell Guardian (NSW : 1970 - 1976),126,9418,1.3378636653217244
 1404,Coolgardie Pioneer (WA : 1895 - 1901),730,54563,1.3379029745431885
-875,"Sporting Globe (Melbourne, Vic. : 1922 - 1954)",9976,744378,1.3401793174972931
+875,"Sporting Globe (Melbourne, Vic. : 1922 - 1954)",9982,744378,1.340985359588811
 1073,"Voice (Hobart, Tas. : 1931 - 1953)",1489,109882,1.3550900056424164
 1378,"Il Canguro = The Kangaroo (Perth, WA : 1955 - 1957)",65,4786,1.3581278729628083
 1314,"The Dowerin Guardian and Amery Line Advocate (Wyalkatchem, WA : 1927 - 1954)",1061,77117,1.3758315287161067
@@ -212,56 +212,56 @@ id,title,articles_with_corrections,total_articles,percentage_with_corrections
 1548,"Sunday Chronicle (Perth, WA : 1897 - 1899)",38,2699,1.4079288625416821
 1498,"A Voz de Timor (Dili, East Timor : 1970 - 1975)",40,2830,1.4134275618374559
 1403,The Collie Times (WA : 1935),40,2798,1.4295925661186561
-1421,"Herald (Coolgardie, WA : 1899 - 1901)",719,50059,1.4363051599113048
-310,Richmond Guardian (Vic. : 1884 - 1885; 1894 - 1895; 1902 - 1924),1075,74018,1.4523494285173877
+1421,"Herald (Coolgardie, WA : 1899 - 1901)",720,50059,1.4383028026928224
+310,Richmond Guardian (Vic. : 1884 - 1885; 1894 - 1895; 1902 - 1924),1076,74018,1.4537004512415899
 1118,Gnowangerup Times (WA : 1912 - 1918),329,22522,1.4607938904182576
-1188,"Construction (Sydney, NSW : 1938 - 1954)",772,52794,1.4622873811417965
+1188,"Construction (Sydney, NSW : 1938 - 1954)",773,52794,1.4641815357805812
 1301,"Co-operator (Sydney, NSW : 1910 - 1917)",529,36073,1.466470767610124
-1376,Papua New Guinea Post-Courier (Port Moresby : 1969 - 1981),6143,417472,1.4714759313199448
+1376,Papua New Guinea Post-Courier (Port Moresby : 1969 - 1981),6147,417472,1.4724340794113138
 1398,Bridgetown Advocate (WA : 1938 - 1950),883,59888,1.474418915308576
-692,"Sydney Sportsman (Surry Hills, NSW : 1900 - 1954)",4526,304742,1.4851907515209588
+692,"Sydney Sportsman (Surry Hills, NSW : 1900 - 1954)",4527,304742,1.4855188979530225
 1417,Gnowangerup Star (WA : 1941 - 1954),235,15774,1.4897933307975149
 1067,"The Evening Telegraph (Charters Towers, Qld. : 1901 - 1921)",4786,321011,1.4909146415543393
-1586,The Nowra Colonist (NSW : 1899 - 1904),256,17152,1.4925373134328357
+1586,The Nowra Colonist (NSW : 1899 - 1904),257,17152,1.4983675373134329
 1442,"Northern Public Opinion and Mining and Pastoral News (Roebourne, WA : 1894 - 1902)",247,16454,1.5011547344110854
 1228,"Construction : Weekly Supplement to Building (Sydney, NSW : 1909 - 1914)",224,14884,1.5049717817790917
 1635,"Margaret River News (Busselton, WA : 1939 - 1941)",88,5837,1.5076237793387013
 1003,"The Workers' Weekly (Sydney, NSW : 1923 - 1939)",859,56914,1.5092947253751274
-1121,"New Call and Bailey's Weekly (Perth, WA : 1934 - 1940)",411,27055,1.5191277028275736
+1121,"New Call and Bailey's Weekly (Perth, WA : 1934 - 1940)",412,27055,1.522823877287008
 1532,Kalamunda and District News (WA : 1952 - 1954),39,2557,1.5252248728979272
 1495,Chiltern Leader (Vic. : 1896 - 1898),59,3864,1.5269151138716357
 1439,"South Western Times (Bunbury, WA : 1932 - 1954)",2711,177290,1.5291330588301653
-1347,"The Daily Telegraph (Sydney, NSW : 1931 - 1954)",24614,1603281,1.5352268254909776
+1347,"The Daily Telegraph (Sydney, NSW : 1931 - 1954)",24648,1603281,1.5373474768303248
 1408,Day Dawn Chronicle (WA : 1902 - 1909),372,24071,1.5454281085123178
 1435,"The Western Australian Goldfields Courier (Coolgardie, WA : 1894 - 1898)",462,29789,1.5509080533082682
 1087,"The Southern Districts Advocate (Katanning, WA : 1913 - 1936)",839,53699,1.562412707871655
-1482,Toowoomba Chronicle (Qld. : 1917 - 1922),4773,303980,1.5701690900717151
-943,"The Evening News (Rockhampton, Qld. : 1924 - 1941)",9212,585943,1.5721665759297405
+1482,Toowoomba Chronicle (Qld. : 1917 - 1922),4777,303980,1.571484966116192
 1400,Bulong Bulletin and Mining Register (WA : 1897 - 1898),10,636,1.5723270440251573
+943,"The Evening News (Rockhampton, Qld. : 1924 - 1941)",9214,585943,1.5725079060591218
 1402,"The Central Districts Advocate (Goomalling, WA : 1922 - 1924)",40,2527,1.5829046299960428
 1570,The Moe Register and Narracan Shire Advocate (Vic. : 1888 - 1889),30,1885,1.5915119363395225
 1419,Harvey Murray Times (WA : 1931 - 1955),1555,97260,1.5988073205840017
 1673,Noosa Advocate (Qld. : 1911 - 1929),32,1999,1.6008004002001
-1284,"The Labor Daily (Sydney, NSW : 1924 - 1938)",14890,928143,1.6042786510268352
-1551,"The Swan and Canning Times and Hills Gazette (Perth, WA : 1926 - 1928)",151,9391,1.607922478969226
-1226,The Grafton Argus and Clarence River General Advertiser (NSW : 1874 - 1875; 1879 - 1882; 1888; 1892; 1899 - 1922),4525,279072,1.6214453617704392
+1284,"The Labor Daily (Sydney, NSW : 1924 - 1938)",14904,928143,1.6057870392816624
+1551,"The Swan and Canning Times and Hills Gazette (Perth, WA : 1926 - 1928)",152,9391,1.6185709722074326
+1226,The Grafton Argus and Clarence River General Advertiser (NSW : 1874 - 1875; 1879 - 1882; 1888; 1892; 1899 - 1922),4527,279072,1.6221620227038183
 1211,"South Coast News (Southport, Qld. : 1952 - 1954)",119,7325,1.6245733788395906
-1257,"The News (Hobart, Tas. : 1924 - 1925)",1147,70584,1.6250141675167178
-1674,Noosa Advocate and Cooroora Advertiser (Qld. : 1929 - 1934),217,13323,1.628762290775351
+1257,"The News (Hobart, Tas. : 1924 - 1925)",1148,70584,1.6264309191884845
 1583,The Mildura Irrigationist (Vic. : 1892 - 1893),31,1903,1.62900683131897
 1448,Mount Morgans Mercury (WA : 1906 - 1909),79,4846,1.6302104828724722
-1219,Casino and Kyogle Courier and North Coast Advertiser (NSW : 1904 - 1932),3872,237352,1.631332367117193
+1219,Casino and Kyogle Courier and North Coast Advertiser (NSW : 1904 - 1932),3875,237352,1.632596312649567
+1674,Noosa Advocate and Cooroora Advertiser (Qld. : 1929 - 1934),218,13323,1.6362681077835322
 1251,"The Mount Lyell Standard and Strahan Gazette (Queenstown, Tas. : 1896 - 1902)",1373,83363,1.6470136631359236
 1325,"The Evening Echo (Ballarat, Vic. : 1914 - 1918)",2544,154334,1.6483730091878652
-1045,"Dutch Weekly (Sydney, NSW : 1993 - 2004)",770,46560,1.6537800687285225
-630,"Construction and Real Estate Journal (Sydney, NSW : 1930 - 1938)",391,23611,1.6560077929778494
 1605,"The Irish Citizen (Sydney, NSW : 1871 - 1872)",35,2113,1.6564126833885469
+1045,"Dutch Weekly (Sydney, NSW : 1993 - 2004)",772,46560,1.6580756013745706
 1108,"Bruce Rock-Corrigin Post, Narembeen-Kondinin Guardian (WA : 1948 - 1954)",312,18806,1.65904498564288
 1519,"The Dawn (Perth, WA : 1921 - 1949)",236,14199,1.6620888794985564
 1342,"Daily Pictorial (Sydney, NSW : 1930 - 1931)",1184,71000,1.667605633802817
+630,"Construction and Real Estate Journal (Sydney, NSW : 1930 - 1938)",395,23611,1.672949049171996
 861,"World (Hobart, Tas. : 1918 - 1924)",4477,267017,1.676672271802919
 580,Malvern Courier and Caulfield Mirror (Vic. : 1914 - 1917),136,8106,1.677769553417222
-975,"The Evening Star (Boulder, WA : 1898 - 1921)",6874,409062,1.6804298614879896
+975,"The Evening Star (Boulder, WA : 1898 - 1921)",6875,409062,1.680674323207729
 1010,The Southern Cross Times (WA : 1923 - 1940),504,29760,1.6935483870967745
 1123,Nungarin Trayning Mail and Kununoppin Advertiser (WA : 1917 - 1922),130,7625,1.7049180327868854
 1667,"The Weekly News (Broome, WA : 1931 - 1934)",61,3537,1.7246253887475262
@@ -273,15 +273,15 @@ id,title,articles_with_corrections,total_articles,percentage_with_corrections
 279,"Il Giornale Italiano (Sydney, NSW : 1932 - 1940)",786,44599,1.762371353617794
 1549,"The Sunday Press (Perth, WA : 1902 - 1903)",78,4404,1.7711171662125342
 1273,"The Goldfields Morning Chronicle (Coolgardie, WA : 1896 - 1898)",832,46446,1.7913275631916632
-452,The Sydney Wool and Stock Journal (NSW : 1899 - 1917),2896,161328,1.7951006644847765
 762,Heytesbury Reformer and Cobden and Camperdown Advertiser (Vic. : 1914 - 1918),137,7630,1.7955439056356488
+452,The Sydney Wool and Stock Journal (NSW : 1899 - 1917),2905,161328,1.8006793613012
 1279,"The Murchison Times and Day Dawn Gazette (Cue, WA : 1894 - 1925)",4613,255799,1.8033690514818277
 1438,"South Western Tribune (Bunbury, WA : 1930 - 1932)",331,18228,1.8158876453807329
-1141,"Sportsman (Melbourne, Vic. : 1882 - 1904)",2543,139561,1.8221422890349024
+1141,"Sportsman (Melbourne, Vic. : 1882 - 1904)",2546,139561,1.8242918867018725
 1699,Campbelltown Ingleburn News (NSW : 1953 - 1954),114,6248,1.8245838668373882
-1007,"Tweed Daily (Murwillumbah, NSW : 1914 - 1949)",20680,1131910,1.8270003798888605
-1114,Daily Telegraph and North Murchison and Pilbarra Gazette (WA : 1920 - 1947),2243,121686,1.8432687408576172
+1007,"Tweed Daily (Murwillumbah, NSW : 1914 - 1949)",20687,1131910,1.8276188036151286
 1102,Wagga Wagga Express (NSW : 1930 - 1939),1337,72521,1.8436039216227025
+1114,Daily Telegraph and North Murchison and Pilbarra Gazette (WA : 1920 - 1947),2245,121686,1.8449123153033216
 565,"Great Southern Advocate (Korumburra, Vic. : 1889 - 1906, 1914 - 1919, 1921 - 1940)",2223,120062,1.8515433692592163
 1619,"The Esperance Echo (Kalgoorlie, WA : 1929)",11,594,1.8518518518518516
 578,"Lismore, Derrinallum and Cressy Advertiser (Vic. : 1914 - 1918)",243,13050,1.862068965517241
@@ -289,12 +289,12 @@ id,title,articles_with_corrections,total_articles,percentage_with_corrections
 761,Camperdown Herald (Vic. : 1914 - 1918),488,25963,1.8795978893040095
 933,"Collie Mail (Perth, WA : 1908 - 1954)",3101,164821,1.8814350113153058
 1256,"The Northern Standard (Ulverstone, Tas. : 1921 - 1923)",188,9979,1.8839563082473194
-895,"Countryman (Melbourne, Vic. : 1924 - 1929)",345,18196,1.8960211035392396
 1222,The Queanbeyan Observer (NSW : 1894 - 1908; 1910 - 1915),1696,88586,1.914523739642833
-1150,"Australische Zeitung (Adelaide, SA : 1875 - 1916)",1828,95439,1.9153595490313184
+1150,"Australische Zeitung (Adelaide, SA : 1875 - 1916)",1829,95439,1.9164073387189724
 1678,"The News, Shoalhaven, Broughton Creek and Ulladulla Advertiser (NSW : 1875 - 1877)",52,2699,1.9266394961096702
+895,"Countryman (Melbourne, Vic. : 1924 - 1929)",353,18196,1.9399868102879754
 811,Gnowangerup Star and Tambellup-Ongerup Gazette (WA : 1915 - 1944),1014,52139,1.9448013962676691
-1208,"The Border Star (Coolangatta, Qld. : 1929 - 1942)",949,48750,1.9466666666666668
+1208,"The Border Star (Coolangatta, Qld. : 1929 - 1942)",950,48750,1.948717948717949
 1410,Dumbleyung-Lake Grace-Newdegate Cultivator and Kukerin and Moulyinning Producer (WA : 1930),14,717,1.9525801952580195
 1185,"Tung Wah News (Sydney, NSW : 1898 - 1902)",222,11302,1.9642541143160503
 1724,The Bligh Watchman and Coonabarabran Gazette (NSW : 1898 - 1910),352,17847,1.9723202779178575
@@ -302,43 +302,43 @@ id,title,articles_with_corrections,total_articles,percentage_with_corrections
 1514,"Cathedral Chronicle (Geraldton, WA : 1931 - 1954)",142,7176,1.9788182831661092
 1300,"The Railway and Tramway Co-operator (Sydney, NSW : 1909 - 1910)",53,2678,1.9790888722927558
 1710,The Examiner (SA : 1841 - 1843),38,1919,1.9801980198019802
-352,"Irrigation Record (Leeton, NSW : 1913 - 1917)",64,3227,1.9832661915091416
 1464,Sydney Punch (NSW : 1864 - 1888),551,27721,1.9876627827278959
 1110,"Call and WA Sportsman (Perth, WA : 1918 - 1920)",162,8141,1.9899275273307946
-1165,Quorn Mercury (SA : 1895 - 1954),2637,131824,2.0003944653477364
+1165,Quorn Mercury (SA : 1895 - 1954),2638,131824,2.0011530525549217
 1179,"The Star (Sydney, NSW : 1909 - 1910)",1611,80221,2.0082023410328964
+352,"Irrigation Record (Leeton, NSW : 1913 - 1917)",65,3227,2.014254725751472
 1374,"Papuan Times (Port Moresby, Papua New Guinea : 1911 - 1916)",177,8730,2.027491408934708
-971,"The South Eastern Times (Millicent, SA : 1906 - 1954)",4377,215464,2.031429844428768
+971,"The South Eastern Times (Millicent, SA : 1906 - 1954)",4379,215464,2.0323580737385365
 1341,Northern Suburbs Weekly (SA : 1952 - 1961),368,18084,2.03494802034948
-893,"Daily Standard (Brisbane, Qld. : 1912 - 1936)",25693,1261049,2.03743074218369
+893,"Daily Standard (Brisbane, Qld. : 1912 - 1936)",25699,1261049,2.037906536542196
 1414,Geraldton Advertiser (WA : 1893 - 1905),1432,70220,2.0393050412987757
 396,"Herald (Adelaide, SA : 1899 - 1910)",624,30549,2.042620053029559
 1725,"The North-Western Watchman (Coonabarabran, NSW : 1936 - 1949)",980,47953,2.0436677580130547
-733,"The Northern Herald (Cairns, Qld. : 1913 - 1939)",10682,522359,2.0449537578561867
+733,"The Northern Herald (Cairns, Qld. : 1913 - 1939)",10684,522359,2.045336636298025
 1130,The Westonian (WA : 1915 - 1920),131,6382,2.052648072704481
 243,"The Lilydale Express and Yarra Glen, Wandin Yallock, Upper Yarra, Healesville and Ringwood Chronicle (Vic. : 1898 - 1914)",575,27942,2.0578340848901298
 1161,"Critic (Adelaide, SA : 1897-1924)",2483,120528,2.0601022169122527
 949,"The North West Post (Formby, Tas. : 1887 - 1916)",7098,343287,2.067657674190983
-1117,The Geraldton Express (WA : 1906 - 1928),4330,208900,2.0727620871230252
-1516,"Coastal Districts Star (Perth, WA : 1952 - 1954)",368,17563,2.095314012412458
+1117,The Geraldton Express (WA : 1906 - 1928),4331,208900,2.073240785064624
+1516,"Coastal Districts Star (Perth, WA : 1952 - 1954)",370,17563,2.1067015885668736
 1609,The Bunbury Monitor (WA : 1934),33,1565,2.1086261980830674
-1221,The Kyogle Examiner (NSW : 1912; 1914 - 1915; 1917 - 1954),6003,284424,2.1105813855370856
 797,"Norden (Melbourne, Vic. : 1914 - 1918)",74,3505,2.111269614835949
+1221,The Kyogle Examiner (NSW : 1912; 1914 - 1915; 1917 - 1954),6005,284424,2.1112845610778272
 894,"Farmers' Advocate (Melbourne, Vic. : 1917 - 1924)",700,33136,2.112506035731531
 1081,The Narrogin Observer and Williams District Representative (WA : 1905 - 1930),489,22969,2.1289564195219643
 1501,"Nota (Hawks Nest and Tea Gardens, NSW : 1970 - 1999)",884,41515,2.1293508370468506
 1168,Blyth Agriculturist (SA : 1908 - 1954),2015,94430,2.133855766176003
 813,Goomalling-Dowerin Mail (WA : 1916 - 1922),208,9735,2.1366204417051877
 1261,"Tasmanian Punch (Hobart Town, Tas. : 1869 - 1870; 1877 - 1878)",23,1072,2.1455223880597014
-1479,"Messenger (Port Adelaide, SA : 1951 - 1954)",176,8184,2.1505376344086025
+1479,"Messenger (Port Adelaide, SA : 1951 - 1954)",177,8184,2.1627565982404695
 999,"The Maritime Worker (Melbourne, Vic. : 1938 - 1954)",326,15031,2.1688510411815582
-896,Pinnaroo and Border Times (SA : 1911 - 1954),1767,81313,2.173084254670225
-1489,"Torres News (Thursday Island, Qld. : 1957-2015)",3729,171389,2.175752236141176
 1541,"The Mirror (Perth, WA : 1907 - 1910)",385,17690,2.1763708309779535
 1269,"The Tasmanian Democrat (Launceston, Tas. : 1891 - 1898)",284,13008,2.183271832718327
 1210,"The South Coast Express (Surfers Paradise, Qld. : 1949 - 1951)",119,5449,2.183886951734263
+1489,"Torres News (Thursday Island, Qld. : 1957-2015)",3752,171389,2.1891720005367907
+896,Pinnaroo and Border Times (SA : 1911 - 1954),1782,81313,2.1915314894297344
 782,South Gippsland Shire Echo (Vic. : 1914 - 1918),344,15638,2.199769791533444
-1220,"Macleay Argus (Kempsey, NSW : 1885 - 1907; 1909 - 1910; 1912 - 1913; 1915 - 1916; 1918 - 1954)",9268,421153,2.200625425914098
+1220,"Macleay Argus (Kempsey, NSW : 1885 - 1907; 1909 - 1910; 1912 - 1913; 1915 - 1916; 1918 - 1954)",9272,421153,2.2015751995118165
 1497,"Northern Times (Carnarvon, WA : 1952 - 1954)",195,8841,2.2056328469630135
 1409,"Democrat (Perth, WA : 1904 - 1905)",42,1901,2.2093634928984742
 1348,The Mosman Mail (NSW : 1898 - 1906),267,12066,2.2128294380905023
@@ -355,20 +355,20 @@ id,title,articles_with_corrections,total_articles,percentage_with_corrections
 439,"Arrow (Sydney, NSW : 1916 - 1933)",1984,88017,2.2541100014769873
 305,"Ouyen Mail (Vic. : 1915 - 1918, 1931 - 1941)",1245,55125,2.2585034013605445
 1418,Greenbushes Advocate and Donnybrook and Bridgetown Advertiser (WA : 1899 - 1902),87,3843,2.2638563622170182
-451,"The Farmer and Settler (Sydney, NSW : 1906 - 1955)",15302,674767,2.267745755201425
+451,"The Farmer and Settler (Sydney, NSW : 1906 - 1955)",15312,674767,2.26922774824495
 1074,"The North Western Chronicle (Latrobe, Tas. : 1887 - 1888)",136,5993,2.2693141998998834
-1162,"Border Chronicle (Bordertown, SA : 1908 - 1950)",2605,114055,2.2839857963263337
-1229,"Smith's Weekly (Sydney, NSW : 1919 - 1950)",5710,249651,2.28719292131816
-470,"The Land (Sydney, NSW : 1911 - 1954)",11548,504283,2.2899839970810043
+1162,"Border Chronicle (Bordertown, SA : 1908 - 1950)",2606,114055,2.28486256630573
+1229,"Smith's Weekly (Sydney, NSW : 1919 - 1950)",5712,249651,2.2879940396793925
+470,"The Land (Sydney, NSW : 1911 - 1954)",11553,504283,2.2909755038341566
 359,"The Globe and Sunday Times War Pictorial (Sydney, NSW : 1914 - 1917)",294,12798,2.297233942803563
 1091,"The Sun (Kalgoorlie, WA : 1898 - 1929)",4741,204092,2.3229719930227546
 673,Mullumbimby Star and Byron Bay-Bangalow Advocate (NSW : 1936),91,3898,2.3345305284761415
-854,"The St George Call (Kogarah, NSW : 1904 - 1957)",4002,170939,2.3411860371243542
+854,"The St George Call (Kogarah, NSW : 1904 - 1957)",4003,170939,2.341771041131632
 1307,"The Progressive Times (Largs North, SA : 1949 - 1951)",34,1446,2.351313969571231
-1058,"The Daily Mail (Brisbane, Qld. : 1903 - 1926)",16785,712601,2.3554555775251504
-1180,"The Sun (Sydney, NSW : 1910 - 1954)",77815,3261665,2.3857447040085358
+1058,"The Daily Mail (Brisbane, Qld. : 1903 - 1926)",16795,712601,2.356858887371755
+1180,"The Sun (Sydney, NSW : 1910 - 1954)",77873,3261665,2.3875229369049245
 1133,Goulburn Valley Stock and Property Journal (Vic. : 1916 - 1942),1132,47380,2.389193752638244
-1190,"The Herald (Melbourne, Vic. : 1861 - 1954)",101256,4234162,2.3914059027500603
+1190,"The Herald (Melbourne, Vic. : 1861 - 1954)",101303,4234162,2.3925159216865106
 1111,"Call (Perth, WA : 1920 - 1927)",1197,50031,2.392516639683396
 1477,"The Portonian (Port Adelaide, SA : 1871 - 1873)",37,1544,2.3963730569948183
 1455,Kookynie Advocate and Northern Goldfields News (WA : 1903 - 1904),54,2253,2.396804260985353
@@ -386,24 +386,24 @@ id,title,articles_with_corrections,total_articles,percentage_with_corrections
 1166,Australian Christian Commonwealth (SA : 1901 - 1940),2748,112094,2.4515139079700967
 1589,"The Shoalhaven News, Ulladulla and Southern Coast Districts Advertiser (NSW : 1871 - 1873)",82,3338,2.456560814859197
 332,Melton Express (Vic. : 1915 - 1943),1564,63597,2.4592354985298046
-1422,Lake Grace Newdegate Cultivator and Dumbleyung and Kukerin Producer (WA : 1925 - 1930),189,7680,2.4609375
 1338,Free Press (SA : 1895),18,731,2.462380300957592
 980,The Southern Cross Times (WA : 1900 - 1920),1228,49785,2.466606407552476
 1401,"Central Districts Advertiser and Agriculture and Mining Journal (Northam, WA : 1893 - 1895)",71,2875,2.4695652173913043
 1387,"Eco Italiano (Perth, WA : 1958 - 1959)",39,1579,2.4699176694110196
-664,The Gundagai Independent (NSW : 1928 - 1954),1790,72327,2.4748710716606523
 1271,The Collie Miner (WA : 1900 - 1916),1013,40915,2.4758645973359403
+664,The Gundagai Independent (NSW : 1928 - 1954),1792,72327,2.4776362907351337
+1422,Lake Grace Newdegate Cultivator and Dumbleyung and Kukerin Producer (WA : 1925 - 1930),191,7680,2.4869791666666665
 1106,Bruce Rock Post and Corrigin and Narembeen Guardian (WA : 1924 - 1948),1195,47979,2.490673002772046
 1285,"Daily News (Sydney, NSW : 1938 - 1940)",2299,91686,2.5074711515389483
 1521,"The Advertiser (Fremantle, WA : 1921 - 1932)",1030,41039,2.5098077438534077
 820,Wickepin Argus (WA : 1910 - 1934),788,31375,2.511553784860558
-814,"Great Southern Leader (Pingelly, WA : 1907 - 1934)",1707,67899,2.514028188927672
 886,The Gwydir Examiner and Moree General Advertiser (NSW : 1898 - 1899),179,7120,2.514044943820225
-746,"The Australian Worker (Sydney, NSW : 1913 - 1950)",5637,223745,2.5193859080649847
-499,"Referee (Sydney, NSW : 1886 - 1939)",14486,574431,2.5217998332262708
+814,"Great Southern Leader (Pingelly, WA : 1907 - 1934)",1708,67899,2.51550096466811
+746,"The Australian Worker (Sydney, NSW : 1913 - 1950)",5643,223745,2.5220675322353574
+499,"Referee (Sydney, NSW : 1886 - 1939)",14492,574431,2.5228443450997595
 1677,"The News, Shoalhaven, Broughton Creek, Ulladulla and South Coast Advertiser (NSW : 1875)",40,1585,2.5236593059936907
-742,"Daily Telegraph (Launceston, Tas. : 1883 - 1928)",46122,1822622,2.5305301922175856
-545,Cobram Courier (Vic. : 1888 - 1954),4312,170308,2.531883411231416
+742,"Daily Telegraph (Launceston, Tas. : 1883 - 1928)",46135,1822622,2.531243450369852
+545,Cobram Courier (Vic. : 1888 - 1954),4313,170308,2.5324705827089744
 726,"Riverina Times, Hay Standard and Journal of Water Conservation (Hay, NSW : 1900 - 1902)",202,7955,2.5392834695160276
 634,Tocumwal Guardian and Riverina Stock Journal (NSW : 1919 - 1922),215,8458,2.5419720974225584
 1277,The Menzies Miner (WA : 1896 - 1901),1082,42521,2.544625008819172
@@ -411,66 +411,66 @@ id,title,articles_with_corrections,total_articles,percentage_with_corrections
 1412,Esperance Times (WA : 1896 - 1898),261,10095,2.5854383358098065
 1515,"Clare's Weekly (Perth, WA : 1897 - 1899)",152,5853,2.596958824534427
 1621,"The Evening News (Boulder, WA : 1921 - 1922)",216,8310,2.5992779783393503
-1071,The Bundaberg Mail (Qld. : 1917 - 1925),5549,212072,2.6165641857482362
+1071,The Bundaberg Mail (Qld. : 1917 - 1925),5551,212072,2.617507261684711
 1582,The Mildura Irrigationist and Murray River Cultural Advocate (Vic. : 1891 - 1892),27,1027,2.6290165530671863
 437,"The Newsletter: an Australian Paper for Australian People (Sydney, NSW : 1900 - 1919)",1876,71350,2.629292221443588
-722,"The Broadcaster (Fairfield, NSW : 1935 - 1978)",2283,86736,2.632125069175429
+722,"The Broadcaster (Fairfield, NSW : 1935 - 1978)",2284,86736,2.633277992990223
 644,The Gloucester Advocate (NSW : 1905 - 1954),5311,201166,2.640108169372558
 1164,Port Adelaide News (SA :1913 - 1933),1965,74355,2.642727456122655
-1069,"The Daily Northern Argus (Rockhampton, Qld. : 1875 - 1896)",3367,126701,2.6574375892850095
+1069,"The Daily Northern Argus (Rockhampton, Qld. : 1875 - 1896)",3368,126701,2.6582268490382868
 1163,Port Adelaide News (SA : 1904),31,1161,2.670111972437554
-735,"Great Southern Herald (Katanning, WA : 1901 - 1954)",5627,210732,2.6702161987737982
-651,The Newcastle Sun (NSW : 1918 - 1954),43138,1613894,2.6729140823375017
+735,"Great Southern Herald (Katanning, WA : 1901 - 1954)",5628,210732,2.670690735151757
+651,The Newcastle Sun (NSW : 1918 - 1954),43159,1613894,2.6742152830359367
 841,"Quiz (Adelaide, SA : 1900 - 1909)",825,30842,2.6749238052007005
-1061,"The Evening Advocate (Innisfail, Qld. : 1941 - 1954)",4576,170751,2.6799257398199714
-506,The Sydney Stock and Station Journal (NSW : 1896 - 1924),8958,333199,2.68848345883391
+1061,"The Evening Advocate (Innisfail, Qld. : 1941 - 1954)",4577,170751,2.68051138792745
+506,The Sydney Stock and Station Journal (NSW : 1896 - 1924),8962,333199,2.6896839426288794
 1318,Auburn News and Granville Electorate Gazetteer (NSW : 1903 - 1905),95,3526,2.694271128757799
-752,Kyabram Free Press and Rodney and Deakin Shire Advocate (Vic. : 1914 - 1918),622,22969,2.7079977360790632
 1077,"The Coastal News and North Western Advertiser (Ulverstone, Tas. : 1890 - 1893)",191,7051,2.708835626152319
-358,"Globe (Sydney, NSW : 1911 - 1914)",1064,39199,2.7143549580346438
+752,Kyabram Free Press and Rodney and Deakin Shire Advocate (Vic. : 1914 - 1918),623,22969,2.712351430188515
 668,Huon and Derwent Times (Tas. : 1933 - 1942),1018,37472,2.7166951323654995
+358,"Globe (Sydney, NSW : 1911 - 1914)",1065,39199,2.7169060435215187
 970,The Millicent Times (SA : 1891 - 1905),715,26295,2.719148127020346
-834,Darling Downs Gazette (Qld. : 1881 - 1922),23389,858035,2.7258794804407747
-892,Warwick Daily News (Qld. : 1919 -1954),29826,1090476,2.735135848932026
-967,"The Journal (Adelaide, SA : 1912 - 1923)",9674,352996,2.740540969302768
+834,Darling Downs Gazette (Qld. : 1881 - 1922),23390,858035,2.7259960258031435
+892,Warwick Daily News (Qld. : 1919 -1954),29865,1090476,2.738712268770702
 559,"Gippsland Independent, Buln Buln, Warragul, Berwick, Poowong and Jeetho Shire Advocate (Vic. : 1914 - 1918)",479,17476,2.740901808194095
-1070,The Bundaberg Mail and Burnett Advertiser (Qld. : 1892 - 1917),10107,367230,2.752226125316559
-1083,The Northam Advertiser (WA : 1895 - 1955),8241,299212,2.7542344558373326
-446,The Byron Bay Record (NSW : 1902 - 1924),862,31222,2.7608737428736148
+967,"The Journal (Adelaide, SA : 1912 - 1923)",9679,352996,2.7419574159480558
+1070,The Bundaberg Mail and Burnett Advertiser (Qld. : 1892 - 1917),10109,367230,2.752770743131008
+1083,The Northam Advertiser (WA : 1895 - 1955),8246,299212,2.7559055118110236
 1304,Port Adelaide District Pictorial (SA : 1952 - 1954),115,4157,2.7664180899687274
 1095,"The Pennant (Penola, SA : 1946 - 1955)",711,25699,2.7666446165220435
 872,"Woman Voter (Melbourne, Vic. : 1911 - 1919)",193,6972,2.768215720022949
 824,"Quiz and the Lantern (Adelaide, SA : 1890 - 1900)",754,27197,2.7723645990366586
+446,The Byron Bay Record (NSW : 1902 - 1924),866,31222,2.7736852219588752
 528,"The Arrow (Sydney, NSW : 1896 - 1912)",1500,53928,2.7814864263462398
-891,"The Week (Brisbane, Qld. : 1876 - 1934)",21403,766142,2.7936074513601916
 979,"The Southern Argus and Wagin-Arthur Express (Perth, WA : 1905 - 1924)",1049,37487,2.7983034118494414
+891,"The Week (Brisbane, Qld. : 1876 - 1934)",21461,766142,2.801177849537031
 1253,"The Midland News (Oatlands, Tas. : 1902 - 1904)",88,3141,2.801655523718561
-1297,"The Daily Telegraph (Sydney, NSW : 1883 - 1930)",88562,3154966,2.807066700560323
+1297,"The Daily Telegraph (Sydney, NSW : 1883 - 1930)",88620,3154966,2.808905072194122
 458,"Watchman (Sydney, NSW : 1902 - 1926)",2200,78135,2.815639598131439
 916,"The Independent (Katoomba, NSW : 1930 - 1931)",33,1171,2.818104184457728
 542,Clunes Guardian and Gazette (Vic. : 1914 - 1918),632,22412,2.8199179011243976
-968,"Saturday Journal (Adelaide, SA : 1923 - 1929)",1652,58574,2.8203639840202137
+968,"Saturday Journal (Adelaide, SA : 1923 - 1929)",1653,58574,2.8220712261412912
 957,"Church of England Messenger (Melbourne, Vic. : 1905)",12,425,2.823529411764706
-840,"The Telegraph (Brisbane, Qld. : 1872 - 1947)",196689,6946185,2.8316118847971943
+840,"The Telegraph (Brisbane, Qld. : 1872 - 1947)",196768,6946185,2.8327491997405767
 330,"Snowy River Mail (Orbost, Vic. : 1911 - 1918)",593,20886,2.8392224456573785
 676,"Country Life Stock and Station Journal (Sydney, NSW : 1924 - 1925)",471,16576,2.841457528957529
 1129,"W.A. Sportsman (Perth, WA : 1914 - 1918)",328,11526,2.8457400659378793
-753,Kyabram Guardian (Vic. : 1914 - 1918),594,20823,2.8526148969889067
+753,Kyabram Guardian (Vic. : 1914 - 1918),595,20823,2.8574172789703693
 1633,The Lake Grace and Districts Leader (WA : 1933 - 1934),48,1678,2.860548271752086
-878,"North West Champion (Moree, NSW : 1915 - 1954)",3199,111814,2.8610013057398893
-837,"Daily Mercury (Mackay, Qld. : 1906 - 1954)",53927,1878654,2.870512611689007
-866,"Tasmanian News (Hobart, Tas. : 1883 - 1911)",16131,561194,2.87440706778761
+878,"North West Champion (Moree, NSW : 1915 - 1954)",3200,111814,2.86189564812993
+837,"Daily Mercury (Mackay, Qld. : 1906 - 1954)",53942,1878654,2.871311055681355
+866,"Tasmanian News (Hobart, Tas. : 1883 - 1911)",16133,561194,2.87476345078529
 1006,Manilla Express (NSW : 1899 - 1954),6561,228136,2.875916120208998
-1178,"The Australian Star (Sydney, NSW : 1887 - 1909)",29330,1016525,2.8853200855856964
+1178,"The Australian Star (Sydney, NSW : 1887 - 1909)",29352,1016525,2.8874843215857946
 852,Dayboro Times and Moreton Mail (Qld. : 1937 - 1940; 1945 - 1954),219,7579,2.8895632669217575
-899,Bowen Independent (Qld. : 1911 - 1954),5342,184720,2.8919445647466437
-342,Kalgoorlie Miner (WA : 1895 - 1954),68063,2340831,2.90764262776766
+899,Bowen Independent (Qld. : 1911 - 1954),5346,184720,2.894110004330879
+342,Kalgoorlie Miner (WA : 1895 - 1954),68073,2340831,2.908069826484697
 568,Heyfield Herald (Vic. : 1914 - 1918),170,5843,2.9094643162758858
 1316,"The Weekly Advance (Granville, NSW : 1892 - 1893)",86,2954,2.911306702775897
 976,"Laverton and Beria Mercury (Laverton, WA : 1899 - 1921)",1113,38186,2.9146807730581887
 1458,Kanowna Democrat and North East Coolgardie Advertiser (WA : 1896 - 1897),21,720,2.9166666666666665
-495,Mullumbimby Star (NSW : 1906 - 1936),2238,76720,2.9171011470281543
-1224,The Corowa Free Press (NSW : 1875 - 1954),11902,407233,2.922651160392208
+495,Mullumbimby Star (NSW : 1906 - 1936),2240,76720,2.9197080291970803
+1224,The Corowa Free Press (NSW : 1875 - 1954),11906,407233,2.9236333990614707
 1264,"Cornwall Advertiser (Launceston, Tas. : 1870 - 1877)",480,16388,2.9289724188430557
 1066,"Balonne Beacon (St. George, Qld. : 1909 - 1954)",3839,130692,2.937440700272396
 1049,"The Bird O' Freedom (Sydney, NSW : 1891 - 1896)",254,8644,2.938454419250347
@@ -478,29 +478,29 @@ id,title,articles_with_corrections,total_articles,percentage_with_corrections
 594,Pitfield Banner and Hollybush Times (Vic. : 1914 - 1918),345,11688,2.9517453798767965
 1115,"The Daily Telegraph (Meekatharra, WA : 1918 - 1947)",189,6397,2.9545099265280603
 1388,"La Rondine (Perth, WA : 1970 - 1974; 1983 - 1984)",41,1383,2.9645697758496024
-1005,"Daily Examiner (Grafton, NSW : 1915 - 1954)",44759,1505279,2.973468705801383
+1005,"Daily Examiner (Grafton, NSW : 1915 - 1954)",44763,1505279,2.9737344372704326
 529,"Saturday Referee and the Arrow (Sydney, NSW : 1912 - 1916)",538,18090,2.974018794914317
 972,Whyalla News (SA : 1940 - 1954),1722,57874,2.9754293810692194
 1127,Tambellup Times (WA : 1912 - 1924),1527,51292,2.977072447945099
-904,"The Inverell Times (NSW : 1899 - 1907, 1909 - 1954)",18025,601161,2.998364830719225
-1213,The Proserpine Guardian (Qld. : 1935 - 1954),1663,55297,3.0073964229524206
+904,"The Inverell Times (NSW : 1899 - 1907, 1909 - 1954)",18034,601161,2.999861933824716
 1223,Quirindi Herald and District News (NSW : 1906 - 1907; 1913 - 1923),530,17619,3.008116238151995
-621,"Weekly Times (Melbourne, Vic. : 1869 - 1954)",41102,1363731,3.013937499404208
-649,"The Murrumbidgee Irrigator (Leeton, NSW : 1915 - 1954)",6425,213073,3.0153984784557406
+1213,The Proserpine Guardian (Qld. : 1935 - 1954),1665,55297,3.0110132556919904
+621,"Weekly Times (Melbourne, Vic. : 1869 - 1954)",41114,1363731,3.014817438336446
+649,"The Murrumbidgee Irrigator (Leeton, NSW : 1915 - 1954)",6427,213073,3.016337123896505
 1375,"Papuan Courier (Port Moresby, Papua New Guinea : 1917 - 1942)",1393,45962,3.03076454462382
 827,"Transcontinental (Port Augusta, SA : 1914 - 1954)",3036,99907,3.038826108280701
 897,"Pinnaroo Country News (Lameroo, SA : 1908 - 1922)",717,23573,3.0416154074576847
 817,Mount Magnet Miner and Lennonville Leader (WA : 1896 - 1926),2044,67120,3.0452920143027415
 1143,"Eyre's Peninsula Tribune (Cowell, SA : 1910 - 1950)",2724,89342,3.0489579369165676
-1155,Nambucca and Bellinger News (NSW : 1911 - 1945),2726,89349,3.050957481337228
-1002,"Tribune (Sydney, NSW : 1939 - 1991)",5277,172811,3.05362505859002
+1155,Nambucca and Bellinger News (NSW : 1911 - 1945),2728,89349,3.053195894749801
 1272,Coolgardie Mining Review (WA : 1895 - 1897),99,3241,3.054612773835236
+1002,"Tribune (Sydney, NSW : 1939 - 1991)",5282,172811,3.0565183929263764
 974,The Black Range Courier and Sandstone Observer (WA : 1907 - 1915),639,20861,3.063132160490868
 1379,"Sunday Times Edizione Italiana (Perth, WA : 1958 - 1959)",14,455,3.076923076923077
-445,"The Border Morning Mail and Riverina Times (Albury, NSW : 1903 - 1920)",11114,361080,3.0779882574498725
+445,"The Border Morning Mail and Riverina Times (Albury, NSW : 1903 - 1920)",11117,361080,3.078819098260773
 645,Jerilderie Herald and Urana Advertiser (NSW : 1898 - 1958),3898,126184,3.0891396690547137
 845,The Norseman Pioneer (WA : 1896 - 1897),120,3881,3.091986601391394
-502,The Scrutineer and Berrima District Press (NSW : 1892 - 1948),7650,247376,3.092458443826402
+502,The Scrutineer and Berrima District Press (NSW : 1892 - 1948),7652,247376,3.093266929694069
 1075,"The North Coast Standard (Latrobe, Tas. : 1890 - 1894)",309,9978,3.096812988574865
 965,Port Adelaide News and Lefevre's Peninsula Advertiser (SA : 1883 - 1897),815,26315,3.097092912787384
 740,Toodyay Herald (WA : 1912 - 1954),3605,115818,3.112642249045917
@@ -509,44 +509,44 @@ id,title,articles_with_corrections,total_articles,percentage_with_corrections
 1411,East Murchison News (WA : 1901 - 1911),482,15228,3.1652219595482007
 771,"Numurkah Standard and Wunghnu, Cobram, Yarroweyah and Strathmerton Advocate (Vic. : 1914 - 1918)",433,13645,3.1733235617442284
 566,Grenville Standard (Vic. : 1915 - 1918),259,8145,3.1798649478207492
-701,Wagga Wagga Express (NSW : 1879 - 1917),8222,258172,3.184698573044327
+701,Wagga Wagga Express (NSW : 1879 - 1917),8223,258172,3.1850859117177692
 781,Malvern News (Vic. : 1914 - 1916),195,6116,3.188358404185742
-741,"Westralian Worker (Perth, WA : 1900 - 1951)",5947,186419,3.1901254700432897
+741,"Westralian Worker (Perth, WA : 1900 - 1951)",5948,186419,3.190661896051368
 1009,"Yilgarn Merredin Times (Southern Cross, WA : 1921 - 1923)",112,3508,3.192702394526796
 759,Willaura Farmer (Vic. : 1914 - 1916),137,4291,3.1927289676066186
 888,Guyra Argus (NSW : 1902 - 1954),4712,147551,3.1934720876171627
-903,Glen Innes Examiner (NSW : 1908 - 1954),19540,611148,3.197261547121156
 1528,Fremantle Courier (WA : 1902),132,4128,3.1976744186046515
+903,Glen Innes Examiner (NSW : 1908 - 1954),19544,611148,3.1979160530673423
 583,"Murchison Advertiser and Murchison, Toolamba, Mooroopna and Dargalong Express (Vic. : 1914 - 1918)",546,17014,3.2091218996120845
 598,Rainbow Argus (Vic. : 1914 - 1918),532,16528,3.218780251694095
-826,"Southern Cross (Adelaide, SA : 1889 - 1954)",9248,287236,3.2196521327410217
+826,"Southern Cross (Adelaide, SA : 1889 - 1954)",9250,287236,3.2203484242922196
 1588,"The News, Shoalhaven and Southern Coast Districts Advertiser (NSW : 1867 - 1871)",177,5495,3.221110100090992
 902,Glen Innes Examiner and General Advertiser (NSW : 1874 - 1908),4532,139917,3.2390631588727605
 1545,"The People (Perth, WA : 1891 - 1892)",55,1696,3.2429245283018866
 535,Berringa Herald (Vic. : 1914 - 1918),370,11376,3.2524613220815755
-1555,"The Wagin Argus and Arthur, Dumbleyung, Lake Grace Express (WA : 1924 - 1954)",3397,104403,3.2537379194084464
+1555,"The Wagin Argus and Arthur, Dumbleyung, Lake Grace Express (WA : 1924 - 1954)",3399,104403,3.2556535731731846
 667,"Huon Times (Franklin, Tas. : 1910 - 1933)",4356,133740,3.2570659488559897
 465,The Wollondilly Press (NSW : 1906 - 1914),1028,31537,3.2596632526873197
-505,"Sunday Times (Sydney, NSW : 1895 - 1930)",21444,655166,3.273063620517548
+505,"Sunday Times (Sydney, NSW : 1895 - 1930)",21450,655166,3.2739794189564173
 599,Richmond Australian (Vic. : 1912 - 1916),475,14489,3.278349092414935
 561,Gippslander and Mirboo Times (Vic. : 1914 - 1918),329,9991,3.2929636673005707
 876,Bundarra and Tingha Advocate (NSW : 1900 - 1906),507,15356,3.3016410523573847
 574,Korong Vale Lance and North West Advertiser (Vic. : 1914 - 1915),148,4482,3.302097278000892
-909,The Katoomba Daily (NSW : 1920 - 1939),2494,75390,3.308131051863642
 296,"The Gippsland Farmers' Journal (Traralgon, Vic. : 1893 - 1918)",2537,76654,3.3096772510240826
+909,The Katoomba Daily (NSW : 1920 - 1939),2496,75390,3.3107839235972945
 581,Mortlake Dispatch (Vic. : 1914 - 1918),651,19644,3.313989004276115
 592,Omeo Standard and Mining Gazette (Vic. : 1914 - 1918),702,21179,3.3146040889560413
-1055,Brisbane Telegraph (Qld. : 1948 - 1954),15211,456544,3.33177086983949
+1055,Brisbane Telegraph (Qld. : 1948 - 1954),15222,456544,3.3341802761617716
 1198,"The Messenger (Fremantle, WA : 1895)",60,1796,3.34075723830735
 320,"Berwick Shire News and Pakenham and Cranbourne Gazette (Berwick, Vic. : 1914 - 1917)",326,9757,3.3411909398380653
 1259,"Hobart Town Punch (Hobart Town, Tas. : 1867 - 1868)",19,568,3.345070422535211
-663,"Western Grazier (Wilcannia, NSW : 1896 - 1951)",4314,127945,3.3717613036851772
-900,Pittsworth Sentinel (Qld. : 1919 - 1954),3522,103839,3.391789212145726
-492,The Maitland Daily Mercury (NSW : 1894 - 1939),63682,1875917,3.3947130923169846
-500,The Richmond River Express and Casino Kyogle Advertiser (NSW : 1904 - 1929),10361,304418,3.403543811469755
+663,"Western Grazier (Wilcannia, NSW : 1896 - 1951)",4316,127945,3.3733244753605063
+900,Pittsworth Sentinel (Qld. : 1919 - 1954),3523,103839,3.3927522414507076
+492,The Maitland Daily Mercury (NSW : 1894 - 1939),63710,1875917,3.396205695667772
+500,The Richmond River Express and Casino Kyogle Advertiser (NSW : 1904 - 1929),10365,304418,3.404857794217162
 601,Rochester Express (Vic. : 1914 - 1918),734,21504,3.413318452380952
-390,"The Yarragon, Trafalgar and Moe Settlement News (Vic. : 1904 - 1920)",618,18051,3.423633039720791
 767,Casterton Free Press and Glenelg Shire Advertiser (Vic. : 1915 - 1918),461,13452,3.4269997026464467
+390,"The Yarragon, Trafalgar and Moe Settlement News (Vic. : 1904 - 1920)",619,18051,3.4291728990083654
 1524,"The Evening Times (Fremantle, WA : 1888)",103,3002,3.431045969353764
 1373,"Papuan Times (Kwato, Papua New Guinea : 1951 - 1954)",102,2963,3.442456969287884
 1051,"The Australian Workman (Sydney, NSW : 1890 - 1897)",265,7690,3.4460338101430428
@@ -554,72 +554,72 @@ id,title,articles_with_corrections,total_articles,percentage_with_corrections
 748,"The People and the Collectivist (Sydney, NSW : 1900)",87,2523,3.4482758620689653
 952,"The Colonist (Launceston, Tas. : 1888 - 1891)",1096,31701,3.4573041859878235
 1204,The Malcolm Chronicle and Leonora Advertiser (WA : 1897 - 1905),361,10408,3.4684857801691003
-652,"The North Western Courier (Narrabri, NSW : 1913 - 1955)",10327,296851,3.4788496585829254
+652,"The North Western Courier (Narrabri, NSW : 1913 - 1955)",10328,296851,3.479186527921415
 997,"Communist (Sydney, NSW : 1921 - 1923)",66,1891,3.4902168164992067
 1713,"The Mountaineer (Ferntree Gully, Vic. : 1920 - 1921)",99,2836,3.4908321579689705
-1177,Crookwell Gazette (NSW : 1885 - 1954),6949,199014,3.4917141507632627
+1177,Crookwell Gazette (NSW : 1885 - 1954),6950,199014,3.4922166279759215
 557,Foster Mirror and South Gippsland Shire Advocate (Vic. : 1914 - 1918),441,12593,3.501945525291829
 785,Beulah Record and Mallee Advocate (Vic. : 1914),18,512,3.515625
 556,Foster and Toora Mirror and South Gippsland Shire Advocate (Vic. : 1914),56,1590,3.5220125786163523
 482,The Bathurst Times (NSW : 1909 - 1925),11591,328988,3.523228810777293
-889,The Henty Observer and Culcairn Shire Register (NSW : 1914 - 1950),1918,54172,3.540574466514066
+889,The Henty Observer and Culcairn Shire Register (NSW : 1914 - 1950),1922,54172,3.5479583548696745
 862,"Devon Herald (Latrobe, Tas. : 1877 - 1889)",1145,32175,3.5586635586635587
 855,The Temora Star (NSW : 1881 - 1883; 1899 - 1906; 1914; 1925; 1933),1033,29012,3.560595615607335
 794,"Spectator and Methodist Chronicle (Melbourne, Vic. : 1914 - 1929)",975,27361,3.5634662475786705
-297,Kerang New Times (Vic. : 1901 - 1918),3449,96547,3.5723533615751917
+297,Kerang New Times (Vic. : 1901 - 1918),3451,96547,3.57442489150362
 1167,Christian Colonist (SA : 1878 - 1894),1169,32659,3.579411494534432
-657,The Scone Advocate (NSW : 1887 - 1954),12215,340804,3.584171547282309
+657,The Scone Advocate (NSW : 1887 - 1954),12217,340804,3.5847583948545205
 1079,"The Blackwood Times (Greenbushes, WA : 1905 - 1955)",3138,87409,3.5900193343934834
-670,"Illawarra Daily Mercury (Wollongong, NSW : 1950 - 1954)",4821,134172,3.593149092209999
-792,"Advocate (Melbourne, Vic. : 1868 - 1954)",24719,685842,3.60418288760385
-493,The Maitland Weekly Mercury (NSW : 1894 - 1931),16033,443801,3.612655221597067
-395,"Daily Herald (Adelaide, SA : 1910 - 1924)",29354,812266,3.61384078614641
-379,Queensland Country Life (Qld. : 1900 - 1954),6750,185996,3.629110303447386
+670,"Illawarra Daily Mercury (Wollongong, NSW : 1950 - 1954)",4824,134172,3.595385028172793
+792,"Advocate (Melbourne, Vic. : 1868 - 1954)",24722,685842,3.604620306134649
+395,"Daily Herald (Adelaide, SA : 1910 - 1924)",29365,812266,3.6151950223202745
+493,The Maitland Weekly Mercury (NSW : 1894 - 1931),16046,443801,3.6155844624054474
+379,Queensland Country Life (Qld. : 1900 - 1954),6752,185996,3.630185595389148
 1265,"Tasmanian Evening Herald (Launceston, Tas. : 1878)",105,2892,3.630705394190872
-747,"The Worker (Wagga, NSW : 1892 - 1913)",3159,86933,3.6338329518134658
+747,"The Worker (Wagga, NSW : 1892 - 1913)",3161,86933,3.636133574131803
 418,"Southern Morning Herald (Goulburn, NSW : 1920 - 1923)",537,14765,3.6369793430409754
 633,Tocumwal Guardian and Finley Free Press (NSW : 1908 - 1913),275,7559,3.6380473607620054
 1575,Box Hill Reporter (Vic. : 1925 - 1930),653,17871,3.653964523529741
 327,"Pakenham Gazette and Berwick Shire News (Pakenham East, Vic. : 1917 - 1918)",167,4559,3.6630840096512394
-311,"The Riverine Herald (Echuca, Vic. : Moama, NSW : 1869 - 1954; 1998 - 2002)",35303,963548,3.6638548365001014
+311,"The Riverine Herald (Echuca, Vic. : Moama, NSW : 1869 - 1954; 1998 - 2002)",35309,963548,3.6644775351098233
 1646,Norseman Sentinel and Princess Royal Watchdog (WA : 1903),4,109,3.669724770642202
-981,"The Swan Express (Midland Junction, WA : 1900 - 1954)",5279,143767,3.671913582393734
-687,"Daily Advertiser (Wagga Wagga, NSW : 1911 - 1954)",59427,1610399,3.6902034837329136
+981,"The Swan Express (Midland Junction, WA : 1900 - 1954)",5280,143767,3.672609152308944
+687,"Daily Advertiser (Wagga Wagga, NSW : 1911 - 1954)",59441,1610399,3.691072833502753
 1311,"The Workers Star (Perth, WA : 1936 - 1951)",1095,29652,3.6928369081343586
 537,Boort Standard and Quambatook Herald (Vic. : 1914 - 1915),139,3759,3.69779196594839
-731,"Maryborough Chronicle, Wide Bay and Burnett Advertiser (Qld. : 1860 - 1947)",68442,1846519,3.7065418769045975
 801,"Man on the Land (Gosford, NSW : 1936 - 1938)",117,3155,3.7083993660855783
-828,"West Coast Sentinel (Streaky Bay, SA : 1912 - 1954)",4982,133847,3.722160377147041
+731,"Maryborough Chronicle, Wide Bay and Burnett Advertiser (Qld. : 1860 - 1947)",68483,1846519,3.708762271062469
 1089,The Pingelly Leader (WA : 1906 - 1925),1140,30622,3.72281366337927
+828,"West Coast Sentinel (Streaky Bay, SA : 1912 - 1954)",4987,133847,3.725895985715033
 655,"Riverina Recorder (Balranald, Moulamein, NSW : 1887 - 1944)",5012,134443,3.727973936910066
 1306,Seaport News Review (SA : 1954),21,563,3.7300177619893424
 532,Delegate Argus (NSW : 1906 - 1943),2335,62553,3.7328345562962606
 1580,The Merbein Irrigationist and Murray Valley Soldiers' Gazette (Vic. : 1919 - 1920),53,1419,3.7350246652572237
 800,"Winner (Melbourne, Vic. : 1914 - 1917)",887,23680,3.745777027027027
 385,North Melbourne Courier and West Melbourne Advertiser (Vic. : 1895 - 1913),1353,36116,3.7462620445232027
-647,"The Methodist (Sydney, NSW : 1892 - 1954)",7337,195625,3.750543130990416
+647,"The Methodist (Sydney, NSW : 1892 - 1954)",7338,195625,3.7510543130990412
 136,"West Gippsland Gazette (Warragul, Vic. : 1898 - 1930)",4896,130445,3.7533059910307025
 603,"Rupanyup Spectator and Lubeck, Banyena, Rich Avon and Lallat Advertiser (Vic. : 1914 - 1918)",383,10195,3.756743501716528
-1396,Blackwood Chronicle and South-West Mining News (WA : 1904 - 1907),172,4567,3.7661484563170573
-1349,The Yass Courier (NSW : 1857 - 1929),7251,191998,3.7766018396024963
 1366,Yass Tribune-Courier (NSW : 1929 - 1954),7211,190880,3.7777661357921204
-947,"The Tasmanian (Launceston, Tas. : 1881 - 1895)",5484,144124,3.805056756681746
+1396,Blackwood Chronicle and South-West Mining News (WA : 1904 - 1907),173,4567,3.7880446682723887
+1349,The Yass Courier (NSW : 1857 - 1929),7276,191998,3.7896228085709227
+947,"The Tasmanian (Launceston, Tas. : 1881 - 1895)",5485,144124,3.80575060364686
 1154,Murrumburrah Signal and County of Harden Advocate (NSW : 1881 - 1947),3135,82304,3.8090493779160184
-347,"Recorder (Port Pirie, SA : 1919 - 1954)",23834,625694,3.8092102529351406
+347,"Recorder (Port Pirie, SA : 1919 - 1954)",23836,625694,3.809529898001259
 882,Tingha Advocate and North-Western Journal (NSW : 1916 - 1932),848,22258,3.809866115553958
 541,Chiltern and Howlong Times and Ovens Register (Vic. : 1914 - 1918),551,14408,3.8242642976124377
 1057,Toowoomba Chronicle and Darling Downs General Advertiser (Qld. : 1875 - 1902),6682,174637,3.826222392734644
 309,Prahran Chronicle (Vic. : 1894 - 1906; 1914 - 1918),1376,35956,3.8268995438869733
-672,"South Coast Bulletin (Southport, Qld. : 1929 - 1954)",5219,136147,3.833356592506629
+672,"South Coast Bulletin (Southport, Qld. : 1929 - 1954)",5220,136147,3.834091092715961
 1202,The Broad Arrow Standard (WA : 1896 - 1899),273,7108,3.8407428249859312
 715,The Narracoorte Herald (SA : 1875 - 1954),12980,337678,3.84389862531761
 349,Port Pirie Recorder (SA : 1918 - 1919),615,15978,3.8490424333458506
-553,Dookie and Katamatite Recorder (Vic. : 1902 - 1920),1103,28533,3.865699365646795
 576,Lancefield Mercury and West Bourke Agricultural Record (Vic. : 1914 - 1918),343,8862,3.8704581358609795
-1159,Warialda Standard and Northern Districts' Advertiser (NSW : 1900 - 1954),4455,114795,3.8808310466483733
-477,"The Independent (Deniliquin, NSW : 1901 - 1946)",3820,98415,3.8815221256922214
+477,"The Independent (Deniliquin, NSW : 1901 - 1946)",3821,98415,3.8825382309607277
+553,Dookie and Katamatite Recorder (Vic. : 1902 - 1920),1108,28533,3.8832229348473697
+1159,Warialda Standard and Northern Districts' Advertiser (NSW : 1900 - 1954),4459,114795,3.884315518968596
 1268,"The Federalist (Launceston, Tas. : 1898 - 1899)",174,4471,3.891746812793558
-319,"Leader (Melbourne, Vic. : 1862 - 1918, 1935)",28781,738095,3.899362548181467
+319,"Leader (Melbourne, Vic. : 1862 - 1918, 1935)",28792,738095,3.900852871242862
 318,Sandringham Southern Cross (Vic. : 1914 - 1918),363,9302,3.9023865835304234
 956,The Church of England Messenger for Victoria and Ecclesiastical Gazette for the Diocese of Melbourne (Vic. : 1889 - 1905),275,7032,3.910693970420933
 536,Birchip Advertiser and Watchem Sentinel (Vic. : 1914 - 1918),593,15142,3.9162594109100515
@@ -628,22 +628,22 @@ id,title,articles_with_corrections,total_articles,percentage_with_corrections
 1266,"Weekly Examiner (Launceston, Tas. : 1872 - 1878)",1224,31111,3.9342997653563048
 793,"Tribune (Melbourne, Vic. : 1914 - 1918)",959,24286,3.9487770732109033
 509,"Labor News (Sydney, NSW : 1918 - 1924)",158,4001,3.949012746813297
-725,"The Hay Standard and Advertiser for Balranald, Wentworth, Maude...(Hay, NSW : 1871 - 1873; 1880 - 1881; 1890 - 1900)",1668,42068,3.9650090329941996
-426,"Western Herald (Bourke, NSW : 1887 - 1970)",13898,349908,3.971901185454462
+725,"The Hay Standard and Advertiser for Balranald, Wentworth, Maude...(Hay, NSW : 1871 - 1873; 1880 - 1881; 1890 - 1900)",1670,42068,3.969763240467814
+426,"Western Herald (Bourke, NSW : 1887 - 1970)",13907,349908,3.974473290121975
 898,"Gadfly (Adelaide, SA : 1906 - 1909)",241,6063,3.9749299026884377
 313,"Queenscliff Sentinel, Drysdale, Portarlington, Sorrento Advertiser (Vic. : 1914 - 1918)",330,8299,3.9763826967104468
 504,"The Southern Record and Advertiser (Candelo, NSW : 1910 - 1938)",1615,40582,3.9795968656054406
 1088,The Leonora Miner (WA : 1910 - 1928),1076,27029,3.980909393614266
-461,"News (Adelaide, SA : 1923 - 1954)",65239,1638297,3.9821228995719333
+461,"News (Adelaide, SA : 1923 - 1954)",65252,1638297,3.9829164064879565
 1335,Gawler Standard (SA : 1878 - 1885),390,9786,3.9852851011649295
 1538,"The Magpie (Perth, WA : 1923)",174,4355,3.9954075774971294
 547,Coleraine Albion and Western Advertiser (Vic. : 1902; 1914 - 1918),784,19616,3.99673735725938
 679,"The Leader (Brisbane, Qld. : 1918 - 1919)",46,1149,4.003481288076589
-823,"Observer (Adelaide, SA : 1905 - 1931)",26508,662005,4.004199364053142
-469,The Muswellbrook Chronicle (NSW : 1898 - 1955),15019,372687,4.029923233168852
-732,Maryborough Chronicle (Qld. : 1947 - 1954),10843,269044,4.03019580440374
+823,"Observer (Adelaide, SA : 1905 - 1931)",26527,662005,4.007069433010325
 1120,Murchison Advocate (WA : 1898 - 1912),1216,30166,4.0310283100179
-1354,The Burrangong Argus (NSW : 1865 - 1913),4495,111375,4.035914702581369
+469,The Muswellbrook Chronicle (NSW : 1898 - 1955),15024,372687,4.031264841542635
+732,Maryborough Chronicle (Qld. : 1947 - 1954),10849,269044,4.03242592289737
+1354,The Burrangong Argus (NSW : 1865 - 1913),4496,111375,4.036812570145903
 678,"National Leader (Brisbane, Qld. : 1916 - 1918)",193,4772,4.044425817267394
 1278,The Mt. Leonora Miner (WA : 1899 - 1910),731,18018,4.0570540570540565
 384,North Melbourne Gazette (Vic. : 1894 - 1901),570,14015,4.067070995362112
@@ -651,8 +651,8 @@ id,title,articles_with_corrections,total_articles,percentage_with_corrections
 791,Mount Wycheproof Ensign and East Wimmera Advocate (Vic. : 1914 - 1918),619,15193,4.07424471796222
 818,Northam Courier (WA : 1909 - 1922),1304,32003,4.074618004562073
 442,"The Cumberland Argus (Parramatta, NSW : 1950 - 1962)",1825,44751,4.078121159303703
-982,"Truth (Perth, WA : 1903 - 1931)",5922,145179,4.079102349513359
-450,Delegate Argus and Border Post (NSW : 1895 - 1906),997,24430,4.0810478919361435
+982,"Truth (Perth, WA : 1903 - 1931)",5924,145179,4.080479959222752
+450,Delegate Argus and Border Post (NSW : 1895 - 1906),998,24430,4.085141219811707
 456,The Urana Independent and Clear Hills Standard (NSW : 1913 - 1921),1164,28417,4.096139634725692
 1704,"West Bourke and South Grant Guardian (Bacchus Marsh, Vic. : 1869 - 1870)",78,1892,4.12262156448203
 554,Dunmunkle Standard (Vic. : 1914 - 1918),358,8667,4.130610361139956
@@ -662,99 +662,99 @@ id,title,articles_with_corrections,total_articles,percentage_with_corrections
 1195,"The Mail (Fremantle, WA : 1904 - 1905)",1098,26476,4.147152137785164
 120,Liverpool Herald (NSW : 1897 - 1907),1209,29110,4.153211954654758
 473,The Corowa Chronicle (NSW : 1905 - 1928),1236,29725,4.15811606391926
-993,"The Port Augusta Dispatch, Newcastle and Flinders Chronicle (SA : 1885 - 1916)",2959,71112,4.161041736978287
-1122,"New Call (Perth, WA : 1931 - 1934)",657,15776,4.164553752535497
-472,The Braidwood Dispatch and Mining Journal (NSW : 1888 - 1954),8224,197407,4.166012350119297
+993,"The Port Augusta Dispatch, Newcastle and Flinders Chronicle (SA : 1885 - 1916)",2960,71112,4.162447969400382
+472,The Braidwood Dispatch and Mining Journal (NSW : 1888 - 1954),8227,197407,4.167532053068027
+1122,"New Call (Perth, WA : 1931 - 1934)",658,15776,4.170892494929006
 737,"The Pilbarra Goldfield News (Marble Bar, WA : 1897 - 1923)",1802,43116,4.179422952036367
-596,"Punch (Melbourne, Vic. : 1900 - 1918; 1925)",6297,150602,4.181219372916694
+596,"Punch (Melbourne, Vic. : 1900 - 1918; 1925)",6302,150602,4.184539381947118
 635,"Barrier Daily Truth (Broken Hill, NSW : 1908; 1941 - 1954)",13524,320412,4.220815699786525
-966,"Evening Journal (Adelaide, SA : 1869 - 1912)",40730,962242,4.232822928119953
-100,"Western Argus (Kalgoorlie, WA : 1916 - 1938)",15034,354982,4.235144317176646
-258,"The Northern Miner (Charters Towers, Qld. : 1874 - 1954)",52290,1231206,4.2470553262411
+966,"Evening Journal (Adelaide, SA : 1869 - 1912)",40737,962242,4.233550395846367
+100,"Western Argus (Kalgoorlie, WA : 1916 - 1938)",15039,354982,4.236552839298894
 490,The Clarence River Advocate (NSW : 1898 - 1949),3076,72411,4.2479733742111
+258,"The Northern Miner (Charters Towers, Qld. : 1874 - 1954)",52302,1231206,4.2480299803607195
 832,Victor Harbour Times (SA : 1932 - 1986),6848,160722,4.260773260661265
-699,"Truth (Sydney, NSW : 1894 - 1954)",19258,451407,4.266216518574147
+699,"Truth (Sydney, NSW : 1894 - 1954)",19266,451407,4.2679887551588696
 397,The Kadina and Wallaroo Times (SA : 1888 - 1954),10546,246211,4.283317967109512
 708,The Gloucester Examiner and Lower Hunter Advertiser (NSW : 1912),24,560,4.285714285714286
 1218,The Young Chronicle (NSW : 1902 - 1910; 1913 - 1915; 1924 - 1934; 1936 - 1940),4158,96998,4.2866863234293495
-1063,The Dalby Herald (Qld. : 1910 - 1954),9106,212002,4.295242497712286
-474,The Grenfell Record and Lachlan District Advertiser (NSW : 1876 - 1951),11157,259523,4.29904093278823
+474,The Grenfell Record and Lachlan District Advertiser (NSW : 1876 - 1951),11158,259523,4.299426255091071
+1063,The Dalby Herald (Qld. : 1910 - 1954),9117,212002,4.300431128008227
 700,The Ulladulla and Milton Times (NSW : 1891 - 1917),1487,34506,4.3093954674549355
 618,Warracknabeal Herald (Vic. : 1914 - 1918),1519,35191,4.316444545480379
-494,Moree Gwydir Examiner and General Advertiser (NSW : 1901 - 1940),9264,214612,4.316627215626339
-1064,The Beaudesert Times (Qld. : 1908 - 1954),9288,214993,4.32014065574228
+494,Moree Gwydir Examiner and General Advertiser (NSW : 1901 - 1940),9268,214612,4.318491044303208
+1064,The Beaudesert Times (Qld. : 1908 - 1954),9293,214993,4.322466312856698
 1212,"Southern Queensland Bulletin (Southport, Qld. : 1888 - 1891)",233,5389,4.323622193356838
-879,The Don Dorrigo Gazette and Guy Fawkes Advocate (NSW : 1910 - 1954),6202,143063,4.335153044462929
-839,Gympie Times and Mary River Mining Gazette (Qld. : 1868 - 1919),16632,382974,4.342853561860596
-942,"Truth (Brisbane, Qld. : 1900 - 1954)",23086,530892,4.34853039789637
-489,The Hillston Spectator and Lachlan River Advertiser (NSW : 1898 - 1952),4373,100418,4.354796948754207
+879,The Don Dorrigo Gazette and Guy Fawkes Advocate (NSW : 1910 - 1954),6204,143063,4.336551029965819
+839,Gympie Times and Mary River Mining Gazette (Qld. : 1868 - 1919),16637,382974,4.344159133518202
+942,"Truth (Brisbane, Qld. : 1900 - 1954)",23096,530892,4.350414020177362
 623,"Sunday News (Sydney, NSW : 1919)",80,1837,4.354926510615133
-763,Colac Reformer (Vic. : 1914 - 1918),2088,47925,4.356807511737089
+489,The Hillston Spectator and Lachlan River Advertiser (NSW : 1898 - 1952),4375,100418,4.356788623553546
+763,Colac Reformer (Vic. : 1914 - 1918),2089,47925,4.358894105372978
 1668,The Wyndham Gazette (WA : 1930),22,503,4.3737574552683895
 608,Talbot Leader (Vic. : 1914 - 1918),407,9305,4.373992477162815
 755,Avoca Free Press and Farmers' and Miners' Journal (Vic. : 1900; 1914 - 1918),531,12138,4.3746910528917455
 1001,"Party Builder (Sydney, NSW : 1942)",7,160,4.375
-335,"Standard (Port Melbourne, Vic. : 1884 - 1914)",2757,62904,4.382869133918351
+335,"Standard (Port Melbourne, Vic. : 1884 - 1914)",2759,62904,4.38604858196617
 431,Narandera Argus and Riverina Advertiser (NSW : 1893 - 1953),13109,298843,4.386584259962589
 760,Birregurra Times (Vic. : 1918),60,1367,4.389173372348208
 531,Robertson Mail (NSW : 1924 - 1930),959,21818,4.3954532954441285
-191,"Worker (Brisbane, Qld. : 1890 - 1955)",12507,284473,4.3965508150158366
 812,Goomalling-Dowerin Mail (WA : 1911 - 1916),967,21983,4.3988536596460905
+191,"Worker (Brisbane, Qld. : 1890 - 1955)",12531,284473,4.404987468054965
 847,"Chronicle, South Yarra Gazette, Toorak Times and Malvern Standard (Vic. : 1892 - 1893)",164,3720,4.408602150537634
-247,The Prahran Telegraph (Vic. : 1889 - 1930),7377,167067,4.415593743827326
+247,The Prahran Telegraph (Vic. : 1889 - 1930),7379,167067,4.416790868334261
 503,The Shoalhaven Telegraph (NSW : 1881 - 1937),5164,116848,4.419416678077502
 467,"The Wyalong Advocate and Mining, Agricultural and Pastoral Gazette (NSW : 1900 - 1928)",6728,152229,4.41965722694099
 825,"Quiz (Adelaide, SA : 1889 - 1890)",53,1199,4.420350291909925
 518,The Shoalhaven News and South Coast Districts Advertiser (NSW : 1891 - 1937),4403,99304,4.433859663256263
 1590,"The Shoalhaven News, Broughton Creek, Kiama and Ulladulla Advertiser (NSW : 1873)",13,293,4.436860068259386
-989,Coffs Harbour Advocate (NSW : 1907 - 1942; 1946 - 1954),7305,164222,4.448246885313782
+989,Coffs Harbour Advocate (NSW : 1907 - 1942; 1946 - 1954),7307,164222,4.449464748937413
 868,"Land (Hobart, Tas. : 1924 - 1925)",52,1168,4.4520547945205475
 1447,Mount Morgans Miner (WA : 1900; 1901 - 1903),136,3046,4.4648719632304665
 471,The Bathurst Post (NSW : 1881 - 1922),248,5549,4.4692737430167595
 169,Malvern Standard (Vic. : 1906 - 1931),1705,38088,4.476475530350767
-788,Minyip Guardian and Sheep Hills Advocate (Vic. : 1915 - 1918),541,12067,4.483301566255076
-1324,The Kyneton Observer (Vic. : 1856 - 1900),8323,185430,4.488486221215553
-186,"The Capricornian (Rockhampton, Qld. : 1875 - 1929)",26203,581273,4.507864635033797
-926,Laura Standard and Crystal Brook Courier (SA : 1917 - 1948),2451,54348,4.50982556855818
+1324,The Kyneton Observer (Vic. : 1856 - 1900),8328,185430,4.4911826565280695
+788,Minyip Guardian and Sheep Hills Advocate (Vic. : 1915 - 1918),542,12067,4.491588630148338
+186,"The Capricornian (Rockhampton, Qld. : 1875 - 1929)",26210,581273,4.509068888456887
+926,Laura Standard and Crystal Brook Courier (SA : 1917 - 1948),2455,54348,4.517185545006256
 1094,"The Express (Adelaide, SA : 1922 - 1923)",1049,23140,4.533275713050994
-441,"The Mirror (Sydney, NSW : 1917 - 1919)",561,12361,4.5384677615079685
 248,"Record (Emerald Hill, Vic. : 1881 - 1954)",8246,181468,4.544051843851257
 1039,"The Voice of Jacob. or, the Hebrews' Monthly Miscellany (Sydney, NSW : 1842)",2,44,4.545454545454546
-348,Port Pirie Recorder and North Western Mail (SA : 1898 - 1918),6486,142669,4.5461873287119134
+348,Port Pirie Recorder and North Western Mail (SA : 1898 - 1918),6487,142669,4.5468882518276565
 485,The Braidwood Review and District Advocate (NSW : 1915 - 1954),3949,86791,4.550010945835398
-401,"Murray Pioneer and Australian River Record (Renmark, SA : 1913 - 1942)",9783,214957,4.551142786696874
-1093,"The Express and Telegraph (Adelaide, SA : 1867 - 1922)",61443,1348238,4.557281429539888
-486,"The Gundagai Independent and Pastoral, Agricultural and Mining Advocate (NSW : 1898 - 1928)",5421,118866,4.5605976477714405
+401,"Murray Pioneer and Australian River Record (Renmark, SA : 1913 - 1942)",9786,214957,4.552538414659677
+441,"The Mirror (Sydney, NSW : 1917 - 1919)",563,12361,4.554647682226357
+1093,"The Express and Telegraph (Adelaide, SA : 1867 - 1922)",61460,1348238,4.558542334513639
+486,"The Gundagai Independent and Pastoral, Agricultural and Mining Advocate (NSW : 1898 - 1928)",5424,118866,4.56312149815759
 615,Ultima and Chillingollah Star (Vic. : 1914 - 1918),431,9439,4.566161669668397
-567,Hamilton Spectator (Vic. : 1870 - 1918),23712,518019,4.577438279290915
-881,"The Macleay Chronicle (Kempsey, NSW : 1899 - 1952)",8992,195950,4.588925746363868
+567,Hamilton Spectator (Vic. : 1870 - 1918),23714,518019,4.57782436551555
 1377,Guinea Gold (Papua New Guinea : 1942 - 1945),2206,48070,4.589140836280425
-650,"National Advocate (Bathurst, NSW : 1889 - 1954)",73710,1603520,4.596762123328677
-423,"Leader (Orange, NSW : 1899 - 1945)",39890,867519,4.598170184168877
+881,"The Macleay Chronicle (Kempsey, NSW : 1899 - 1952)",8994,195950,4.58994641490176
+423,"Leader (Orange, NSW : 1899 - 1945)",39898,867519,4.599092354173222
+650,"National Advocate (Bathurst, NSW : 1889 - 1954)",73779,1603520,4.601065156655358
 688,Gosford Times and Gosford and Wollombi Express (NSW : 1892 - 1906),270,5863,4.605150946614361
 766,Kerang Observer (Vic. : 1914 - 1918),691,15002,4.606052526329822
-661,"Western Age (Dubbo, NSW : 1914 - 1932)",2441,52784,4.624507426492876
+661,"Western Age (Dubbo, NSW : 1914 - 1932)",2442,52784,4.626401939981813
 969,"The Pioneer (Yorketown, SA : 1898 - 1954)",5494,118693,4.628748114884618
 1679,"The Shoalhaven News, Broughton Creek and Ulladulla Advertiser (NSW : 1877)",60,1296,4.62962962962963
 422,Forbes Times (NSW : 1899 - 1902; 1912 - 1920),3162,68258,4.632424038207976
 1072,"Telegraph (Launceston, Tas. : 1881 - 1883)",301,6497,4.632907495767277
 407,"Weekly Herald (Adelaide, SA : 1894 - 1898)",361,7789,4.6347413018359225
 658,"Southern Star (Bega, NSW : 1900 - 1923)",1787,38545,4.636139577117655
-738,"South Western Advertiser (Perth, WA : 1910 - 1954)",6731,144902,4.6452084857351865
 790,Woomelang Sun and Lascelles and Ouyen Advocate (Vic. : 1914 - 1918),380,8171,4.650593562599437
-856,"Times (Victor Harbor, SA : 1987 - 1999)",6686,143726,4.6519071010116475
 1124,"Primary Producer (Perth, WA : 1916 - 1921)",259,5567,4.652416022992635
-1296,The Sydney Daily Telegraph (NSW : 1879 -1883),3425,73615,4.652584391767982
-925,The Laura Standard (SA : 1889 - 1917),1993,42724,4.664825390881004
-710,"Catholic Freeman's Journal (Sydney, NSW : 1932 - 1942)",4674,100072,4.670637141258294
+856,"Times (Victor Harbor, SA : 1987 - 1999)",6687,143726,4.652602869348621
+1296,The Sydney Daily Telegraph (NSW : 1879 -1883),3428,73615,4.65665964816953
+738,"South Western Advertiser (Perth, WA : 1910 - 1954)",6757,144902,4.663151647320258
+925,The Laura Standard (SA : 1889 - 1917),1995,42724,4.669506600505571
+710,"Catholic Freeman's Journal (Sydney, NSW : 1932 - 1942)",4675,100072,4.671636421776322
 1437,The Southern Cross Herald (WA : 1894 - 1896),124,2653,4.6739540143234075
-833,Cloncurry Advocate (Qld. : 1931 - 1953),3006,64305,4.674597620713786
 1689,"The Dialectic : Jewish Monthly (Fitzroy, Vic. : 1875)",6,128,4.6875
-372,"Northern Argus (Clare, SA : 1869 - 1954)",11220,239264,4.689380767687576
+372,"Northern Argus (Clare, SA : 1869 - 1954)",11221,239264,4.689798716062592
+833,Cloncurry Advocate (Qld. : 1931 - 1953),3016,64305,4.6901485110022545
 764,Port Fairy Times and Macarthur News (Vic. : 1917 - 1918),97,2065,4.697336561743342
-266,"The Western Champion and General Advertiser for the Central-Western Districts (Barcaldine, Qld. : 1892 - 1922)",6343,135031,4.69743984714621
+266,"The Western Champion and General Advertiser for the Central-Western Districts (Barcaldine, Qld. : 1892 - 1922)",6344,135031,4.69818041782998
 564,"Gordon, Egerton and Ballan Advertiser (Vic. : 1914 - 1918)",867,18440,4.7017353579175705
-370,Port Lincoln Times (SA : 1927 - 1954),6846,145571,4.702859772894326
+370,Port Lincoln Times (SA : 1927 - 1954),6847,145571,4.703546722904974
 307,Port Fairy Gazette (Vic. : 1914 - 1918),1603,34055,4.707091469681398
 1065,The St. George Standard and Balonne Advertiser (Qld. : 1878 - 1879; 1902 - 1904),180,3818,4.714510214772132
 1483,The Elmore Standard (Vic. : 1882 - 1912),3479,73793,4.714539319447645
@@ -762,222 +762,222 @@ id,title,articles_with_corrections,total_articles,percentage_with_corrections
 1317,Granville Independent and Parramatta Advertiser (NSW : 1900 - 1901),90,1893,4.754358161648177
 1270,The Albany Mail and King George's Sound Advertiser (WA : 1883 - 1889),630,13250,4.754716981132075
 616,Upper Murray and Mitta Herald (Vic. : 1914 - 1918),920,19342,4.756488470685555
-378,"Queensland Times (Ipswich, Qld. : 1909 - 1954)",88692,1862661,4.7615749725795515
-1176,Lithgow Mercury (NSW : 1898 - 1954),33112,693099,4.777383894652856
-1153,Lachlander and Condobolin and Western Districts Recorder (NSW : 1899 - 1952),9424,197259,4.7774752989724165
+378,"Queensland Times (Ipswich, Qld. : 1909 - 1954)",88721,1862661,4.763131884975312
+1176,Lithgow Mercury (NSW : 1898 - 1954),33120,693099,4.778538130916362
+1153,Lachlander and Condobolin and Western Districts Recorder (NSW : 1899 - 1952),9430,197259,4.780516985283308
 1096,The Terowie Enterprise (SA : 1884 - 1891),407,8510,4.782608695652174
 1558,"Western Women (Perth, WA : 1914 - 1919)",116,2423,4.787453569954601
-606,Stawell News and Pleasant Creek Chronicle (Vic. : 1914 - 1918),1362,28405,4.794930469987678
 496,"Northern Times (Newcastle, NSW : 1857 - 1918)",3179,66284,4.796029207651922
 579,Maldon News (Vic. : 1916 - 1918),300,6250,4.8
 1173,Yorke's Peninsula Advertiser (SA : 1878 - 1922),4493,93544,4.803087317198323
 269,"The North Queensland Register (Townsville, Qld. : 1892 - 1905)",6721,139853,4.805760334065054
-481,The Tamworth Daily Observer (NSW : 1910 - 1916),12865,267030,4.817810732876455
+606,Stawell News and Pleasant Creek Chronicle (Vic. : 1914 - 1918),1367,28405,4.812533004752685
+481,The Tamworth Daily Observer (NSW : 1910 - 1916),12866,267030,4.818185222634161
 870,"Champion (Melbourne, Vic. : 1895 - 1897)",163,3383,4.81820869051138
-344,The Bunbury Herald and Blackwood Express (WA : 1919 - 1929),3612,74943,4.819662943837316
+344,The Bunbury Herald and Blackwood Express (WA : 1919 - 1929),3613,74943,4.820997291274702
 227,Warrnambool Standard (Vic. : 1914 - 1918),7324,151683,4.828490997672779
-331,Shepparton Advertiser (Vic. : 1914 - 1953),14720,304735,4.83042643608381
-632,The West Wyalong Advocate (NSW : 1928 - 1954),10846,224436,4.832558056639755
-316,"Gippsland Mercury (Sale, Vic. : 1914 - 1918)",1587,32839,4.832668473461433
-436,The Albury Banner and Wodonga Express (NSW : 1860 - 1938),37337,771137,4.841811506904739
-375,"Sunday Mail (Brisbane, Qld. : 1926 - 1954)",21799,450161,4.842489687023088
+331,Shepparton Advertiser (Vic. : 1914 - 1953),14722,304735,4.831082744023496
+632,The West Wyalong Advocate (NSW : 1928 - 1954),10849,224436,4.8338947405942
+316,"Gippsland Mercury (Sale, Vic. : 1914 - 1918)",1588,32839,4.8357136331800605
+436,The Albury Banner and Wodonga Express (NSW : 1860 - 1938),37344,771137,4.842719257408216
+375,"Sunday Mail (Brisbane, Qld. : 1926 - 1954)",21807,450161,4.844266828978965
 271,"The Clipper (Hobart, Tas. : 1893 - 1909)",1647,33928,4.854397547748173
 1225,"The Propeller (Hurstville, NSW : 1911 - 1954)",8987,184861,4.861490525313614
-519,"The Southern Mail (Bowral, NSW : 1889 - 1954)",7526,154573,4.868896896611957
+519,"The Southern Mail (Bowral, NSW : 1889 - 1954)",7527,154573,4.869543840127318
 609,Terang Express (Vic. : 1914 - 1918),1455,29825,4.8784576697401505
 1493,"North Coast Times (Bellingen and Coffs Harbour, NSW : 1888 - 1889)",43,881,4.880817253121453
 776,"Public Opinion (Melbourne, Vic. : 1914 - 1915)",104,2130,4.882629107981221
-806,The Bendigo Independent (Vic. : 1891 - 1918),40122,821128,4.886205317563157
+806,The Bendigo Independent (Vic. : 1891 - 1918),40133,821128,4.8875449381825975
 131,"The Broadford Courier (Broadford, Vic. : 1916 - 1920)",263,5376,4.892113095238095
-81,"Northern Star (Lismore, NSW : 1876 - 1954)",108406,2215684,4.892665199550116
-68,"Examiner (Launceston, Tas. : 1900 - 1954)",140515,2867323,4.900564045278471
-46,"Advocate (Burnie, Tas. : 1890 - 1954)",102769,2092252,4.911884419276454
+81,"Northern Star (Lismore, NSW : 1876 - 1954)",108447,2215684,4.894515643927564
+68,"Examiner (Launceston, Tas. : 1900 - 1954)",140532,2867323,4.901156932790621
+46,"Advocate (Burnie, Tas. : 1890 - 1954)",102779,2092252,4.9123623731749335
 1097,"The Central Advocate (Balaklava, SA : 1903 - 1909)",506,10294,4.915484748397125
 628,"Daily Witness (Young, NSW : 1923 - 1924)",425,8627,4.926393879680075
 1080,"The Australian (Perth, WA : 1917 - 1923)",884,17905,4.937168388718235
 267,"The Western Champion (Barcaldine, Qld. : 1922 - 1937)",3612,73140,4.938474159146842
 955,The Church of England Messenger and Ecclesiastical Gazette for the Diocese of Melbourne and Ballarat (Vic. : 1876 - 1889),255,5135,4.965920155793573
 1101,Ariah Park News (NSW : 1923 - 1928),614,12350,4.97165991902834
-487,"The Gundagai Times and Tumut, Adelong and Murrumbidgee District Advertiser (NSW : 1868 - 1931)",10794,216786,4.979103816667128
+487,"The Gundagai Times and Tumut, Adelong and Murrumbidgee District Advertiser (NSW : 1868 - 1931)",10797,216786,4.980487669867981
 215,"Oakleigh Leader (North Brighton, Vic. : 1888 - 1902)",1428,28648,4.984641161686679
-702,The Wingham Chronicle and Manning River Observer (NSW : 1898 - 1954),12093,242128,4.994465737130774
+702,The Wingham Chronicle and Manning River Observer (NSW : 1898 - 1954),12099,242128,4.9969437652811735
 1576,"Die Deutsche Post für die Australischen Colonien = The German Australian Post (Adelaide, SA : 1848 - 1851)",17,339,5.014749262536873
 590,Northern District Standard (Vic. : 1915 - 1916),94,1874,5.016008537886873
 530,Robertson Advocate (NSW : 1894 - 1923),3631,72383,5.016371247392343
 235,The Queenscliff Sentinel (Vic. : 1884 - 1885),58,1155,5.021645021645021
 1197,"The Golden Gate (Fremantle, WA : 1911 - 1912)",168,3339,5.031446540880504
-698,The Sydney Mail and New South Wales Advertiser (NSW : 1871 - 1912),24685,490505,5.032568475346837
-270,Zeehan and Dundas Herald (Tas. : 1890 - 1922),22885,454556,5.034583197669814
-61,Cairns Post (Qld. : 1909 - 1954),96830,1918132,5.048140586779221
+270,Zeehan and Dundas Herald (Tas. : 1890 - 1922),22888,454556,5.035243182358169
+698,The Sydney Mail and New South Wales Advertiser (NSW : 1871 - 1912),24726,490505,5.040927207673724
+61,Cairns Post (Qld. : 1909 - 1954),96887,1918132,5.051112227938432
 961,"The Tocsin (Melbourne, Vic. : 1897 - 1906)",1025,20225,5.067985166872682
 991,Port Augusta Dispatch (SA : 1884),78,1539,5.0682261208577
 880,The Inverell Argus (NSW : 1899 - 1904),672,13237,5.076679005817028
-711,"Catholic Weekly (Sydney, NSW : 1942 - 1954)",4372,86091,5.078347330150654
+711,"Catholic Weekly (Sydney, NSW : 1942 - 1954)",4373,86091,5.079508891754074
 404,"The Times and Northern Advertiser, Peterborough, South Australia (SA : 1919 - 1950)",3644,71266,5.113237729071366
-819,"Southern Times (Bunbury, WA : 1888 - 1916)",6870,133798,5.134605898443923
-460,"The Australasian (Melbourne, Vic. : 1864 - 1946)",58707,1142743,5.1373755953875895
-356,Newcastle Morning Herald and Miners' Advocate (NSW : 1876 - 1954),182902,3559146,5.138929394860452
-512,The Murrurundi Times and Liverpool Plains Gazette (NSW : 1874 - 1907; 1926 - 1929),2072,40184,5.156281106908222
+819,"Southern Times (Bunbury, WA : 1888 - 1916)",6872,133798,5.136100689098492
+460,"The Australasian (Melbourne, Vic. : 1864 - 1946)",58718,1142743,5.138338191526879
+356,Newcastle Morning Herald and Miners' Advocate (NSW : 1876 - 1954),182997,3559146,5.141598574489499
+512,The Murrurundi Times and Liverpool Plains Gazette (NSW : 1874 - 1907; 1926 - 1929),2073,40184,5.158769659565996
 745,"The Hummer (Wagga Wagga, NSW : 1891 - 1892)",38,736,5.163043478260869
-374,Western Star and Roma Advertiser (Qld. : 1875 - 1948),16679,323019,5.163473356056455
+374,Western Star and Roma Advertiser (Qld. : 1875 - 1948),16685,323019,5.165330831932486
 920,"The Blue Mountains Times (Katoomba, NSW : 1931 - 1937)",295,5705,5.170902716914987
 140,Healesville Guardian (Vic. : 1893 - 1898),410,7921,5.1761141270041655
-772,"Seaside News (Cheltenham, Vic. : 1915 - 1918)",434,8381,5.178379668297339
 1491,Fremantle Advocate (WA : 1926 - 1942),2194,42323,5.1839425371547385
 830,The Victor Harbor Times and Encounter Bay and Lower Murray Pilot (SA : 1912 - 1930),1614,31083,5.1925489817585175
-97,Townsville Daily Bulletin (Qld. : 1907 - 1954),91300,1757382,5.195227901503487
+97,Townsville Daily Bulletin (Qld. : 1907 - 1954),91332,1757382,5.197048791896127
 277,Adelaider Deutsche Zeitung (SA : 1851 - 1862),164,3155,5.198098256735341
 739,"The South-Western News (Busselton, WA : 1903 - 1954)",6065,116172,5.220707227214819
-275,"The Daily News (Perth, WA : 1882 - 1955)",156439,2991717,5.2290707978060755
+275,"The Daily News (Perth, WA : 1882 - 1955)",156482,2991717,5.230508099529468
 1203,"The Hannan's Herald (Kalgoorlie, WA : 1895 - 1896)",184,3516,5.233219567690557
 1125,"The Reformer (Perth, WA : 1906 - 1919)",207,3953,5.236529218315203
-809,"The Age (Melbourne, Vic. : 1854 - 1954)",279871,5340734,5.240309665300687
-610,The Independent (Benalla) (Vic. : 1914 - 1918),413,7842,5.26651364447845
+809,"The Age (Melbourne, Vic. : 1854 - 1954)",279950,5340734,5.241788862729355
 517,The Queanbeyan Leader (NSW : 1905 - 1916),795,15078,5.27258257063271
 1529,"The Fremantle Times (WA : 1919 - 1921, 1932)",534,10126,5.273553229310686
 562,Gisborne Gazette (Vic. : 1914 - 1918),543,10288,5.2779937791601865
 637,The Bombala Times (NSW : 1912 - 1938),2734,51790,5.2790113921606485
+610,The Independent (Benalla) (Vic. : 1914 - 1918),414,7842,5.279265493496557
 577,Lang Lang Guardian (Vic. : 1914 - 1918),299,5659,5.283619013960063
 491,"The International Socialist (Sydney, NSW : 1910 - 1920)",688,13009,5.288646321777231
-130,"The Broadford Courier and Reedy Creek Times (Broadford, Vic. : 1893 - 1916)",2326,43761,5.3152350266218775
+130,"The Broadford Courier and Reedy Creek Times (Broadford, Vic. : 1893 - 1916)",2327,43761,5.317520166358173
 139,"Warragul Guardian (Warragul, Vic. : 1895 - 1900)",1361,25583,5.3199390220068015
 321,"Great Southern Star (Leongatha, Vic. : 1914 - 1918)",570,10689,5.332584900364861
+772,"Seaside News (Cheltenham, Vic. : 1915 - 1918)",447,8381,5.3334924233385035
 682,The Tenterfield Courier and District Advocate (NSW : 1914),204,3823,5.336123463248757
 1302,"All Grades Advocate (Sydney, NSW : 1917)",36,674,5.341246290801187
-1050,"The Protestant Standard (Sydney, NSW : 1869 - 1895)",2290,42826,5.347218979124831
+1050,"The Protestant Standard (Sydney, NSW : 1869 - 1895)",2292,42826,5.351889039368608
 787,Dimboola Banner and Wimmera and Mallee Advertiser (Vic. : 1914 - 1918),621,11601,5.352986811481769
 211,The Kerang Times (Vic. : 1889 - 1901),2203,41124,5.356969166423499
-973,The Beverley Times (WA : 1905 - 1977),11619,216518,5.366297490277945
+973,The Beverley Times (WA : 1905 - 1977),11624,216518,5.368606767104814
 620,Weekly News (Yarraville) (Vic. : 1914 - 1918),541,10056,5.3798727128082735
 587,"Nathalia Herald and Picola, Narioka, Kotupna and Moira Advertiser (Vic. : 1914 - 1918)",523,9719,5.381212058853792
 1451,"Midlands Advocate (Perth, WA : 1930 - 1954)",5219,96892,5.386409610700574
-639,Cootamundra Herald (NSW : 1877 - 1954),34324,635410,5.401866511386348
+639,Cootamundra Herald (NSW : 1877 - 1954),34325,635410,5.402023890086715
 636,Bombala Times and Manaro and Coast Districts General Advertiser (NSW : 1899 - 1905),817,15119,5.403796547390701
 1099,"The Producer (Balaklava, SA : 1940 - 1950)",799,14701,5.435004421467927
 1059,"Johnstone River Advocate (Geraldton, Qld. : 1906 - 1908)",122,2242,5.44157002676182
 622,West Wimmera Mail and Natimuk Advertiser (Vic. : 1914 - 1918),601,11037,5.445320286309686
 438,"The Mirror of Australia (Sydney, NSW : 1915 - 1917)",490,8982,5.455355154753953
-420,Cowra Free Press (NSW : 1911 - 1937),8147,149234,5.4592117077877695
+420,Cowra Free Press (NSW : 1911 - 1937),8148,149234,5.459881796373481
 1303,"The Gateway (Port Adelaide, SA : 1946)",60,1096,5.474452554744526
-281,Singleton Argus (NSW : 1880 - 1954),39924,726305,5.496864265012633
-1183,Dubbo Dispatch and Wellington Independent (NSW : 1887 - 1932),17322,315029,5.498541404124699
+281,Singleton Argus (NSW : 1880 - 1954),39933,726305,5.498103413855061
+1183,Dubbo Dispatch and Wellington Independent (NSW : 1887 - 1932),17324,315029,5.4991762663119905
 1393,"The Spectator (Sydney, NSW : 1892)",11,200,5.5
 674,The Bathurst Daily Argus (NSW : 1909),798,14491,5.506866330826029
 629,The Maitland Mercury (NSW : 1939),47,853,5.509964830011723
 278,"Süd Australische Zeitung (Tanunda and Adelaide, SA : 1860 - 1874)",1160,20996,5.524861878453039
 769,Woodend Star (Vic. : 1915 - 1918),343,6206,5.526909442475024
-291,"Chronicle (Adelaide, SA : 1895 - 1954)",67292,1214105,5.542518974882733
+291,"Chronicle (Adelaide, SA : 1895 - 1954)",67305,1214105,5.543589722470462
 138,"Warragul Guardian and West Gippsland Advertiser (Warragul, Vic. : 1894)",213,3842,5.543987506507028
 268,"The Northern Mining Register (Charters Towers, Qld. : 1891 - 1892)",575,10367,5.546445451914729
-1157,The Nowra Leader (NSW : 1909 - 1939),4222,76063,5.55066195127723
+1157,The Nowra Leader (NSW : 1909 - 1939),4225,76063,5.554606050247821
 274,"The Charleville Times (Brisbane, Qld. : 1896 - 1954)",6010,108047,5.562394143289494
 400,"Murray Pioneer (Renmark, SA : 1942 - 1950)",2750,49373,5.569845867174367
-656,"The Riverine Grazier (Hay, NSW : 1873 - 1954)",19577,350985,5.577731242075872
+656,"The Riverine Grazier (Hay, NSW : 1873 - 1954)",19580,350985,5.578585979457812
 1309,"The Western Weekly News (Port Lincoln, SA : 1902-1904)",7,125,5.6000000000000005
 709,"The Australian Producer's Home Journal (Sydney, NSW : 1910)",24,428,5.607476635514018
-413,Wagga Wagga Advertiser (NSW : 1875 - 1910),16128,286609,5.627178490556822
-488,"The Hebrew Standard of Australasia (Sydney, NSW : 1895 - 1953)",8016,142400,5.629213483146067
-516,The Port Macquarie News and Hastings River Advocate (NSW : 1882 - 1950),9483,168385,5.631736793657392
+413,Wagga Wagga Advertiser (NSW : 1875 - 1910),16132,286609,5.628574120142773
+488,"The Hebrew Standard of Australasia (Sydney, NSW : 1895 - 1953)",8017,142400,5.629915730337079
 836,Mackay Mercury (Qld. : 1887 - 1905),4548,80734,5.63331434092204
-508,"Evening News (Sydney, NSW : 1869 - 1931)",136353,2419247,5.636175223116945
+516,The Port Macquarie News and Hastings River Advocate (NSW : 1882 - 1950),9489,168385,5.635300056418327
+508,"Evening News (Sydney, NSW : 1869 - 1931)",136396,2419247,5.6379526356754806
 194,"The Caulfield and Elsternwick Leader (North Brighton, Vic. : 1888 - 1902)",1380,24474,5.638636920813925
 449,"Construction and Local Government Journal (Sydney, NSW : 1913 - 1930)",1897,33573,5.650373812289637
 1048,"The Dead Bird (Sydney, NSW : 1889 - 1891)",136,2406,5.652535328345802
-106,Nambour Chronicle and North Coast Advertiser (Qld. : 1922 - 1954),12263,216938,5.652767150061308
+106,Nambour Chronicle and North Coast Advertiser (Qld. : 1922 - 1954),12267,216938,5.654610994846454
 585,Nagambie Times (Vic. : 1882 - 1920),819,14465,5.661942620117525
 230,"Queenscliff Sentinel, Drysdale, Portarlington and Sorrento Advertiser (Vic. : 1885 - 1894)",847,14952,5.664794007490636
 1610,"The Bunbury Star (Collie, WA : 1935-1936)",88,1553,5.666452028332261
-357,"Globe (Sydney, NSW : 1885 - 1886)",765,13499,5.6670864508482115
-907,"The Mountaineer (Katoomba, NSW : 1894 - 1908)",1139,20084,5.671181039633539
-429,The Cessnock Eagle and South Maitland Recorder (NSW : 1913 - 1954),16581,292263,5.673314788392647
+429,The Cessnock Eagle and South Maitland Recorder (NSW : 1913 - 1954),16588,292263,5.675709891433401
+907,"The Mountaineer (Katoomba, NSW : 1894 - 1908)",1140,20084,5.676160127464649
 523,Bowral and Robertson Free Press (NSW : 1901),161,2836,5.677009873060649
 1182,"The Sun : Sunday Edition (Sydney, NSW : 1910)",15,264,5.681818181818182
+357,"Globe (Sydney, NSW : 1885 - 1886)",767,13499,5.68190236313801
 988,Port Augusta Dispatch (SA : 1877 - 1880),269,4703,5.719753348926218
 744,Canowindra Star and Woodstock Recorder (NSW : 1902 - 1903),247,4315,5.724217844727694
-447,"The Catholic Press (Sydney, NSW : 1895 - 1942)",25529,445956,5.724555785772587
-256,"The Biz (Fairfield, NSW : 1928 - 1972)",12302,214586,5.732899629985181
+447,"The Catholic Press (Sydney, NSW : 1895 - 1942)",25544,445956,5.7279193463032225
+256,"The Biz (Fairfield, NSW : 1928 - 1972)",12308,214586,5.735695711742611
 497,"People (Sydney, NSW : 1900 - 1919)",1019,17739,5.744404983369976
-102,The Longreach Leader (Qld. : 1923 - 1954),13892,241250,5.758341968911917
-259,Warwick Examiner and Times (Qld. : 1867 - 1919),17775,308652,5.7589129505073675
+102,The Longreach Leader (Qld. : 1923 - 1954),13896,241250,5.76
+259,Warwick Examiner and Times (Qld. : 1867 - 1919),17780,308652,5.760532897891476
 1714,"The Pilot (Upper Ferntree Gully, Vic. : 1921 - 1922)",80,1388,5.763688760806916
 250,The Lilydale Express (Vic. : 1886 - 1897 ; 1914 - 1926),2563,44447,5.766418430940221
-653,"The Northern Champion (Taree, NSW : 1913 - 1954)",12705,220256,5.768287810547727
-510,"The Manaro Mercury, and Cooma and Bombala Advertiser (NSW : 1862 - 1931)",11558,200339,5.769221170116652
-369,Goulburn Evening Post (NSW : 1940 - 1954),17070,295414,5.778331426404978
+653,"The Northern Champion (Taree, NSW : 1913 - 1954)",12707,220256,5.769195844835101
+369,Goulburn Evening Post (NSW : 1940 - 1954),17071,295414,5.778669934397151
+510,"The Manaro Mercury, and Cooma and Bombala Advertiser (NSW : 1862 - 1931)",11583,200339,5.781700018468696
 196,Kyabram Union (Vic. : 1886 - 1894),818,14113,5.796074541203146
-290,"South Australian Chronicle (Adelaide, SA : 1889 - 1895)",7093,122001,5.813886771419907
+290,"South Australian Chronicle (Adelaide, SA : 1889 - 1895)",7094,122001,5.814706436832485
 774,Footscray Chronicle (Vic. : 1914 - 1918),591,10156,5.819220165419456
 1340,Illustrated Adelaide Post (SA : 1867 - 1874),245,4205,5.826397146254459
-734,"Eastern Districts Chronicle (York, WA : 1877 - 1927)",4970,85147,5.8369643087836325
+734,"Eastern Districts Chronicle (York, WA : 1877 - 1927)",4971,85147,5.8381387482823826
 588,Nhill Free Press (Vic. : 1914 - 1918),1405,24013,5.850997376421105
 389,"Reporter and Illawarra Journal (Kiama, NSW : 1887 - 1894)",600,10234,5.86281024037522
 308,Port Melbourne Standard (Vic. : 1914 - 1920),717,12222,5.86647029945999
 117,Wellington Times and Agricultural and Mining Gazette (Tas. : 1890 - 1897),2162,36707,5.8898847631242
 963,Port Adelaide News and Commercial and Shipping Gazette (SA : 1878),26,441,5.895691609977324
 175,The Albany Advertiser (WA : 1897 - 1954),22364,378672,5.905902733764313
-717,Benalla Standard (Vic. : 1901 - 1931),11507,194395,5.919390930836698
+717,Benalla Standard (Vic. : 1901 - 1931),11509,194395,5.9204197638828155
 1206,"The Gippsland Farmers' Journal and Traralgon, Heyfield and Rosedale News (Vic. : 1887 - 1893)",1546,26107,5.92178342973149
-877,"The Manning River Times and Advocate for the Northern Coast Districts of New South Wales (Taree, NSW : 1898 - 1954)",17026,287390,5.924353665750374
 476,The Lyndhurst Shire Chronicle (NSW : 1897 - 1941; 1944 - 1954),1153,19462,5.924365430068852
 514,The Peak Hill Express (NSW : 1902 - 1952),1416,23893,5.92642196459214
-522,Bowral Free Press and Berrima District Intelligencer (NSW : 1884 - 1901),3098,52241,5.930208074118029
-75,"The Mail (Adelaide, SA : 1912 - 1954)",38783,653515,5.934523308569811
+877,"The Manning River Times and Advocate for the Northern Coast Districts of New South Wales (Taree, NSW : 1898 - 1954)",17035,287390,5.92748529872299
+75,"The Mail (Adelaide, SA : 1912 - 1954)",38791,653515,5.935747457977246
+522,Bowral Free Press and Berrima District Intelligencer (NSW : 1884 - 1901),3101,52241,5.935950690071017
 998,"Communist Review (Sydney, NSW : 1941 - 1943)",12,202,5.9405940594059405
 716,The Yackandandah Times (Vic. : 1890 - 1931),5799,97338,5.9575910744005425
-430,Narromine News and Trangie Advocate (NSW : 1898 - 1955),7373,123067,5.9910455280456985
-187,"The Central Queensland Herald (Rockhampton, Qld. : 1930 - 1956)",25844,431304,5.992061283920391
-1671,RAAF News (National : 1960 - 1997),1342,22376,5.997497318555595
+187,"The Central Queensland Herald (Rockhampton, Qld. : 1930 - 1956)",25851,431304,5.993684269100217
+430,Narromine News and Trangie Advocate (NSW : 1898 - 1955),7377,123067,5.994295790098077
 924,"The Kangaroo Island Courier (Kingscote, SA : 1907 - 1951)",3669,60692,6.045277796085151
+1671,RAAF News (National : 1960 - 1997),1354,22376,6.0511262066499825
 901,The Dandenong Journal (Vic. : 1927 - 1954),8288,136708,6.062556690171753
 245,Brighton Southern Cross (Vic. : 1896 - 1918),3293,54235,6.071724900894257
 90,"The Register News-Pictorial (Adelaide, SA : 1929 - 1931)",9319,153465,6.072394357019515
-660,Wellington Times (NSW : 1899 - 1954),26756,439513,6.087647009303479
+660,Wellington Times (NSW : 1899 - 1954),26757,439513,6.0878745338590665
 1252,"The Banner (Strahan, Tas. : 1901)",43,704,6.107954545454546
 1494,"Mountain District Free Press (Tecoma, Vic. : 1947 - 1954)",2386,38979,6.121244772826394
 427,Canowindra Star and Eugowra News (NSW : 1903 - 1907; 1910 - 1911; 1914 - 1922),2681,43763,6.126179649475584
 994,The Port Pirie Standard and Barrier Advertiser (SA : 1889 - 1898),763,12454,6.126545688132326
-240,Bairnsdale Advertiser and Tambo and Omeo Chronicle (Vic. : 1882 - 1918),13698,223490,6.129133294554566
-591,Numurkah Leader (Vic. : 1895 - 1948),7392,120452,6.136884402085478
-558,Geelong Advertiser (Vic. : 1859 - 1929),96405,1570220,6.139585535784795
-185,The Ballarat Star (Vic. : 1865 - 1924),90103,1463692,6.15587159047122
-691,South Coast Times and Wollongong Argus (NSW : 1900 - 1954),20774,336620,6.1713504842255364
+240,Bairnsdale Advertiser and Tambo and Omeo Chronicle (Vic. : 1882 - 1918),13699,223490,6.1295807418676445
+591,Numurkah Leader (Vic. : 1895 - 1948),7394,120452,6.13854481453193
+558,Geelong Advertiser (Vic. : 1859 - 1929),96424,1570220,6.14079555731044
+185,The Ballarat Star (Vic. : 1865 - 1924),90138,1463692,6.15826280392323
+691,South Coast Times and Wollongong Argus (NSW : 1900 - 1954),20776,336620,6.171944625987761
 440,"Democrat (Lithgow, NSW : 1915 - 1916)",319,5155,6.188166828322018
 115,The North Western Advocate and the Emu Bay Times (Tas. : 1899 - 1919),32951,532368,6.189515523096805
 1060,Johnstone River Advocate and Innisfail News (Qld. : 1928 - 1941),4144,66673,6.215409536094071
 515,The Picton Post (NSW : 1907 - 1954),5673,91184,6.221486225653623
-464,"Freeman's Journal (Sydney, NSW : 1850 - 1932)",31207,501490,6.22285588944944
+464,"Freeman's Journal (Sydney, NSW : 1850 - 1932)",31228,501490,6.227043410636304
 475,The Carcoar Chronicle (NSW : 1878 - 1943),2916,46727,6.2405033492413375
 234,"Queenscliff Sentinel, Drysdale, ... (Vic. : 1882 - 1884)",132,2108,6.261859582542694
-371,"Bunyip (Gawler, SA : 1863 - 1954)",14638,233707,6.263398186618287
+371,"Bunyip (Gawler, SA : 1863 - 1954)",14639,233707,6.263826072817673
 910,"Blue Mountains Daily (Katoomba, NSW : 1939)",141,2241,6.291834002677376
 779,Kilmore Advertiser (Vic. : 1915 - 1918),258,4097,6.29729070051257
-261,Warwick Argus (Qld. : 1879 - 1901),5825,92495,6.297637710146494
+261,Warwick Argus (Qld. : 1879 - 1901),5830,92495,6.30304340775177
 540,Castlemaine Mail (Vic. : 1917 - 1918),1056,16750,6.304477611940299
-756,Avoca Mail (Vic. : 1863 - 1900; 1915 - 1918),4197,66135,6.3461102290768885
-883,The Uralla Times and District Advocate (NSW : 1915 - 1923),1111,17500,6.348571428571429
+756,Avoca Mail (Vic. : 1863 - 1900; 1915 - 1918),4198,66135,6.347622287744764
+883,The Uralla Times and District Advocate (NSW : 1915 - 1923),1112,17500,6.354285714285714
 990,Port Augusta Dispatch and Flinders' Advertiser (SA : 1880 - 1884),883,13893,6.355718707262651
-1298,"Moreton Mail (Qld. : 1886 - 1899, 1930 - 1935)",1666,26053,6.394657045253906
 694,Sydney General Trade List (NSW : 1834 - 1842),289,4519,6.395220181456073
+1298,"Moreton Mail (Qld. : 1886 - 1899, 1930 - 1935)",1667,26053,6.398495374812882
 539,Bunyip Free Press and Berwick Shire Guardian (Vic. : 1914 - 1915),217,3379,6.422018348623854
 951,"Tribune (Hobart, Tas. : 1876 - 1879)",1776,27648,6.423611111111111
 954,"The Church of England Messenger (Melbourne, Vic. : 1870 - 1876)",153,2380,6.428571428571428
 1146,Frearson's Monthly Illustrated Adelaide News (SA : 1880 - 1884),133,2061,6.453178068898594
-300,Swan Hill Guardian and Lake Boga Advocate (Vic. : 1914 - 1918),1148,17759,6.464327946393378
-239,"The McIvor Times and Rodney Advertiser (Heathcote, Vic. : 1863 - 1918)",7061,109184,6.4670647713950755
+239,"The McIvor Times and Rodney Advertiser (Heathcote, Vic. : 1863 - 1918)",7062,109184,6.467980656506447
+300,Swan Hill Guardian and Lake Boga Advocate (Vic. : 1914 - 1918),1149,17759,6.469958894081874
 183,Liverpool News (NSW : 1937 - 1941),1073,16579,6.472042945895409
 298,Portland Observer and Normanby Advertiser (Vic. : 1914 - 1918),630,9721,6.480814730994753
 209,The Maffra Spectator (Vic. : 1882 - 1920),5602,86281,6.492738841691683
-424,Molong Argus (NSW : 1896 - 1921),6819,104984,6.495275470547893
-253,"Mirror (Perth, WA : 1921 - 1956)",22579,347482,6.497890538214929
-713,"Table Talk (Melbourne, Vic. : 1885 - 1939)",15552,239324,6.498303555013288
-398,Kapunda Herald (SA : 1878 - 1951),14386,220960,6.510680666183926
-241,The Colac Herald (Vic. : 1875 - 1918),14203,218117,6.511642833891902
+253,"Mirror (Perth, WA : 1921 - 1956)",22584,347482,6.499329461669958
+713,"Table Talk (Melbourne, Vic. : 1885 - 1939)",15556,239324,6.499974929384433
+424,Molong Argus (NSW : 1896 - 1921),6825,104984,6.500990627143184
+398,Kapunda Herald (SA : 1878 - 1951),14387,220960,6.511133236784938
+241,The Colac Herald (Vic. : 1875 - 1918),14205,218117,6.5125597729658855
 600,Riponshire Advocate (Vic. : 1914 - 1918),544,8353,6.512630192745121
-703,Sydney Mail (NSW : 1912 - 1938),8552,130838,6.536327366667176
+703,Sydney Mail (NSW : 1912 - 1938),8554,130838,6.537855974563965
 605,Shepparton News (Vic. : 1914 - 1918),1488,22752,6.5400843881856545
 483,The Campbelltown Herald (NSW : 1880 - 1919),1292,19736,6.546412646939603
-646,The Lockhart Review and Oaklands Advertiser (NSW : 1910 - 1954),4814,73281,6.569233498451167
 757,Bealiba Times (Vic. : 1915 - 1918),454,6910,6.570188133140377
+646,The Lockhart Review and Oaklands Advertiser (NSW : 1910 - 1954),4815,73281,6.570598108650263
 1158,The Twofold Bay Magnet : and South Coast and Southern Monaro Advertiser (NSW : 1908 - 1919),1156,17559,6.583518423600434
 631,The Telegraph and Shoalhaven Advertiser (NSW : 1879 - 1881),297,4509,6.58682634730539
 589,Northcote Leader (Vic. : 1914 - 1918),1138,17274,6.5879356257959945
@@ -986,116 +986,116 @@ id,title,articles_with_corrections,total_articles,percentage_with_corrections
 721,The Blayney Advocate and Carcoar Herald (NSW : 1898 - 1904),824,12497,6.593582459790349
 873,"Free Lance (Melbourne, Vic. : 1896)",76,1151,6.602953953084274
 627,Albury Banner Wodonga Express and Riverina Stock Journal (NSW : 1941),574,8660,6.628175519630484
-289,"South Australian Weekly Chronicle (Adelaide, SA : 1881 - 1889)",7433,112106,6.630332007207464
-377,"Queensland Times, Ipswich Herald and General Advertiser (Qld. : 1861 - 1908)",34485,516978,6.670496616877314
+289,"South Australian Weekly Chronicle (Adelaide, SA : 1881 - 1889)",7435,112106,6.632116033040159
+377,"Queensland Times, Ipswich Herald and General Advertiser (Qld. : 1861 - 1908)",34490,516978,6.671463776021416
 286,Chronicle and North Coast Advertiser (Qld. : 1903 - 1922),3850,57683,6.674410138168958
 778,Ouyen and North West Express (Vic. : 1918),27,404,6.683168316831684
-575,Kyneton Guardian (Vic. : 1870 - 1881; 1914 - 1918),4183,62568,6.685526147551464
-946,"The Tasmanian (Launceston, Tas. : 1871 - 1879)",2188,32692,6.692768873118806
+575,Kyneton Guardian (Vic. : 1870 - 1881; 1914 - 1918),4184,62568,6.687124408643395
 414,Argyle Liberal and District Recorder (NSW : 1903 - 1930),1360,20318,6.693572201988385
-146,Evelyn Observer and Bourke East Record (Vic. : 1902 - 1917),2265,33765,6.70812972012439
-669,"Illawarra Mercury (Wollongong, NSW : 1856 - 1950)",29443,438874,6.708759233857553
-89,"The Register (Adelaide, SA : 1901 - 1929)",130719,1947469,6.712250618623454
+946,"The Tasmanian (Launceston, Tas. : 1871 - 1879)",2189,32692,6.6958277254374154
+669,"Illawarra Mercury (Wollongong, NSW : 1856 - 1950)",29446,438874,6.709442801350729
 730,"The Wyalong Star and Temora and Barmedman Advertiser (West Wyalong, NSW : 1894 - 1895; 1899 - 1906)",2303,34298,6.714677240655432
-614,Tungamah and Lake Rowan Express and St. James Gazette (Vic. : 1914 - 1918),1470,21878,6.719078526373526
-453,The Tenterfield Intercolonial Courier and Fairfield and Wallangarra Advocate (NSW : 1900 - 1914),2675,39711,6.7361688197224945
-985,The Armidale Express and New England General Advertiser (NSW : 1856 - 1861; 1863 - 1889; 1891 - 1954),54970,812626,6.764489445329093
+89,"The Register (Adelaide, SA : 1901 - 1929)",130780,1947469,6.71538288927834
+614,Tungamah and Lake Rowan Express and St. James Gazette (Vic. : 1914 - 1918),1471,21878,6.723649328092147
+146,Evelyn Observer and Bourke East Record (Vic. : 1902 - 1917),2271,33765,6.725899600177698
+453,The Tenterfield Intercolonial Courier and Fairfield and Wallangarra Advocate (NSW : 1900 - 1914),2676,39711,6.738687013673792
+985,The Armidale Express and New England General Advertiser (NSW : 1856 - 1861; 1863 - 1889; 1891 - 1954),54976,812626,6.765227792366968
 1688,"The Australian Hebrew Times (Sydney, NSW : 1894)",4,59,6.779661016949152
-498,"The Raleigh Sun (Bellingen, NSW : 1898 - 1918)",3709,54566,6.79727302715977
 25,"Northern Standard (Darwin, NT : 1921 - 1955)",10630,156350,6.798848736808442
-1169,Glenelg Guardian (SA : 1914 - 1936),3111,45719,6.804610774513878
+498,"The Raleigh Sun (Bellingen, NSW : 1898 - 1918)",3710,54566,6.799105670197559
+1169,Glenelg Guardian (SA : 1914 - 1936),3112,45719,6.806798048951201
 432,"Daily Observer (Tamworth, NSW : 1917 - 1920)",7761,113973,6.809507514937748
 749,Sandringham News (Vic. : 1918),44,646,6.811145510835913
 534,The Ballan Times (Vic. : 1899 - 1920),661,9687,6.823577991122122
-884,The Uralla Times (NSW : 1923 - 1954),7945,116310,6.830882985125957
+884,The Uralla Times (NSW : 1923 - 1954),7946,116310,6.831742756426791
 613,Truth (Melbourne ed.) (Vic. : 1914 - 1918),2000,29266,6.833868653044488
 405,"Wallaroo Times (Port Wallaroo, SA : 1882 - 1888)",1447,21169,6.835466956398507
 611,Toora and Welshpool Ensign and South Gippsland Observer (Vic. : 1914 - 1918),611,8937,6.836746111670583
 874,Melbourne Punch (Vic. : 1855 - 1900),6784,99215,6.837675754674192
-188,The Dubbo Liberal and Macquarie Advocate (NSW : 1894 - 1954),37383,546610,6.839062585755841
+188,The Dubbo Liberal and Macquarie Advocate (NSW : 1894 - 1954),37386,546610,6.839611423135325
 197,The Kyabram Union and Rodney Shire Advocate (Vic. : 1894 - 1894),141,2060,6.844660194174758
-950,"The Tasmanian Tribune (Hobart Town, Tas. : 1872 - 1876)",1824,26559,6.867728453631537
 299,St Arnaud Mercury (Vic. : 1914 - 1918),1759,25612,6.867874433859128
-276,"Border Watch (Mount Gambier, SA : 1861 - 1954)",50433,733101,6.8794067938796974
-53,"Barrier Miner (Broken Hill, NSW : 1888 - 1954)",145149,2109351,6.881216070725071
+950,"The Tasmanian Tribune (Hobart Town, Tas. : 1872 - 1876)",1825,26559,6.871493655634625
+53,"Barrier Miner (Broken Hill, NSW : 1888 - 1954)",145165,2109351,6.881974597873944
+276,"Border Watch (Mount Gambier, SA : 1861 - 1954)",50454,733101,6.8822713377829245
 73,Kalgoorlie Western Argus (WA : 1896 - 1916),16907,245564,6.88496685181867
 595,Powlett Express and Victorian State Coalfields Advertiser (Vic. : 1915 - 1918),437,6346,6.88622754491018
 597,Quambatook Times (Vic. : 1914 - 1918),562,8140,6.904176904176904
 1148,"The Irish Harp and Farmers' Herald (Adelaide, SA : 1869 - 1873)",377,5455,6.91109074243813
 662,"Western Age (Dubbo, NSW : 1933 - 1936)",676,9774,6.916308573767137
-821,Adelaide Observer (SA : 1843 - 1904),43464,628224,6.9185513447432765
+821,Adelaide Observer (SA : 1843 - 1904),43472,628224,6.919824775876121
 1263,"The Tasmanian Times (Hobart Town, Tas. : 1867 - 1870)",1779,25610,6.946505271378369
 443,The Bega Budget (NSW : 1905 - 1920),2460,35264,6.97595281306715
-1248,"Bell's Life in Tasmania (Hobart Town, Tas. : 1859)",57,814,7.002457002457002
 228,The Mildura Cultivator (Vic. : 1888 - 1920),6690,95536,7.002595880087088
-232,The Ballarat Courier (Vic. : 1869 - 1884; 1914 - 1918),29096,414698,7.0161900949606695
+232,The Ballarat Courier (Vic. : 1869 - 1884; 1914 - 1918),29102,414698,7.017636930971453
 758,Dunolly and Betbetshire Express and County of Gladstone Advertiser (Vic. : 1915 - 1918),567,8078,7.0190641247833625
 238,Werribee Shire Banner (Vic. : 1911 - 1952),4454,63389,7.026455694205619
 783,Walhalla Chronicle (Vic. : 1914),52,739,7.036535859269283
-45,"Advertiser and Register (Adelaide, SA : 1931)",3300,46874,7.040150189870717
+45,"Advertiser and Register (Adelaide, SA : 1931)",3301,46874,7.042283568716133
 1332,"Australasian Sketcher (Adelaide,SA : 1874 - 1885)",431,6092,7.074852265265923
 1205,"Westralian Clarion (Kalgoorlie, WA : 1903)",10,141,7.092198581560284
 681,Tamworth Observer and Northern Advertiser (NSW : 1910),344,4829,7.123628080347897
-983,The Armidale Chronicle (NSW : 1894 - 1929),18753,263162,7.1260288339501905
-225,The Horsham Times (Vic. : 1882 - 1954),45455,636732,7.138796228240453
+983,The Armidale Chronicle (NSW : 1894 - 1929),18757,263162,7.12754881023856
+225,The Horsham Times (Vic. : 1882 - 1954),45475,636732,7.14193726717049
 914,"The Chronicle (Katoomba, NSW : 1929)",34,476,7.142857142857142
 851,"Humpybong Weekly and Advertiser (Redcliffe, Qld. : 1927 - 1932)",466,6498,7.171437365343182
-582,Mount Alexander Mail (Vic. : 1854 - 1917),39132,541338,7.228755417133104
 1536,"Liberty (Fremantle, WA : 1891 - 1892)",12,166,7.228915662650602
+582,Mount Alexander Mail (Vic. : 1854 - 1917),39141,541338,7.230417964377154
 323,"Hawthorn, Kew, Camberwell Citizen (Vic. : 1914 - 1918)",577,7963,7.246012809242748
-648,Mudgee Guardian and North-Western Representative (NSW : 1890 - 1954),59610,820884,7.261683745815486
+1248,"Bell's Life in Tasmania (Hobart Town, Tas. : 1859)",59,814,7.2481572481572485
+648,Mudgee Guardian and North-Western Representative (NSW : 1890 - 1954),59616,820884,7.262414665165845
 728,Temora Herald and Mining Journal (NSW : 1882 - 1883),91,1253,7.262569832402235
-64,"Clarence and Richmond Examiner (Grafton, NSW : 1889 - 1915)",23830,326327,7.30249105958134
+64,"Clarence and Richmond Examiner (Grafton, NSW : 1889 - 1915)",23831,326327,7.302797500666509
 373,"Southern Argus (Port Elliot, SA : 1866 - 1954)",13339,182259,7.31870579779325
-101,"Western Mail (Perth, WA : 1885 - 1954)",75973,1035684,7.335538639198829
+101,"Western Mail (Perth, WA : 1885 - 1954)",75990,1035684,7.337180066506773
 671,Balmain Observer and Western Suburbs Advertiser (NSW : 1884 - 1907),2738,37288,7.342844883072303
 1104,"Filmnews (Sydney, NSW : 1975 - 1995)",569,7737,7.354271681530308
-1187,"Tharunka (Kensington, NSW : 1953 - 2010)",4072,55094,7.391004465096018
 249,The Casterton News and the Merino and Sandford Record (Vic. : 1914 - 1918),1339,18113,7.392480538839507
+1187,"Tharunka (Kensington, NSW : 1953 - 2010)",4073,55094,7.392819544778016
 625,Adelong and Tumut Express (NSW : 1925),56,757,7.397622192866579
-44,"The Advertiser (Adelaide, SA : 1931 - 1954)",131397,1766005,7.440352660383182
-109,Portland Guardian (Vic. : 1876 - 1953),20332,272710,7.455538850793883
+44,"The Advertiser (Adelaide, SA : 1931 - 1954)",131418,1766005,7.441541784989283
+109,Portland Guardian (Vic. : 1876 - 1953),20334,272710,7.456272230574602
 303,Flemington Spectator (Vic. : 1914 - 1918),1442,19303,7.4703413977102
 129,"The Broadford Courier (Broadford, Vic. : 1891 - 1893)",264,3522,7.495741056218058
-52,"Australian Town and Country Journal (Sydney, NSW : 1870 - 1919)",49466,659104,7.505037141331263
+52,"Australian Town and Country Journal (Sydney, NSW : 1870 - 1919)",49475,659104,7.5064026314511825
 336,"Queensland Figaro (Brisbane, Qld. : 1901 - 1936)",4780,63597,7.516077802412063
 417,Taralga Echo (NSW : 1924 - 1927),255,3391,7.519905632556768
 43,Camperdown Chronicle (Vic. : 1877 - 1954),35342,469479,7.52791924665427
 784,Walhalla Chronicle and Moondarra Advertiser (Vic. : 1914 - 1915),106,1407,7.533759772565743
-93,"Sunday Times (Perth, WA : 1902 - 1954)",71098,943336,7.536869153726775
+93,"Sunday Times (Perth, WA : 1902 - 1954)",71116,943336,7.538777275541271
 1193,"The Empire (Fremantle, WA : 1907 - 1908)",283,3753,7.540634159339195
 433,"The Northern Daily Leader (Tamworth, NSW : 1921)",841,11150,7.542600896860987
 1246,"Tasmanian Weekly News (Hobart Town, Tas. : 1858)",66,871,7.577497129735936
-328,Preston Leader (Vic. : 1914 - 1918),1144,15084,7.58419517369398
 1149,"Harp and Southern Cross (Adelaide, SA : 1873 - 1875)",203,2676,7.5859491778774295
 765,"Every Week (Bairnsdale, Vic. : 1914 - 1918)",1002,13204,7.588609512269009
+328,Preston Leader (Vic. : 1914 - 1918),1145,15084,7.5908247149297265
 584,Myrtleford Mail and Whorouly Witness (Vic. : 1914 - 1918),1163,15305,7.598823913753676
 1119,"Local Option Advocate (Perth, WA : 1919 - 1927)",63,829,7.599517490952954
 612,Trafalgar and Yarragon Times (Vic. : 1914 - 1918),783,10270,7.624148003894839
-501,The Richmond River Herald and Northern Districts Advertiser (NSW : 1886 - 1942),19147,250171,7.653564961566289
+501,The Richmond River Herald and Northern Districts Advertiser (NSW : 1886 - 1942),19149,250171,7.654364414740318
 931,"Harvey Chronicle (Pinjarra, WA : 1915 - 1916)",154,2010,7.6616915422885565
 846,Norseman Esperance Guardian and Dundas Goldfields Advertiser (WA : 1896),39,509,7.662082514734774
 831,Times Victor Harbour and Encounter Bay and Lower Murray Pilot (SA : 1930 - 1932),198,2584,7.662538699690402
-406,"The Wallaroo Times and Mining Journal (Port Wallaroo, SA : 1865 - 1881)",3615,47128,7.670599219147853
-133,"Morwell Advertiser (Morwell, Vic. : 1888 - 1954)",10049,130880,7.678025672371638
+406,"The Wallaroo Times and Mining Journal (Port Wallaroo, SA : 1865 - 1881)",3616,47128,7.672721099983025
+133,"Morwell Advertiser (Morwell, Vic. : 1888 - 1954)",10051,130880,7.6795537897310515
 1440,The Pingelly Express (WA : 1905 - 1906),24,312,7.6923076923076925
-77,"Morning Bulletin (Rockhampton, Qld. : 1878 - 1954)",175677,2282343,7.697221670888206
-421,The Forbes Advocate (NSW : 1911 - 1954),24441,317252,7.703970345340612
+77,"Morning Bulletin (Rockhampton, Qld. : 1878 - 1954)",175717,2282343,7.698974255841476
+421,The Forbes Advocate (NSW : 1911 - 1954),24444,317252,7.704915965856795
 560,Gippsland Standard and Alberton Shire Representative (Vic. : 1914 - 1918),1150,14913,7.711392744585262
 1175,"Hamersley News (Perth, WA : 1969 - 1987)",1448,18762,7.71772732118111
 1525,"The Express (Perth, WA : 1872 - 1873)",83,1074,7.728119180633147
 1561,"The Temperance Advocate (Perth, WA : 1882)",12,155,7.741935483870968
 312,"Dandenong Advertiser and Cranbourne, Berwick and Oakleigh Advocate (Vic. : 1914 - 1918)",1176,15153,7.760839437735102
-326,"Ovens and Murray Advertiser (Beechworth, Vic. : 1855 - 1918)",32056,412836,7.76482671084886
+326,"Ovens and Murray Advertiser (Beechworth, Vic. : 1855 - 1918)",32059,412836,7.765553391661579
 1076,"Deloraine - Westbury Advocate (Ulverstone, Tas. : 1893 - 1894)",55,708,7.768361581920905
-689,The Gosford Times and Wyong District Advocate (NSW : 1906 - 1954),13938,178501,7.8083596170329574
+689,The Gosford Times and Wyong District Advocate (NSW : 1906 - 1954),13939,178501,7.8089198379841
 511,The Moruya Times and South Coast Journal (NSW : 1888 - 1915),171,2189,7.811786203746003
 408,"Western Star (Roma) (Toowoomba, Qld. : 1948 - 1954)",2248,28513,7.884123031599621
 1390,"Mediterranean Voice (Perth, WA : 1971 - 1972)",34,431,7.888631090487238
 770,Euroa Gazette (Vic. : 1915 - 1918),1057,13387,7.895719728094421
 435,"Adelong Argus, Tumut and Gundagai Advertiser (NSW : 1925)",344,4345,7.917146144994246
 409,Gilgandra Weekly (NSW : 1915 - 1929),1411,17808,7.92340521114106
-1126,"South Western Times (Bunbury, WA : 1917 - 1929)",7746,97546,7.940868923379739
+1126,"South Western Times (Bunbury, WA : 1917 - 1929)",7749,97546,7.943944395464704
 1382,"Vesnik (Perth, WA : 1975 - 1994)",70,881,7.945516458569807
 977,Meekatharra Miner (WA : 1909 - 1918),2000,25126,7.959882193743533
 59,Burra Record (SA : 1878 - 1954),12411,155782,7.966902466266963
@@ -1103,48 +1103,48 @@ id,title,articles_with_corrections,total_articles,percentage_with_corrections
 675,"The Scrutineer (Moss Vale, NSW : 1892)",122,1529,7.979071288423806
 1145,The Illustrated Adelaide News (SA : 1875 - 1880),167,2088,7.998084291187739
 1299,The Burrangong Chronicle and Young and Lachlan District Advertiser (NSW : 1901),2,25,8.0
-921,"The Blue Mountains Advertiser (Katoomba, NSW : 1940 - 1954)",2084,26039,8.003379546065517
 571,Jamieson and Woodspoint Chronicle and Upper Goulburn Advertiser (Vic. : 1914 - 1916),130,1624,8.004926108374384
+921,"The Blue Mountains Advertiser (Katoomba, NSW : 1940 - 1954)",2086,26039,8.011060332578056
 1383,"Chung Wah News (Perth, WA : 1981 - 1987)",69,860,8.023255813953488
 659,The Tumut and Adelong Times (NSW : 1864 - 1867; 1899 - 1950),10787,134221,8.036745367714442
-654,Raymond Terrace Examiner and Lower Hunter and Port Stephens Advertiser (NSW : 1912 - 1955),5372,66769,8.0456499273615
+654,Raymond Terrace Examiner and Lower Hunter and Port Stephens Advertiser (NSW : 1912 - 1955),5375,66769,8.050143030448261
 355,"Miners' Advocate and Northumberland Recorder (Newcastle, NSW : 1873 - 1876)",902,11194,8.057888154368412
 665,Student Notes/Canberra University College Students Association (ACT : 1947 - 1950),39,483,8.074534161490684
-293,The Brunswick and Coburg Leader (Vic. : 1914 - 1925),1449,17919,8.086388749372176
 683,"The Elector (Sydney, NSW : 1900)",63,779,8.087291399229782
+293,The Brunswick and Coburg Leader (Vic. : 1914 - 1925),1450,17919,8.09196941793627
 156,"Alexandra and Yea Standard and Yarck, Gobur, Thornton and Acheron Express (Vic. : 1908 - 1949)",4320,53312,8.103241296518608
 116,Emu Bay Times and North West and West Coast Advocate (Tas. : 1897 - 1899),1313,16139,8.135572216370283
 992,The Uralla News (NSW : 1904 - 1907),651,7962,8.176337603617181
-345,Bunbury Herald (WA : 1892 - 1919),10630,129864,8.185486354955954
-368,Goulburn Evening Penny Post (NSW : 1881 - 1940),64783,787538,8.226015760509334
+345,Bunbury Herald (WA : 1892 - 1919),10633,129864,8.1877964639931
+368,Goulburn Evening Penny Post (NSW : 1881 - 1940),64796,787538,8.227666474506627
 1547,"Pink Penny (Perth, WA : 1909)",39,472,8.26271186440678
 124,"Yea Chronicle (Yea, Vic. : 1891 - 1920)",3419,41372,8.264043314318863
-743,"North-Eastern Advertiser (Scottsdale, Tas. : 1909 - 1954)",16905,204222,8.277756559038693
-1334,Gawler Times (SA : 1869 - 1873),371,4468,8.303491495076097
-10,"The Mercury (Hobart, Tas. : 1860 - 1954)",282872,3405189,8.307086625735018
-152,Fitzroy City Press (Vic. : 1881 - 1920),3913,46924,8.339016281646918
+743,"North-Eastern Advertiser (Scottsdale, Tas. : 1909 - 1954)",16906,204222,8.278246222248338
+10,"The Mercury (Hobart, Tas. : 1860 - 1954)",282885,3405189,8.307468396027357
+1334,Gawler Times (SA : 1869 - 1873),372,4468,8.325872873769026
+152,Fitzroy City Press (Vic. : 1881 - 1920),3914,46924,8.341147387264511
 750,Camberwell and Hawthorn Advertiser (Vic. : 1914 - 1918),1210,14485,8.353469105971694
 416,"Southern Argus (Goulburn, NSW : 1881 - 1885)",2216,26499,8.362579719989434
-822,"Leader (Angaston, SA : 1918 - 1954)",9027,107581,8.39088686664002
-79,"Morning Post (Cairns, Qld. : 1897 - 1907)",7253,86082,8.425687135521946
+822,"Leader (Angaston, SA : 1918 - 1954)",9028,107581,8.39181639880648
+79,"Morning Post (Cairns, Qld. : 1897 - 1907)",7255,86082,8.42801050161474
 548,Corryong Courier (Vic. : 1914 - 1918),727,8621,8.432896415729035
-754,Ararat Chronicle and Willaura and Lake Bolac Districts Recorder (Vic. : 1914 - 1918),3657,42998,8.505046746360295
+754,Ararat Chronicle and Willaura and Lake Bolac Districts Recorder (Vic. : 1914 - 1918),3658,42998,8.507372435927252
 86,Queanbeyan Age (NSW : 1907 - 1915),2655,31152,8.522727272727272
 142,Healesville Guardian and Yarra Glen Guardian (Vic. : 1898 - 1900),166,1945,8.534704370179949
 1560,"The Christian Herald (Perth, WA : 1882)",13,152,8.552631578947368
 39,"The Sun-Herald (Sydney, NSW : 1953 - 1954)",1851,21622,8.560725187309222
-137,"Warragul Guardian and Buln Buln and Narracan Shire Advocate (Warragul, Vic. : 1879 - 1894)",2647,30819,8.588857522956618
+137,"Warragul Guardian and Buln Buln and Narracan Shire Advocate (Warragul, Vic. : 1879 - 1894)",2648,30819,8.592102274570882
 1472,The Sydney Daily Advertiser (NSW : 1848),204,2373,8.596713021491782
 723,The Canowindra Star (NSW : 1900 - 1902),325,3768,8.625265392781316
-457,The Voice of the North (NSW : 1918 - 1933),822,9432,8.71501272264631
-135,"Traralgon Record (Traralgon, Vic. : 1886 - 1932)",14796,169074,8.751197700415203
+457,The Voice of the North (NSW : 1918 - 1933),823,9432,8.725614927905005
+135,"Traralgon Record (Traralgon, Vic. : 1886 - 1932)",14798,169074,8.752380614405526
 929,"Sparks' Fortnightly (Perth, WA : 1916 - 1919)",161,1834,8.778625954198473
 145,"Evelyn Observer, and South and East Bourke Record (Vic. : 1882 - 1902)",3329,37855,8.794082683925506
 1478,Port Augusta and Stirling Illustrated News (SA : 1901),11,125,8.799999999999999
 128,"The Broadford Courier and Reedy Creek Times (Broadford, Vic. : 1891)",160,1811,8.83489784649365
-204,Wodonga and Towong Sentinel (Vic. : 1885 - 1954),12522,141634,8.841097476594603
-462,Boorowa News (NSW : 1951 - 1954),1123,12677,8.858562751439615
+204,Wodonga and Towong Sentinel (Vic. : 1885 - 1954),12524,141634,8.842509566911898
 337,"Queensland Figaro and Punch (Brisbane, Qld. : 1885 - 1889)",1614,18214,8.861315471615242
+462,Boorowa News (NSW : 1951 - 1954),1124,12677,8.86645105308827
 38,"The Sunday Herald (Sydney, NSW : 1949 - 1953)",5694,64194,8.869987849331713
 835,Mackay Mercury and South Kennedy Advertiser (Qld. : 1867 - 1887),2635,29703,8.871157795508871
 207,The Coburg Leader (Vic. : 1890 - 1913),3888,43799,8.876914998059316
@@ -1153,81 +1153,81 @@ id,title,articles_with_corrections,total_articles,percentage_with_corrections
 602,Rosedale Courier (Vic. : 1914 - 1918),653,7303,8.941530877721485
 1021,"The Guardian (Sydney, NSW : 1844)",50,558,8.960573476702509
 1562,"The Swan, Helena Vale and Guildford Advertiser (WA : 1897)",18,200,9.0
-282,The Singleton Argus and Upper Hunter General Advocate (NSW : 1874 - 1880),1970,21868,9.008597036766052
 295,"Advertiser (Footscray, Vic. : 1914 - 1918)",926,10277,9.010411598715578
-714,The Mount Barker Courier and Onkaparinga and Gumeracha Advertiser (SA : 1880 - 1954),24560,272491,9.013141718442078
+714,The Mount Barker Courier and Onkaparinga and Gumeracha Advertiser (SA : 1880 - 1954),24562,272491,9.013875687637391
 1466,"The Australian Sportsman (Sydney, NSW : 1848)",44,488,9.01639344262295
+282,The Singleton Argus and Upper Hunter General Advocate (NSW : 1874 - 1880),1972,21868,9.017742820559722
 775,"Graphic of Australia (Melbourne, Vic. : 1916 - 1918)",880,9755,9.02101486417222
 865,"Tasmanian Morning Herald (Hobart, Tas. : 1865 - 1866)",929,10290,9.028182701652089
 853,The Hillston News (NSW : 1882 - 1883),124,1371,9.044493070751276
-425,Molong Express and Western District Advertiser (NSW : 1887 - 1954),23149,255700,9.053187328901057
-551,"Daylesford Advocate, Yandoit, Glenlyon and Eganstown Chronicle (Vic. : 1914 - 1918)",1818,20070,9.058295964125561
+425,Molong Express and Western District Advertiser (NSW : 1887 - 1954),23161,255700,9.057880328509972
+551,"Daylesford Advocate, Yandoit, Glenlyon and Eganstown Chronicle (Vic. : 1914 - 1918)",1819,20070,9.063278525161934
 419,Werriwa Times and Goulburn District News (NSW : 1901),240,2643,9.080590238365494
 1036,"The Teetotaller and General Newspaper (Sydney, NSW : 1842 - 1843)",148,1627,9.096496619545174
 1596,"L'Italo-Australiano = The Italo-Australian (Surry Hills, NSW : 1885)",18,197,9.137055837563452
 913,"The Blackheath Bulletin (Katoomba, NSW : 1926; 1929 - 1931)",61,663,9.200603318250378
 773,Morwell and Yinnar Gazette (Vic. : 1914 - 1916),342,3716,9.203444564047363
-34,"The Advertiser (Adelaide, SA : 1889 - 1931)",204778,2222751,9.21281781000211
+34,"The Advertiser (Adelaide, SA : 1889 - 1931)",204810,2222751,9.214257467435624
 1234,"The Tasmanian and Austral-Asiatic Review (Hobart Town, Tas. : 1844 - 1845)",72,781,9.218950064020486
-1144,"The Areas' Express (Booyoolee, SA : 1877 - 1948)",12343,133809,9.22434215934653
-218,Euroa Advertiser (Vic. : 1884 - 1920),8413,91065,9.23845604787789
+1144,"The Areas' Express (Booyoolee, SA : 1877 - 1948)",12345,133809,9.225836827119252
+218,Euroa Advertiser (Vic. : 1884 - 1920),8419,91065,9.24504474825674
 1056,The Toowoomba Chronicle and Queensland Advertiser (Qld. : 1861 - 1875),1645,17775,9.254571026722926
 410,Gilgandra Weekly and Castlereagh (NSW : 1929 - 1942),4340,46875,9.258666666666667
-351,"The Cumberland Argus and Fruitgrowers Advocate (Parramatta, NSW : 1888 - 1950)",61105,655581,9.320739923823297
-346,Bendigo Advertiser (Vic. : 1855 - 1918),116337,1246284,9.334710226561523
-12,"The Courier-Mail (Brisbane, Qld. : 1933 - 1954)",134697,1441736,9.342695195236853
+351,"The Cumberland Argus and Fruitgrowers Advocate (Parramatta, NSW : 1888 - 1950)",61128,655581,9.324248262228465
+346,Bendigo Advertiser (Vic. : 1855 - 1918),116350,1246284,9.335753327491968
+12,"The Courier-Mail (Brisbane, Qld. : 1933 - 1954)",134881,1441736,9.355457587242046
 1262,"Hobart Town Punch (Hobart Town, Tas. : 1878)",3,32,9.375
-466,"The World's News (Sydney, NSW : 1901 - 1955)",23460,248908,9.425169138798271
+466,"The World's News (Sydney, NSW : 1901 - 1955)",23463,248908,9.426374403394025
 202,The Sunbury News (Vic. : 1900 - 1927),1153,12226,9.430721413381319
 444,The Blue Mountain Echo (NSW : 1909 - 1928),6713,71160,9.433670601461495
-30,"The West Australian (Perth, WA : 1879 - 1954)",317510,3360651,9.447871855780324
+30,"The West Australian (Perth, WA : 1879 - 1954)",317583,3360651,9.450044053964545
 113,"The Age (Queanbeyan, NSW : 1904 - 1907)",1257,13299,9.451838484096548
 1086,"The W.A. Record (Perth, WA : 1888 - 1922)",10221,108109,9.454347001637236
-362,The Kiama Reporter and Illawarra Journal (NSW : 1899 - 1947),6709,70937,9.457687807491153
 906,Katoomba Times (NSW : 1889 - 1894),831,8786,9.458229000682906
 546,Cohuna Farmer's Weekly (Vic. : 1914 - 1918),599,6333,9.458392546976157
-244,"The Reporter (Box Hill, Vic. : 1889 - 1925)",6887,72673,9.47669698512515
+362,The Kiama Reporter and Illawarra Journal (NSW : 1899 - 1947),6711,70937,9.460507210623511
+244,"The Reporter (Box Hill, Vic. : 1889 - 1925)",6888,72673,9.478073011985193
 808,"The Victorian Farmers Journal and Gardeners Chronicle (Melbourne, Vic. : 1860 - 1862)",316,3327,9.4980462879471
 265,"The Western Champion (Blackall/Barcaldine, Qld. : 1879 - 1891)",1393,14646,9.51112931858528
 807,"The Farmer's Journal and Gardener's Chronicle (Melbourne, Vic. : 1862 - 1864)",619,6493,9.533343600800864
-1132,Western Tiers (Tas. : 1980 - 2004),2500,26178,9.550003820001528
+1132,Western Tiers (Tas. : 1980 - 2004),2508,26178,9.580563832225533
 161,"The Australian Band of Hope Review, and Children's Friend (Sydney, NSW : 1856)",64,668,9.580838323353294
 63,"Centralian Advocate (Alice Springs, NT : 1947 - 1954)",2826,29493,9.581934696368629
 205,Mornington Standard (Vic. : 1889 - 1908),3675,38293,9.597054291907137
-143,Healesville and Yarra Glen Guardian (Vic. : 1900 - 1942),6963,72496,9.604667843743103
+143,Healesville and Yarra Glen Guardian (Vic. : 1900 - 1942),6965,72496,9.607426616640918
 132,"Morwell Advertiser and Weekly Chronicle (Morwell, Vic. : 1887 - 1888)",178,1851,9.616423554835224
-361,"The Kiama Independent, and Shoalhaven Advertiser (NSW : 1863 - 1947)",21231,220731,9.618494910094187
+361,"The Kiama Independent, and Shoalhaven Advertiser (NSW : 1863 - 1947)",21239,220731,9.622119231100298
 1068,"Northern Argus (Rockhampton, Qld. : 1865 - 1874)",2288,23750,9.633684210526315
 638,Camden News (NSW : 1895 - 1954),10051,104127,9.652635723683577
 463,The Burrowa News (NSW : 1874 - 1951),18823,194775,9.66397124887691
 387,The Bowral Free Press (NSW : 1884),152,1570,9.681528662420384
 780,Brunswick and Coburg Star (Vic. : 1914 - 1916),566,5844,9.685147159479808
-1441,The Perenjori Pioneer (WA : 1930 - 1947),6779,69889,9.69966661420252
-42,"The Queenslander (Brisbane, Qld. : 1866 - 1939)",71122,730943,9.730170478409397
+1441,The Perenjori Pioneer (WA : 1930 - 1947),6780,69889,9.701097454535049
+42,"The Queenslander (Brisbane, Qld. : 1866 - 1939)",71127,730943,9.73085452627633
 333,Moorabbin News (Vic. : 1914 - 1918),1014,10393,9.756566920042337
-108,Gippsland Times (Vic. : 1861 - 1954),42671,437228,9.759439011225265
+108,Gippsland Times (Vic. : 1861 - 1954),42674,437228,9.76012515209456
 203,The Sunbury News and Bulla and Melton Advertiser (Vic. : 1892 - 1900),774,7915,9.778900821225522
-324,Heidelberg News and Greensborough and Diamond Creek Chronicle (Vic. : 1914 - 1916),395,4015,9.838107098381071
-288,"South Australian Chronicle and Weekly Mail (Adelaide, SA : 1868 - 1881)",11864,120008,9.886007599493366
+324,Heidelberg News and Greensborough and Diamond Creek Chronicle (Vic. : 1914 - 1916),396,4015,9.863013698630137
+288,"South Australian Chronicle and Weekly Mail (Adelaide, SA : 1868 - 1881)",11866,120008,9.88767415505633
 329,Ringwood and Croydon Chronicle (Vic. : 1914 - 1918),765,7733,9.89266778740463
-367,Goulburn Herald (NSW : 1881 - 1907),18852,189068,9.971015719212135
+367,Goulburn Herald (NSW : 1881 - 1907),18854,189068,9.972073539678846
 684,The Mining Record and Grenfell General Advertiser (NSW : 1867 - 1876),353,3533,9.991508632889895
 563,"Glengarry, Toongabbie and Cowwarr Journal and Central Gippsland Reporter (Vic. : 1914)",299,2986,10.013395847287342
 570,Inglewood Advertiser (Vic. : 1914 - 1918),1316,13136,10.018270401948842
 544,Cobden Times and Heytesbury Advertiser (Vic. : 1914 - 1918),2102,20947,10.034849859168379
 343,Coolgardie Miner (WA : 1913 - 1917),1154,11476,10.055768560474032
 246,The Bacchus Marsh Express (Vic. : 1866 - 1943),12369,122970,10.058550866064895
-1035,"The Teetotal Advocate (Launceston, Tas. : 1843)",159,1575,10.095238095238095
 948,"The Tasmanian Daily News (Hobart Town, Tas. : 1855 - 1858)",2021,20001,10.104494775261237
 573,Koroit Sentinel and Tower Hill Advocate (Vic. : 1914 - 1918),640,6323,10.121777637197534
 1245,"The People's Advocate or True Friend of Tasmania (Launceston, Tas. : 1855 - 1856)",372,3665,10.15006821282401
+1035,"The Teetotal Advocate (Launceston, Tas. : 1843)",160,1575,10.158730158730158
 804,Illustrated Sydney News (NSW : 1881 - 1894),1917,18781,10.20712422128747
 179,"Hawkesbury Herald (Windsor, NSW : 1902 - 1945)",1342,13136,10.21619975639464
 858,"Critic (Hobart, Tas. : 1892 - 1893)",17,166,10.240963855421686
 521,"Bowral Free Press and Mittagong, Burrawang and Kangaloon Advocate (NSW : 1883 - 1884)",134,1305,10.268199233716475
 304,Oakleigh and Caulfield Times Mulgrave and Ferntree Gully Guardian (Vic. : 1914 - 1918),618,6004,10.293137908061292
 36,"Northern Territory Times (Darwin, NT : 1927 - 1932)",2347,22775,10.30515916575192
-1092,The Adelaide Express (SA : 1863 - 1866),2251,21838,10.307720487224104
+1092,The Adelaide Express (SA : 1863 - 1866),2252,21838,10.31229966114113
 340,The Charleville Courier (Qld. : 1896 - 1898),103,997,10.330992978936811
 388,Kiama Reporter (NSW : 1886 - 1887),143,1378,10.377358490566039
 1392,"The Spectator (Sydney, NSW : 1846)",131,1260,10.396825396825397
@@ -1236,10 +1236,10 @@ id,title,articles_with_corrections,total_articles,percentage_with_corrections
 1471,"The People's Advocate and New South Wales Vindicator (Sydney, NSW : 1848-1856)",1708,16380,10.427350427350428
 478,Twofold Bay and Maneroo Telegraph (NSW : 1860),59,561,10.51693404634581
 468,Young Witness (NSW : 1915 - 1923),9935,94356,10.529272118360252
-222,"The North Eastern Ensign (Benalla, Vic. : 1872 - 1938)",8840,83722,10.558753971477032
+222,"The North Eastern Ensign (Benalla, Vic. : 1872 - 1938)",8841,83722,10.559948400659325
 251,Sunshine Advocate (Vic. : 1924 - 1954),7819,73987,10.568072769540594
 912,"Blackheath Beacon (Katoomba, NSW : 1930 - 1931)",63,594,10.606060606060606
-155,"Alexandra and Yea Standard, Gobur, Thornton and Acheron Express (Vic. : 1877 - 1908)",4138,39005,10.608896295346751
+155,"Alexandra and Yea Standard, Gobur, Thornton and Acheron Express (Vic. : 1877 - 1908)",4139,39005,10.611460069221895
 382,Wagga Wagga Express and Murrumbidgee District Advertiser (NSW : 1858 - 1859; 1866; 1872 - 1874),1356,12744,10.64030131826742
 434,Adelong and Tumut Express and Tumbarumba Post (NSW : 1900 - 1925),4251,39921,10.64853084842564
 959,"Bell's Life in Victoria and Sporting Chronicle (Melbourne, Vic. : 1857 - 1868)",2030,19039,10.662324701927622
@@ -1249,8 +1249,8 @@ id,title,articles_with_corrections,total_articles,percentage_with_corrections
 1116,"The Fremantle Herald (WA : 1913 - 1915, 1919 - 1921)",1418,13098,10.82608031760574
 1258,"Tasmanian Punch (Hobart Town, Tas. : 1866)",31,286,10.839160839160838
 555,"Federal Standard (Chiltern, Vic. : 1914 - 1918)",1077,9933,10.842645726366657
-1100,Adelaide Times (SA : 1848 - 1858),7076,64909,10.901415828313485
-87,The Queanbeyan Age and Queanbeyan Observer (NSW : 1915 - 1927),5023,46035,10.911263169327686
+1100,Adelaide Times (SA : 1848 - 1858),7077,64909,10.902956446717713
+87,The Queanbeyan Age and Queanbeyan Observer (NSW : 1915 - 1927),5024,46035,10.913435429564462
 1244,"The Irish Exile and Freedom's Advocate (Hobart Town, Tas. : 1850 - 1851)",195,1778,10.967379077615298
 180,"The Inquirer and Commercial News (Perth, WA : 1855 - 1901)",25116,228445,10.99433123946683
 838,"Nashville Times, Gympie and Mary River Mining Gazette (Qld. : 1868)",145,1311,11.060259344012206
@@ -1259,48 +1259,48 @@ id,title,articles_with_corrections,total_articles,percentage_with_corrections
 1690,"The Australian Zionist Pioneer (Sydney, NSW : 1929)",5,45,11.11111111111111
 1281,"The St. James and Devenish Herald (Dookie, Vic. : 1905)",8,72,11.11111111111111
 325,"Heidelberg News and Greensborough, Eltham and Diamond Creek Chronicle (Vic. : 1916 - 1918)",358,3221,11.1145606954362
-192,Windsor and Richmond Gazette (NSW : 1888 - 1961),25500,228074,11.180581741013881
-208,"South Bourke and Mornington Journal (Richmond, Vic. : 1877 - 1920; 1926 - 1927)",9375,83739,11.195500304517608
+192,Windsor and Richmond Gazette (NSW : 1888 - 1961),25503,228074,11.181897103571647
+208,"South Bourke and Mornington Journal (Richmond, Vic. : 1877 - 1920; 1926 - 1927)",9378,83739,11.199082864615054
 1527,"The Express (Fremantle, WA : 1870-1871)",366,3266,11.206368646662584
 1614,The Corrigin Sun (WA : 1929 - 1930),143,1270,11.25984251968504
-643,Dungog Chronicle : Durham and Gloucester Advertiser (NSW : 1894 - 1954),45004,399654,11.26074054056759
+643,Dungog Chronicle : Durham and Gloucester Advertiser (NSW : 1894 - 1954),45006,399654,11.261240973442026
 177,"Hawkesbury Chronicle and Farmers Advocate (Windsor, NSW : 1881 - 1888)",773,6844,11.294564582115722
 119,Queanbeyan-Canberra Advocate (NSW : 1905 - 1927),371,3273,11.33516651390162
 927,Hamilton Spectator and Grange District Advertiser (Vic. : 1860 - 1870),1955,17227,11.348464619492656
 1128,"Victorian Express (Geraldton, WA : 1878 - 1894)",3082,27053,11.392451853768529
 1151,"The Northern Sportsman (Innisfail, Qld. : 1928)",8,70,11.428571428571429
 1486,"Tribune (SA edition, published in Sydney : 1951 - 1964)",404,3534,11.43180531975099
-11,The Canberra Times (ACT : 1926 - 1995),373360,3265867,11.432186307648168
+11,The Canberra Times (ACT : 1926 - 1995),373426,3265867,11.434207210520208
 1581,The Mildura Irrigationist and Murray River Agricultural Times (Vic. : 1888),60,521,11.516314779270633
-1651,"The North Midland Times (Moora, WA : 1933 - 1954)",9766,84702,11.529834006280844
-16,The Brisbane Courier (Qld. : 1864 - 1933),347482,2986438,11.63533279445279
+1651,"The North Midland Times (Moora, WA : 1933 - 1954)",9767,84702,11.531014615947676
+16,The Brisbane Courier (Qld. : 1864 - 1933),347539,2986438,11.637241422725
 908,"Blue Mountain Gazette (Katoomba, NSW : 1903 - 1904)",376,3227,11.651688875116207
 455,The Tumut Advocate and Farmers and Settlers' Adviser (NSW : 1903 - 1925),2958,25373,11.658061719150279
-127,"Kilmore Free Press (Kilmore, Vic. : 1870 - 1954)",11978,101836,11.762048784319887
 572,"Kooweerup Sun, Lang Lang Guardian and Cranbourne Shire Record (Vic. : 1918)",88,748,11.76470588235294
-74,Launceston Examiner (Tas. : 1842 - 1899),76878,650099,11.825583488053358
+127,"Kilmore Free Press (Kilmore, Vic. : 1870 - 1954)",11981,101836,11.764994697356535
+74,Launceston Examiner (Tas. : 1842 - 1899),76884,650099,11.826506424406128
 1200,"The W.A. Bulletin (Fremantle, WA : 1888 - 1890)",304,2562,11.865729898516785
 9,"Northern Territory Times and Gazette (Darwin, NT : 1873 - 1927)",15799,132856,11.891822725356779
 338,"Queensland Figaro (Brisbane, Qld. : 1883 - 1885)",716,6007,11.919427334776096
 144,"Healesville Guardian (Lilydale, Vic. : 1942 - 1954)",1578,13225,11.93194706994329
 1031,"The Star and Working Man's Guardian (Parramatta, NSW : 1844 - 1845)",119,996,11.947791164658634
-220,Geraldton Guardian and Express (WA : 1929 - 1947),20745,173556,11.952914333125907
+220,Geraldton Guardian and Express (WA : 1929 - 1947),20746,173556,11.953490516029408
 411,Gilgandra Weekly (NSW : 1942 - 1955),4245,35325,12.016985138004246
 198,"The Elsternwick Leader and District Record (Brighton, Vic. : 1887 - 1888)",102,844,12.085308056872037
 157,"Alexandra Standard and Yarck, Gobur, Thornton, Taggerty and Acheron Express (Vic. : 1949 - 1954)",652,5385,12.107706592386258
-237,"Standard (Frankston, Vic. : 1939 - 1949)",4506,37167,12.123658083784001
-47,"Army News (Darwin, NT : 1941 - 1946)",7087,58384,12.138599616333241
-148,"Advertiser (Hurstbridge, Vic. : 1922 - 1939)",5362,43916,12.209673012114036
+237,"Standard (Frankston, Vic. : 1939 - 1949)",4507,37167,12.12634864261307
+47,"Army News (Darwin, NT : 1941 - 1946)",7088,58384,12.1403124143601
+148,"Advertiser (Hurstbridge, Vic. : 1922 - 1939)",5363,43916,12.211950086528828
 690,The Shipping Gazette and Sydney General Trade List (NSW : 1844 - 1860),2135,17437,12.244078683259735
-392,The Bega Gazette and Eden District or Southern Coast Advertiser (NSW : 1865 - 1899),2238,18252,12.261669953977647
+392,The Bega Gazette and Eden District or Southern Coast Advertiser (NSW : 1865 - 1899),2239,18252,12.267148805610343
 1147,"The Pictorial Australian (Adelaide, SA : 1885 - 1895)",786,6406,12.269747112082422
-287,"South Australian Weekly Chronicle (Adelaide, SA : 1858 - 1867)",7631,62017,12.304690649338085
+287,"South Australian Weekly Chronicle (Adelaide, SA : 1858 - 1867)",7632,62017,12.306303110437462
 195,Kerang Times and Swan Hill Gazette (Vic. : 1877 - 1889),3813,30949,12.320268829364437
 871,Good Neighbour (ACT : 1950 - 1969),801,6499,12.324973072780427
 480,Eden Free Press and Eden District Advertiser (NSW : 1899),62,503,12.326043737574553
 724,"The Cumberland Free Press (Parramatta, NSW : 1895 - 1897)",1638,13247,12.365063788027477
 1199,"The Possum (Perth, WA : 1887 - 1888)",84,677,12.40768094534712
-41,"South Australian Register (Adelaide, SA : 1839 - 1900)",159450,1284842,12.410086220718188
+41,"South Australian Register (Adelaide, SA : 1839 - 1900)",159464,1284842,12.411175848859237
 1016,"Commercial Journal and General Advertiser (Sydney, NSW : 1845)",130,1046,12.4282982791587
 399,Kapunda Herald and Northern Intelligencer (SA : 1864 - 1878),2724,21808,12.490829053558327
 552,Donald Times (Vic. : 1915 - 1918),1065,8490,12.54416961130742
@@ -1309,50 +1309,50 @@ id,title,articles_with_corrections,total_articles,percentage_with_corrections
 803,Illustrated Sydney News and New South Wales Agriculturalist and Grazier (NSW : 1872 - 1881),845,6697,12.617589965656265
 260,Warwick Argus and Tenterfield Chronicle (Qld. : 1866 - 1879),1270,10024,12.669592976855546
 255,"The Sunday Mirror (Perth, WA : 1920 - 1921)",418,3283,12.732257081937254
-459,"Western Champion (Parkes, NSW : 1898 - 1934)",25246,196844,12.825384568490787
-697,Sydney Mail (NSW : 1860 - 1871),6244,48535,12.864942824765633
+459,"Western Champion (Parkes, NSW : 1898 - 1934)",25257,196844,12.83097274999492
+697,Sydney Mail (NSW : 1860 - 1871),6247,48535,12.871123931183682
 718,The Port Adelaide Gazette (SA : 1930),151,1173,12.87297527706735
-231,"Independent (Footscray, Vic. : 1883 - 1922)",8199,63627,12.886038945730585
+231,"Independent (Footscray, Vic. : 1883 - 1922)",8200,63627,12.887610605560532
 958,The Melbourne Leader (Vic. : 1861),285,2204,12.931034482758621
 123,Mercury and Weekly Courier (Vic. : 1878 - 1903),3609,27846,12.960568842921786
-569,Hopetoun Courier and Mallee Pioneer (Vic. : 1914 - 1918),856,6602,12.965767949106333
+569,Hopetoun Courier and Mallee Pioneer (Vic. : 1914 - 1918),857,6602,12.980914874280522
 184,"The Australian, Windsor, Richmond, and Hawkesbury Advertiser (NSW : 1873 - 1899)",703,5387,13.049935028772971
 941,"The Britannia and Trades' Advocate (Hobart Town, Tas. : 1846 - 1851)",1086,8270,13.13180169286578
-1275,"The Magnet Mirror and Murchison Reflector (Meekatharra, WA : 1928 - 1935)",3678,27815,13.223081071364371
+1275,"The Magnet Mirror and Murchison Reflector (Meekatharra, WA : 1928 - 1935)",3681,27815,13.2338666187309
 1337,Examiner (SA : 1853),64,482,13.278008298755188
 953,The Church of England Messenger for the Diocese of Melbourne (Vic. : 1869),37,278,13.309352517985612
 1232,"The Austral-Asiatic Review, Tasmanian and Australian Advertiser (Hobart Town, Tas. : 1837 - 1844)",972,7239,13.427268959801077
 164,"The Australian Home Companion and Band of Hope Journal (Sydney, NSW : 1859 - 1861)",225,1670,13.47305389221557
-84,Queanbeyan Age (NSW : 1867 - 1904),9006,66687,13.504881011291555
+84,Queanbeyan Age (NSW : 1867 - 1904),9007,66687,13.506380553931052
 216,Benalla Ensign (Vic. : 1938 - 1954),7253,53630,13.524146932686929
 65,"Clarence and Richmond Examiner and New England Advertiser (Grafton, NSW : 1859 - 1889)",13791,101097,13.641354342858838
 887,The Moree Examiner and General Advertiser (NSW : 1899),44,321,13.707165109034266
-937,The Port Phillip Patriot and Morning Advertiser (Vic. : 1845 - 1848),2232,16209,13.770127706829538
+937,The Port Phillip Patriot and Morning Advertiser (Vic. : 1845 - 1848),2233,16209,13.77629711888457
 1018,Parramatta Chronicle and Cumberland General Advertiser (NSW : 1843 - 1845),242,1753,13.804905875641756
 99,"Western Argus (Kalgoorlie, WA : 1894 - 1895)",202,1460,13.835616438356164
-57,Bell's Life in Sydney and Sporting Chronicle (NSW : 1860 - 1870),2564,18524,13.841502915137118
+57,Bell's Life in Sydney and Sporting Chronicle (NSW : 1860 - 1870),2566,18524,13.852299719283092
 1015,Sydney Free Press (NSW : 1841 - 1842),357,2576,13.858695652173914
 149,Eltham and Whittlesea Shires Advertiser (Vic. : 1940 - 1942),902,6499,13.879058316664104
 1098,"The Wooroora Producer (Balaklava, SA : 1909 - 1940)",9041,65123,13.882959937349323
 1467,"The Citizen (Sydney, NSW : 1846 - 1847)",55,396,13.88888888888889
 1160,The Warialda Watchman (NSW : 1899),40,288,13.88888888888889
-7,"The South Australian Advertiser (Adelaide, SA : 1858 - 1889)",61930,444692,13.92649294343051
+7,"The South Australian Advertiser (Adelaide, SA : 1858 - 1889)",61937,444692,13.928067066643878
 1274,"Group Settlement Chronicle and Margaret-Augusta Mail (Busselton, WA : 1923 - 1930)",1385,9939,13.935003521481034
 80,"North Australian (Darwin, NT : 1883 - 1889)",1172,8397,13.957365725854473
 1331,"South Australian Record and Australasian and South African Chronicle (London, England : 1840 - 1841)",138,984,14.02439024390244
-350,"Nepean Times (Penrith, NSW : 1882 - 1962)",44124,314441,14.032521204295879
+350,"Nepean Times (Penrith, NSW : 1882 - 1962)",44128,314441,14.033793303036182
 1321,"Express (Granville, NSW : 1933 - 1935)",17,121,14.049586776859504
 1319,The Auburn and Lidcombe Advance (NSW : 1925 - 1939),105,745,14.093959731543624
 163,"The Band of Hope Journal and Australian Home Companion (Sydney, NSW : 1858)",68,482,14.107883817427386
 71,"Illustrated Australian News (Melbourne, Vic. : 1890 - 1896)",215,1514,14.200792602377806
-193,Williamstown Chronicle (Vic. : 1856 - 1954),21765,152694,14.253998192463357
-35,The Sydney Morning Herald (NSW : 1842 - 1954),827877,5799634,14.274642158453446
+193,Williamstown Chronicle (Vic. : 1856 - 1954),21769,152694,14.256617810784968
+35,The Sydney Morning Herald (NSW : 1842 - 1954),827978,5799634,14.276383647657767
 1577,"Deutsche Zeitung für Sud-Australien = German Times for South Australia (Tanunda, SA : 1851)",2,14,14.285714285714285
 301,Wangaratta Chronicle (Vic. : 1914 - 1918),3505,24465,14.326589004700594
-864,"Hobarton Guardian, or, True Friend of Tasmania (Hobart, Tas. : 1847 - 1854)",1972,13729,14.363755553936922
-666,"Woroni (Canberra, ACT : 1950 - 2007)",3110,21633,14.376184532889566
+864,"Hobarton Guardian, or, True Friend of Tasmania (Hobart, Tas. : 1847 - 1854)",1974,13729,14.37832325733848
+666,"Woroni (Canberra, ACT : 1950 - 2007)",3111,21633,14.380807100263487
 1339,South Australian Free Press (SA : 1853 - 1854),68,472,14.40677966101695
-1062,Dalby Herald and Western Queensland Advertiser (Qld. : 1866 - 1879),2647,18296,14.467643200699607
+1062,Dalby Herald and Western Queensland Advertiser (Qld. : 1866 - 1879),2649,18296,14.478574551814605
 252,"The Dawn (Sydney, NSW : 1888 - 1905)",1551,10711,14.480440668471664
 695,"Sydney General Trade List, and Mercantile Advertiser (NSW : 1829 - 1830)",35,241,14.522821576763487
 110,Portland Guardian and Normanby General Advertiser (Vic. : 1842 - 1843; 1854 - 1876),8564,58933,14.531756401337113
@@ -1365,27 +1365,27 @@ id,title,articles_with_corrections,total_articles,percentage_with_corrections
 168,Malvern and Caulfield Standard (Vic. : 1906),23,154,14.935064935064934
 1012,"The Colonial Observer (Sydney, NSW : 1841 - 1844)",665,4443,14.967364393427864
 996,"Citizen Soldier (Sydney, NSW : 1942)",9,60,15.0
-13,"The Argus (Melbourne, Vic. : 1848 - 1957)",780958,5182264,15.069822764722138
-62,Cairns Morning Post (Qld. : 1907 - 1909),6394,42320,15.108695652173912
-317,Maryborough and Dunolly Advertiser (Vic. : 1857 - 1867 ; 1914 - 1918),10111,66436,15.219158287675357
+13,"The Argus (Melbourne, Vic. : 1848 - 1957)",781033,5182264,15.071270008629433
+62,Cairns Morning Post (Qld. : 1907 - 1909),6404,42320,15.132325141776937
+317,Maryborough and Dunolly Advertiser (Vic. : 1857 - 1867 ; 1914 - 1918),10112,66436,15.220663495695105
 1032,"The Star (Sydney, NSW : 1845 - 1846)",55,360,15.277777777777779
 263,"North Australian and Queensland General Advertiser (Ipswich, Qld. : 1862 - 1863)",763,4983,15.312061007425246
-1579,The Mildura and Merbein Sun (Vic. : 1921),221,1432,15.43296089385475
 805,"The Banner (Melbourne, Vic. : 1853 - 1854)",837,5381,15.554729604162794
 1037,"The Temperance Advocate and Australasian Commercial and Agricultural Intelligencer (Sydney, NSW : 1840 - 1841)",189,1200,15.75
+1579,The Mildura and Merbein Sun (Vic. : 1921),226,1432,15.782122905027931
 412,Wagga Wagga Advertiser and Riverine Reporter (NSW : 1868 - 1875),2821,17870,15.786233911583661
 105,"Illustrated Australian News and Musical Times (Melbourne, Vic. : 1889 - 1890)",158,996,15.863453815261044
 962,The Walcha News (NSW : 1932 - 1935),1533,9639,15.904139433551197
-1029,"The Sentinel (Sydney, NSW : 1845 - 1848)",681,4279,15.914933395653192
+1029,"The Sentinel (Sydney, NSW : 1845 - 1848)",682,4279,15.938303341902312
 383,"The Telegraph, St Kilda, Prahran and South Yarra Guardian (Vic. : 1864 - 1888)",5071,31743,15.975175629272595
 1320,Auburn and District News (NSW : 1929),4,25,16.0
-91,Rockhampton Bulletin (Qld. : 1871 - 1878),6202,38493,16.112020367339515
-381,"Examiner (Kiama, NSW : 1859 - 1862)",1086,6683,16.25018704174772
-257,"The Darling Downs Gazette and General Advertiser (Toowoomba, Qld. : 1858 - 1880)",10703,65268,16.3985413985414
+91,Rockhampton Bulletin (Qld. : 1871 - 1878),6205,38493,16.119813992154416
+381,"Examiner (Kiama, NSW : 1859 - 1862)",1087,6683,16.265150381565167
+257,"The Darling Downs Gazette and General Advertiser (Toowoomba, Qld. : 1858 - 1880)",10705,65268,16.40160568731997
 1231,"Tasmanian Weekly Dispatch (Hobart Town, Tas. : 1839 - 1841)",279,1693,16.479621972829296
 98,"West Australian Sunday Times (Perth, WA : 1897 - 1902)",2251,13616,16.532021151586367
 1628,Greenough Sun (WA : 1947 - 1954),5092,30770,16.548586285342868
-428,The Record and Emerald Hill and Sandridge Advertiser (Vic. : 1872 - 1881),1189,7173,16.576049072912312
+428,The Record and Emerald Hill and Sandridge Advertiser (Vic. : 1872 - 1881),1190,7173,16.58999024118221
 550,Creswick Advertiser (Vic. : 1914 - 1918),2773,16528,16.77758954501452
 939,The Melbourne Daily News (Vic. : 1848 - 1851),2579,15329,16.82431991649814
 158,"The Leven Lever (Ulverstone, Tas. : 1919 - 1920)",30,178,16.853932584269664
@@ -1393,20 +1393,20 @@ id,title,articles_with_corrections,total_articles,percentage_with_corrections
 111,"The North Australian and Northern Territory Government Gazette (Darwin, NT : 1889 - 1890)",190,1122,16.93404634581105
 200,"The Elsternwick Leader and Caulfield and Balaclava Guardian (Brighton, Vic. : 1887)",8,47,17.02127659574468
 1034,The Sydney Record (NSW : 1843 - 1844),90,528,17.045454545454543
-112,The Australian Women's Weekly (1933 - 1982),67525,395052,17.09268653240586
+112,The Australian Women's Weekly (1933 - 1982),67531,395052,17.094205319806
 1026,"The New South Wales Examiner (Sydney, NSW : 1842)",233,1358,17.15758468335788
 150,South Bourke Standard (Vic. : 1861 - 1873),1622,9443,17.176744678597903
 122,"Mercury (Fitzroy, Vic. : 1875 - 1877)",430,2502,17.186250999200638
 1772,"The Dawn News-Sheet (Perth, WA : 1950 - 1952)",5,29,17.24137931034483
-850,"Logan Witness (Beenleigh, Qld. : 1878 - 1893)",2528,14654,17.251262453937493
+850,"Logan Witness (Beenleigh, Qld. : 1878 - 1893)",2531,14654,17.271734679950868
 264,"The North Australian (Brisbane, Qld. : 1863 - 1865)",918,5314,17.275122318404215
 60,Cairns Post (Qld. : 1884 - 1893),4588,26483,17.324321262696824
 223,The Benalla Ensign and Farmer's and Squatter's Journal (Vic. : 1869 - 1872),560,3229,17.34283059770827
-151,North Melbourne Advertiser (Vic. : 1873 - 1894),3880,22130,17.532760957975597
-1386,"Japanese Perth Times (Subiaco, WA : 1989 - 1996)",789,4498,17.541129390840375
-857,"Circular Head Chronicle (Stanley, Tas. : 1906 - 1954)",17820,101423,17.569979196040343
+151,North Melbourne Advertiser (Vic. : 1873 - 1894),3881,22130,17.53727971079982
+1386,"Japanese Perth Times (Subiaco, WA : 1989 - 1996)",790,4498,17.56336149399733
+857,"Circular Head Chronicle (Stanley, Tas. : 1906 - 1954)",17821,101423,17.5709651656922
 70,"Illustrated Australian News (Melbourne, Vic. : 1876 - 1889)",1353,7689,17.59656652360515
-353,The Newcastle Chronicle and Hunter River District News (NSW : 1859 - 1866),2432,13778,17.651328204383802
+353,The Newcastle Chronicle and Hunter River District News (NSW : 1859 - 1866),2434,13778,17.665844099288723
 1054,"The Colonial Mining Journal, Railway and Share Gazette and Illustrated Record (Melbourne, Vic. : 1859 - 1861)",218,1232,17.694805194805195
 626,Clear Hills Standard and Daysdale and Saverneke Times (NSW : 1914),8,45,17.77777777777778
 386,"The Herald (Fremantle, WA : 1867 - 1886)",4393,24560,17.886807817589574
@@ -1416,10 +1416,10 @@ id,title,articles_with_corrections,total_articles,percentage_with_corrections
 1017,"The Examiner (Sydney, NSW : 1845)",54,298,18.120805369127517
 1033,"The Sun and New South Wales Independent Press (Sydney, NSW : 1843)",74,405,18.271604938271604
 1040,"The Weekly Register of Politics, Facts and General Literature (Sydney, NSW : 1843 - 1845)",442,2406,18.37073981712386
-170,"The Cornwall Chronicle (Launceston, Tas. : 1835 - 1880)",30137,163791,18.399667869418952
+170,"The Cornwall Chronicle (Launceston, Tas. : 1835 - 1880)",30140,163791,18.401499471887956
 1565,The Northern Producer and Morawa and District Advertiser (WA : 1930 - 1947),13344,72445,18.41949064807785
 1569,"The Great North-West (Perth, WA : 1904)",12,65,18.461538461538463
-67,"Empire (Sydney, NSW : 1850 - 1875)",62298,336526,18.51209119057666
+67,"Empire (Sydney, NSW : 1850 - 1875)",62307,336526,18.51476557531959
 360,The Kiama Independent and Illawarra and Shoalhaven Advertiser (NSW : 1863),106,570,18.596491228070175
 1587,"The News (Shoalhaven, NSW : 1867)",10,53,18.867924528301888
 1237,"The Independent (Launceston, Tas. : 1831 - 1835)",755,3994,18.903355032548824
@@ -1427,13 +1427,13 @@ id,title,articles_with_corrections,total_articles,percentage_with_corrections
 167,"The Federal Capital Pioneer Magazine (Canberra, ACT : 1926 - 1927)",80,422,18.95734597156398
 126,"Kilmore Free Press and Counties of Bourke and Dalhousie Advertiser (Kilmore, Vic. : 1865 - 1868)",663,3480,19.051724137931032
 707,Weekly Times Annual (Vic. : 1914 - 1918),62,324,19.1358024691358
-393,The Cobargo Chronicle (NSW : 1898 - 1944),6244,32519,19.201082444109595
+393,The Cobargo Chronicle (NSW : 1898 - 1944),6245,32519,19.204157569420953
 92,Rockhampton Bulletin and Central Queensland Advertiser (Qld. : 1861 - 1871),5740,29726,19.309695216308956
 214,"Oakleigh Leader and District Record (Brighton, Vic. : 1887 - 1888)",112,577,19.410745233968804
 1020,"The Dispatch (Sydney, NSW : 1843 - 1844)",162,831,19.494584837545126
 789,Sea Lake Times and Berriwillock Advertiser (Vic. : 1914 - 1918),1113,5675,19.612334801762117
 987,"South Australian Gazette and Mining Journal (Adelaide, SA : 1847 - 1852)",1745,8877,19.657541962374676
-1313,The Mullewa Mail (WA : 1921 - 1947),21772,110022,19.788769518823507
+1313,The Mullewa Mail (WA : 1921 - 1947),21773,110022,19.789678427950776
 1427,Mullewa Magnet and Perenjori-Morawa Advertiser (WA : 1927 - 1931),3320,16731,19.843404458789074
 341,"Southern Advertiser (Bunbury, WA : 1888)",129,649,19.876733436055467
 1475,The Sydney Weekly Transcript (NSW : 1846),60,300,20.0
@@ -1441,21 +1441,21 @@ id,title,articles_with_corrections,total_articles,percentage_with_corrections
 339,Launceston Courier (Tas. : 1840 - 1843),417,2072,20.125482625482626
 1139,Port Phillip Gazette (Vic. : 1851),99,491,20.162932790224033
 1194,The Fremantle Mail (WA : 1903 - 1904),870,4303,20.218452242621428
-56,Bathurst Free Press and Mining Journal (NSW : 1851 - 1904),45279,223075,20.29765773842878
 366,The Goulburn Herald and Chronicle (NSW : 1864 - 1881),11514,56670,20.317628374801483
+56,Bathurst Free Press and Mining Journal (NSW : 1851 - 1904),45334,223075,20.322313123388994
 1660,"The Southern Cross (Perth, WA : 1893)",12,59,20.33898305084746
 1236,"The Cornwall Press and Commercial Advertiser (Launceston, Tas. : 1829)",57,279,20.43010752688172
-173,Geraldton Guardian (WA : 1906 - 1928),34894,170547,20.460049136015293
+173,Geraldton Guardian (WA : 1906 - 1928),34896,170547,20.46122183327763
 1330,"South Australian Record and Australasian Chronicle (London, England : 1840)",88,429,20.51282051282051
-147,Eltham and Whittlesea Shires Advertiser and Diamond Creek Valley Advocate (Vic. : 1917 - 1922),1419,6876,20.636998254799302
+147,Eltham and Whittlesea Shires Advertiser and Diamond Creek Valley Advocate (Vic. : 1917 - 1922),1422,6876,20.680628272251308
 1399,Bullfinch Budget (WA : 1910 - 1911),210,1008,20.833333333333336
 1014,"Free Press and Commercial Journal (Sydney, NSW : 1841)",167,800,20.875
-8,The Maitland Mercury and Hunter River General Advertiser (NSW : 1843 - 1893),79054,377466,20.943343241510494
+8,The Maitland Mercury and Hunter River General Advertiser (NSW : 1843 - 1893),79070,377466,20.947582033878547
 1024,The Melbourne Courier (Vic. : 1845 - 1846),434,2071,20.956059874456784
 1243,The Colonial Record (Launceston Tas. : 1839),77,365,21.095890410958905
-922,The Walcha Witness and Vernon County Record (NSW : 1895 - 1906),5509,26114,21.095963850807994
+922,The Walcha Witness and Vernon County Record (NSW : 1895 - 1906),5510,26114,21.09979321436777
 1023,The Melbourne Weekly Courier (Vic. : 1844 - 1845),182,855,21.28654970760234
-1138,Port Phillip Gazette and Settler's Journal (Vic. : 1845 - 1850),2598,12127,21.423270388389547
+1138,Port Phillip Gazette and Settler's Journal (Vic. : 1845 - 1850),2609,12127,21.513977075946237
 1675,Noosa News (Qld. : 1968 - 1974),6272,28941,21.671676859818252
 507,"Direct Action (Sydney, NSW : 1914 - 1930)",910,4115,22.114216281895505
 1468,"The Currency Lad (Sydney, NSW : 1832-1833)",165,745,22.14765100671141
@@ -1467,7 +1467,7 @@ id,title,articles_with_corrections,total_articles,percentage_with_corrections
 1233,"The Austral-Asiatic Review (Hobart Town, Tas. : 1833)",204,875,23.314285714285717
 94,Sydney Chronicle (NSW : 1846 - 1848),1884,7993,23.570624296259226
 1462,"Hill's Life in New South Wales (Sydney, NSW : 1832)",132,560,23.57142857142857
-315,"Bendigonian (Bendigo, Vic. : 1914 - 1918)",15171,64055,23.68433377566154
+315,"Bendigonian (Bendigo, Vic. : 1914 - 1918)",15172,64055,23.68589493404106
 159,Deloraine and Westbury Advertiser (Tas. : 1910 - 1912),849,3564,23.82154882154882
 1004,"South Australian Gazette and Colonial Register (Adelaide, SA : 1845 - 1847)",589,2460,23.94308943089431
 262,"The North Australian, Ipswich and General Advertiser (Ipswich, Qld. : 1856 - 1862)",2787,11527,24.178016830051185
@@ -1491,7 +1491,7 @@ id,title,articles_with_corrections,total_articles,percentage_with_corrections
 72,"Illustrated Australian News for Home Readers (Melbourne, Vic. : 1867 - 1875)",1507,5704,26.420056100981764
 78,"Morning Chronicle (Sydney, NSW : 1843 - 1846)",1904,7176,26.53288740245262
 172,"South Australian (Adelaide, SA : 1844 - 1851)",5471,20553,26.618985063007834
-58,Bell's Life in Sydney and Sporting Reviewer (NSW : 1845 - 1860),7212,27045,26.666666666666668
+58,Bell's Life in Sydney and Sporting Reviewer (NSW : 1845 - 1860),7214,27045,26.674061748936957
 103,The Australian News for Home Readers (Vic. : 1864 - 1867),572,2143,26.691553896406905
 178,"Hawkesbury Courier and Agricultural and General Advertiser (Windsor, NSW : 1844 - 1846)",449,1678,26.758045292014305
 33,The Hobart Town Daily Mercury (Tas. : 1858 - 1860),5017,18730,26.785904965296314
@@ -1500,21 +1500,21 @@ id,title,articles_with_corrections,total_articles,percentage_with_corrections
 364,The Goulburn Herald and County of Argyle Advertiser (NSW : 1848 - 1859),6001,22144,27.099891618497107
 1506,"The Yellow Flag and Torrens Island Terror (Adelaide, SA : 1901)",12,44,27.27272727272727
 863,"Guardian, or, True Friend of Tasmania (Hobart, Tas. : 1847)",59,216,27.314814814814813
-283,Geelong Advertiser and Intelligencer (Vic. : 1851 - 1856),9029,32839,27.494747099485366
+283,Geelong Advertiser and Intelligencer (Vic. : 1851 - 1856),9030,32839,27.497792259203997
 153,Alexandra Times (Vic. : 1868 - 1877),1966,7106,27.666760484097946
 189,"The Star (Ballarat, Vic. : 1855 - 1864)",17494,63017,27.760762968722723
 212,The Sunbury News (Vic. : 1892),94,335,28.059701492537314
 1260,"Fun or The Tasmanian Charivari (Hobart Town, Tas. : 1867)",52,184,28.26086956521739
 938,The Melbourne Daily News and Port Phillip Patriot (Vic. : 1848),157,553,28.390596745027125
-22,The Hobart Town Gazette (Tas. : 1825 - 1833),1604,5603,28.627520970908442
 1465,"The Alfred (Sydney, NSW : 1835)",74,258,28.68217054263566
 693,Sydney General Trade List (NSW : 1828 - 1829),35,122,28.688524590163933
+22,The Hobart Town Gazette (Tas. : 1825 - 1833),1609,5603,28.716758879171874
 802,Blayney West Macquarie (NSW : 1949),32,110,29.09090909090909
-1230,"The Tasmanian (Hobart Town, Tas. : 1827 - 1839)",2774,9514,29.15703174269498
+1230,"The Tasmanian (Hobart Town, Tas. : 1827 - 1839)",2777,9514,29.188564221147782
 1172,Yorke's Peninsula Advertiser and Miners' and Farmers' Journal (SA : 1875 - 1878),3267,11189,29.198319778353742
 995,"The Australian Communist (Sydney, NSW : 1920 - 1921)",133,455,29.230769230769234
 1242,"Morning Star and Commercial Advertiser (Hobart Town, Tas. : 1834 - 1835)",498,1703,29.24251321197886
-29,"The Western Australian Times (Perth, WA : 1874 - 1879)",2657,9086,29.242791107197885
+29,"The Western Australian Times (Perth, WA : 1874 - 1879)",2658,9086,29.253797050407222
 174,Adelaide Morning Chronicle (SA : 1852 - 1853),652,2203,29.59600544711757
 479,Twofold Bay Telegraph (NSW : 1860),84,282,29.78723404255319
 1239,The Hobart Town Chronicle (Tas. : 1833),103,344,29.941860465116278
@@ -1522,7 +1522,7 @@ id,title,articles_with_corrections,total_articles,percentage_with_corrections
 32,The Hobart Town Mercury (Tas. : 1857),965,3196,30.193992490613265
 1105,"The Australian (Perth, WA : 1907 - 1908)",169,559,30.23255813953488
 936,Port Phillip Patriot and Melbourne Advertiser (Vic. : 1839 - 1845),2203,7228,30.478693967902604
-21,"The Courier (Hobart, Tas. : 1840 - 1859)",19850,61961,32.036280886364004
+21,"The Courier (Hobart, Tas. : 1840 - 1859)",19851,61961,32.037894804796565
 1280,"The Yalgoo Observer and Murchison Chronicle (Meekatharra, WA : 1923 - 1941)",21952,68483,32.05467050216842
 843,"Logan and Albert Bulletin (Southport, Qld. : 1896 - 1901; 1909; 1921; 1922; 1928)",347,1066,32.5515947467167
 869,"Trumpeter General (Hobart, Tas. : 1833 - 1834)",487,1482,32.86099865047233
@@ -1532,17 +1532,17 @@ id,title,articles_with_corrections,total_articles,percentage_with_corrections
 83,Queanbeyan Age and General Advertiser (NSW : 1864 - 1867),989,3003,32.933732933732934
 1428,"The Irwin Index (Mingenew, WA : 1926 - 1956)",29275,87911,33.30072459646688
 1460,Bullfinch Miner and Yilgarn Advocate (WA : 1910),9,27,33.33333333333333
-986,Adelaide Chronicle and South Australian Literary Record (SA : 1840 - 1842),647,1937,33.402168301497156
+986,Adelaide Chronicle and South Australian Literary Record (SA : 1840 - 1842),648,1937,33.453794527620026
 18,The Melbourne Argus (Vic. : 1846 - 1848),1950,5772,33.78378378378378
 171,"Southern Australian (Adelaide, SA : 1838 - 1844)",4290,12667,33.86752980184732
 1238,"Bent's News and Tasmanian Three-Penny Register (Hobart Town, Tas. : 1836 - 1837)",421,1236,34.06148867313916
 199,"The Elsternwick Leader (Brighton, Vic. : 1888)",11,32,34.375
 1008,"Out Of Work (Sydney, NSW : 1922)",11,32,34.375
 1053,"The Colonial Mining Journal, Railway and Share Gazette (Vic. : 1858 - 1859)",197,573,34.3804537521815
-50,"The Australian (Sydney, NSW : 1824 - 1848)",19278,55405,34.79469361970941
+50,"The Australian (Sydney, NSW : 1824 - 1848)",19286,55405,34.809132749751825
 1336,Adelaide Independent and Cabinet of Amusement (SA : 1841),125,355,35.2112676056338
 376,Ipswich Herald and General Advertiser (Qld. : 1861),299,845,35.38461538461539
-402,Petersburg Times (SA : 1887 - 1919),27333,76560,35.70141065830721
+402,Petersburg Times (SA : 1887 - 1919),27336,76560,35.705329153605014
 322,Hawthorn and Camberwell Citizen (Vic. : 1914),143,397,36.02015113350126
 1554,"The W.A. Table Talk (Perth, WA : 1921)",165,457,36.10503282275711
 272,Launceston Advertiser (Tas. : 1829 - 1846),6341,17139,36.99749110216465
@@ -1553,23 +1553,23 @@ id,title,articles_with_corrections,total_articles,percentage_with_corrections
 1310,"The Red Star (Perth, WA : 1932 - 1936)",1164,3063,38.00195886385897
 160,"The Observer (Hobart, Tas. : 1845 - 1846)",1031,2712,38.01622418879056
 190,Windsor Express and Richmond Advertiser (NSW : 1843 - 1844),61,159,38.36477987421384
-95,The Sydney Monitor (NSW : 1828 - 1838),10222,26458,38.63481744651901
+95,The Sydney Monitor (NSW : 1828 - 1838),10225,26458,38.64615617204626
 66,"The Colonist (Sydney, NSW : 1835 - 1840)",3933,10092,38.97146254458978
-24,"Colonial Times (Hobart, Tas. : 1828 - 1857)",18759,47942,39.12853030745484
+24,"Colonial Times (Hobart, Tas. : 1828 - 1857)",18761,47942,39.132702014934715
 104,"Clarence and Richmond Examiner (Grafton, NSW : 1859)",44,111,39.63963963963964
 706,"The Chinese Advertiser (Ballarat, Vic. : 1856)",6,15,40.0
 28,The Perth Gazette and West Australian Times (WA : 1864 - 1874),3382,8414,40.194913239838364
 26,The Perth Gazette and Independent Journal of Politics and News (WA : 1848 - 1864),5700,13599,41.914846679902936
-334,"Seymour Express and Goulburn Valley, Avenel, Graytown, Nagambie, Tallarook and Yea Advertiser (Vic. : 1882 - 1891; 1914 - 1918)",12140,28411,42.729928548801524
+334,"Seymour Express and Goulburn Valley, Avenel, Graytown, Nagambie, Tallarook and Yea Advertiser (Vic. : 1882 - 1891; 1914 - 1918)",12145,28411,42.747527366160995
 1305,"The Citizen (Port Adelaide, SA : 1938-1940)",558,1284,43.45794392523364
 1201,"The Possum (Fremantle, WA : 1890)",46,105,43.80952380952381
 1209,Southport and Nerang Bulletin (Qld. : 1893),16,36,44.44444444444444
 1773,"The Dawn Newsletter (Perth, WA : 1952 - 1954)",18,40,45.0
 867,"Van Diemen's Land Chronicle (Hobart, Tas. : 1841)",173,380,45.526315789473685
 1485,Port Lincoln Herald (SA : 1839 - 1840),19,41,46.34146341463415
-37,The Sydney Herald (NSW : 1831 - 1842),17327,36814,47.06633346009671
+37,The Sydney Herald (NSW : 1831 - 1842),17329,36814,47.07176617591134
 1235,"Colonial Advocate, and Tasmanian Monthly Review and Register (Hobart Town, Tas. : 1828)",236,498,47.389558232931726
-181,"Inquirer (Perth, WA : 1840 - 1855)",4691,9858,47.585717184012985
+181,"Inquirer (Perth, WA : 1840 - 1855)",4693,9858,47.60600527490363
 1207,The Coolangatta Chronicle (Qld. : 1926),20,42,47.61904761904761
 1484,"The Egotist (Adelaide, SA : 1839)",30,63,47.61904761904761
 54,Bathurst Advocate (NSW : 1848 - 1849),753,1572,47.900763358778626
@@ -1586,10 +1586,10 @@ id,title,articles_with_corrections,total_articles,percentage_with_corrections
 719,"The Port Adelaide Post Shipping Gazette, Farmers and Commercial Register (Port Adelaide, SA : 1876)",10,18,55.55555555555556
 1282,"Bent's Monthly Advertiser (Hobart, Tas. : 1828)",7,12,58.333333333333336
 1416,Geraldton Observer (WA : 1880 - 1881),1022,1670,61.197604790419156
-945,"The True Colonist Van Diemen's Land Political Despatch, and Agricultural and Commercial... (Hobart Town, Tas. : 1834 - 1844)",4088,6531,62.59378349410504
 1487,Western People and Tumby Bay Times (SA : 1912),82,131,62.59541984732825
+945,"The True Colonist Van Diemen's Land Political Despatch, and Agricultural and Commercial... (Hobart Town, Tas. : 1834 - 1844)",4091,6531,62.63971826672792
 978,The Moora Herald and Midland Districts Advocate (WA : 1914 - 1930),21833,34696,62.92656213972793
-76,"The Monitor (Sydney, NSW : 1826 - 1828)",1917,3041,63.03847418612298
+76,"The Monitor (Sydney, NSW : 1826 - 1828)",1919,3041,63.10424202564946
 944,"The Colonist and Van Diemen's Land Commercial and Agricultural Advertiser (Hobart Town, Tas. : 1832 - 1834)",1039,1645,63.16109422492401
 121,"The Children's Newspaper (Sydney, NSW : 1899 - 1900)",457,723,63.2088520055325
 20,The Hobart Town Courier and Van Diemen's Land Gazette (Tas. : 1839 - 1840),894,1411,63.359319631467045
@@ -1598,13 +1598,13 @@ id,title,articles_with_corrections,total_articles,percentage_with_corrections
 27,"The West Australian Times (Perth, WA : 1863 - 1864)",500,762,65.61679790026247
 236,Frankston and Somerville Standard (Vic. : 1921 - 1939),40948,62005,66.03983549713732
 810,"Upper Hunter Courier (Murrurundi, NSW : 1871)",16,24,66.66666666666666
-3,The Sydney Gazette and New South Wales Advertiser (NSW : 1803 - 1842),38927,58090,67.01153382682044
+3,The Sydney Gazette and New South Wales Advertiser (NSW : 1803 - 1842),38937,58090,67.02874849371665
 918,"The Enterprise (Katoomba, NSW : 1913)",15,22,68.18181818181817
 1196,Fremantle Mercury (WA : 1932 - 1933),383,561,68.27094474153299
 607,Stratford Sentinel and Briagolong Express (Vic. : 1911 - 1916),7091,10319,68.71789902122299
-1137,Port Phillip Gazette (Vic. : 1838 - 1845),8255,11959,69.02751066142653
+1137,Port Phillip Gazette (Vic. : 1838 - 1845),8258,11959,69.05259637093403
 1084,The Avon Gazette and Kellerberrin News (WA : 1914 - 1916),1920,2741,70.0474279460051
-816,"The Midlands Advertiser (Moora, WA : 1907 - 1930)",38530,54793,70.31920135783768
+816,"The Midlands Advertiser (Moora, WA : 1907 - 1930)",38531,54793,70.32102640848284
 1249,"The Weekly Times (Hobart Town, Tas. : 1863)",941,1334,70.53973013493253
 448,The Cobar Herald (NSW : 1899 - 1914),36897,51568,71.55018616196091
 984,Adelaide Chronicle and South Australian Advertiser (SA : 1839 - 1840),269,375,71.73333333333333

@@ -165,7 +165,7 @@
 
 | Language | Language code | Proportion of sample |
 |---|---|---|
-| Japanese | ja | 0.9583333333333334 |
+| Japanese | ja | 0.9375 |
 
 ### 27. [L'Italo-Australiano = The Italo-Australian (Surry Hills, NSW : 1885)](http://nla.gov.au/nla.news-title1596)
 
@@ -180,7 +180,7 @@
 |---|---|---|
 | Italian | it | 0.97 |
 
-### 29. [La Rondine (Perth, WA : 1969 - 1994)](http://nla.gov.au/nla.news-title1388)
+### 29. [La Rondine (Perth, WA : 1970 - 1974; 1983 - 1984)](http://nla.gov.au/nla.news-title1388)
 
 | Language | Language code | Proportion of sample |
 |---|---|---|

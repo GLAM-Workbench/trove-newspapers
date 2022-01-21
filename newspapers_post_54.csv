@@ -1,5 +1,5 @@
 title,state,id,startDate,endDate,issn,number_of_articles,troveUrl
-The Canberra Times (ACT : 1926 - 1995),ACT,11,1926-09-03,1995-12-31,01576925,2567113,https://trove.nla.gov.au/ndp/del/title/11
+The Canberra Times (ACT : 1926 - 1995),ACT,11,1926-09-03,1995-12-31,01576925,2567488,https://trove.nla.gov.au/ndp/del/title/11
 "The Australian Jewish News (Melbourne, Vic. : 1935 - 1999)",Victoria,1685,1935-05-24,1999-12-24,NDP00187,573658,https://trove.nla.gov.au/ndp/del/title/1685
 Papua New Guinea Post-Courier (Port Moresby : 1969 - 1981),International,1376,1969-06-30,1981-06-30,22087427,417472,https://trove.nla.gov.au/ndp/del/title/1376
 "The Australian Jewish Times (Sydney, NSW : 1953 - 1990)",New South Wales,1694,1953-10-16,1990-04-06,NDP00196,263618,https://trove.nla.gov.au/ndp/del/title/1694
@@ -14,8 +14,9 @@ Victor Harbour Times (SA : 1932 - 1986),South Australia,832,1932-04-15,1986-12-3
 "Le Courrier Australien (Sydney, NSW : 1892 - 2011)",New South Wales,829,1892-04-30,2011-04-01,22038264,94500,https://trove.nla.gov.au/ndp/del/title/829
 "The Biz (Fairfield, NSW : 1928 - 1972)",New South Wales,256,1928-11-03,1972-06-15,18397352,90068,https://trove.nla.gov.au/ndp/del/title/256
 "Western Herald (Bourke, NSW : 1887 - 1970)",New South Wales,426,1887-10-26,1970-12-11,22013504,88437,https://trove.nla.gov.au/ndp/del/title/426
-"The Riverine Herald (Echuca, Vic. : Moama, NSW : 1869 - 1954; 1998 - 2002)",New South Wales,311,1869-01-09,2002-12-30,2200159X,79244,https://trove.nla.gov.au/ndp/del/title/311
+"The Riverine Herald (Echuca, Vic. : Moama, NSW : 1869 - 1954; 1998 - 2002)",Victoria,311,1869-01-09,2002-12-30,2200159X,79244,https://trove.nla.gov.au/ndp/del/title/311
 The Beverley Times (WA : 1905 - 1977),Western Australia,973,1905-07-22,1977-08-11,22048537,77862,https://trove.nla.gov.au/ndp/del/title/973
+"King Island News (Currie, King Island : 1912 - 1955; 1963 - 1969",Tasmania,1078,1912-08-09,1983-12-21,22052569,77850,https://trove.nla.gov.au/ndp/del/title/1078
 "Tharunka (Kensington, NSW : 1953 - 2010)",New South Wales,1187,1953-03-02,2010-10-01,22061703,54719,https://trove.nla.gov.au/ndp/del/title/1187
 "Dutch Weekly (Sydney, NSW : 1993 - 2004)",New South Wales,1045,1993-08-02,2004-10-25,22051937,46560,https://trove.nla.gov.au/ndp/del/title/1045
 "Nota (Hawks Nest and Tea Gardens, NSW : 1970 - 1999)",New South Wales,1501,1970-04-01,1999-08-19,26520311,41515,https://trove.nla.gov.au/ndp/del/title/1501
@@ -26,7 +27,6 @@ Air Force News (National : 1997 - 2020),National,1672,1997-10-01,2020-03-19,NDP0
 "The Bananacoast Opinion (Coffs Harbour, NSW : 1973 - 1978)",New South Wales,1500,1973-06-19,1978-10-25,26520370,29322,https://trove.nla.gov.au/ndp/del/title/1500
 "The Cumberland Argus (Parramatta, NSW : 1950 - 1962)",New South Wales,442,1950-03-22,1962-10-24,22008985,28946,https://trove.nla.gov.au/ndp/del/title/442
 Noosa News (Qld. : 1968 - 1974),Queensland,1675,1968-12-05,1974-12-26,NDP00176,28941,https://trove.nla.gov.au/ndp/del/title/1675
-Noosa News (Qld. : 1968 - 1974),Queensland,1675,1968-12-05,1974-12-26,NDP00176,28941,https://trove.nla.gov.au/ndp/del/title/1675
 Windsor and Richmond Gazette (NSW : 1888 - 1961),New South Wales,192,1888-07-21,1961-05-03,08121885,27368,https://trove.nla.gov.au/ndp/del/title/192
 "The Central Queensland Herald (Rockhampton, Qld. : 1930 - 1956)",Queensland,187,1930-01-02,1956-11-29,18389783,27205,https://trove.nla.gov.au/ndp/del/title/187
 Western Tiers (Tas. : 1980 - 2004),Tasmania,1132,1980-04-01,2004-01-20,22054316,26178,https://trove.nla.gov.au/ndp/del/title/1132
@@ -34,7 +34,7 @@ RAAF News (National : 1960 - 1997),National,1671,1941-03-22,1997-09-01,NDP00172,
 "Woroni (Canberra, ACT : 1950 - 2007)",ACT,666,1950-06-14,2007-11-01,13262793,21297,https://trove.nla.gov.au/ndp/del/title/666
 "Hamersley News (Perth, WA : 1969 - 1987)",Western Australia,1175,1969-03-20,1987-07-01,2205927X,18762,https://trove.nla.gov.au/ndp/del/title/1175
 Northern Suburbs Weekly (SA : 1952 - 1961),South Australia,1341,1952-10-02,1961-12-20,22090711,13029,https://trove.nla.gov.au/ndp/del/title/1341
-"The Farmer and Settler (Sydney, NSW : 1906 - 1955)",New South Wales,451,1906-02-07,1955-11-25,22015140,12179,https://trove.nla.gov.au/ndp/del/title/451
+"The Farmer and Settler (Sydney, NSW : 1906 - 1955)",New South Wales,451,1906-02-07,1955-11-25,22015140,12189,https://trove.nla.gov.au/ndp/del/title/451
 "The Coromandel Times (Blackwood, SA : 1970 - 1976)",South Australia,1681,1970-08-20,1976-03-18,NDP00181,9900,https://trove.nla.gov.au/ndp/del/title/1681
 "Mirror (Perth, WA : 1921 - 1956)",Western Australia,253,1921-04-17,1956-08-11,18396305,9425,https://trove.nla.gov.au/ndp/del/title/253
 Sawtell Guardian (NSW : 1970 - 1976),New South Wales,1346,1970-12-03,1976-03-26,22087508,9418,https://trove.nla.gov.au/ndp/del/title/1346
@@ -48,7 +48,7 @@ The Norseman-Esperance News (WA : 1936 - 1954),Western Australia,1647,1936-05-16
 The Beaudesert Times (Qld. : 1908 - 1954),Queensland,1064,1908-10-10,1955-12-30,22051384,5534,https://trove.nla.gov.au/ndp/del/title/1064
 The Muswellbrook Chronicle (NSW : 1898 - 1955),New South Wales,469,1898-01-01,1955-12-30,22015329,5528,https://trove.nla.gov.au/ndp/del/title/469
 Jerilderie Herald and Urana Advertiser (NSW : 1898 - 1958),New South Wales,645,1898-01-07,1958-12-18,22023674,5483,https://trove.nla.gov.au/ndp/del/title/645
-"The Australian Jewish Herald (Melbourne, Vic. : 1935 - 1955)",Victoria,1696,1935-05-23,1955-12-30,NDP00198,5283,https://trove.nla.gov.au/ndp/del/title/1696
+"The Australian Jewish Herald (Melbourne, Vic. : 1935 - 1968)",Victoria,1696,1935-05-23,1955-12-30,NDP00198,5283,https://trove.nla.gov.au/ndp/del/title/1696
 Good Neighbour (ACT : 1950 - 1969),ACT,871,1950-08-01,1969-10-01,22037322,4968,https://trove.nla.gov.au/ndp/del/title/871
 "Il Canguro = The Kangaroo (Perth, WA : 1955 - 1957)",Western Australia,1378,1955-05-06,1957-04-08,22090754,4786,https://trove.nla.gov.au/ndp/del/title/1378
 "Japanese Perth Times (Subiaco, WA : 1989 - 1996)",Western Australia,1386,1989-11-01,1996-09-01,22093060,4498,https://trove.nla.gov.au/ndp/del/title/1386
@@ -67,6 +67,7 @@ The Northam Advertiser (WA : 1895 - 1955),Western Australia,1083,1895-06-01,1955
 "The World's News (Sydney, NSW : 1901 - 1955)",New South Wales,466,1901-12-21,1955-12-31,22014780,2125,https://trove.nla.gov.au/ndp/del/title/466
 "The Harvey-Waroona Mail (Collie, WA : 1931 - 1956)",Western Australia,1629,1946-05-03,1956-03-23,NDP00130,1996,https://trove.nla.gov.au/ndp/del/title/1629
 "The Prospecter (Fitzroy, SA : 1978 - 1984)",South Australia,1683,1978-12-01,1984-12-01,NDP00183,1919,https://trove.nla.gov.au/ndp/del/title/1683
+"Now (Potts Point, NSW : 1968 - 1975)",New South Wales,1726,1968-04-03,1975-07-01,NDP00228,1917,https://trove.nla.gov.au/ndp/del/title/1726
 "Jamboree Daily (Frankston, Vic. : 1934; 1949; 1955; 1964; 1976; 1992; 2007)",Victoria,1189,1934-12-28,2007-01-13,22062688,1883,https://trove.nla.gov.au/ndp/del/title/1189
 Harvey Murray Times (WA : 1931 - 1955),Western Australia,1419,1931-07-24,1955-04-29,22095241,1835,https://trove.nla.gov.au/ndp/del/title/1419
 Raymond Terrace Examiner and Lower Hunter and Port Stephens Advertiser (NSW : 1912 - 1955),New South Wales,654,1912-06-14,1955-12-22,22023739,1773,https://trove.nla.gov.au/ndp/del/title/654
@@ -74,8 +75,7 @@ Raymond Terrace Examiner and Lower Hunter and Port Stephens Advertiser (NSW : 19
 "North-Eastern Courier (Perth, WA : 1923 - 1955)",Western Australia,1568,1923-07-20,1955-09-29,NDP00068,1735,https://trove.nla.gov.au/ndp/del/title/1568
 The Narrogin Observer (WA : 1918 - 1955),Western Australia,1082,1919-01-04,1955-04-28,22051821,1626,https://trove.nla.gov.au/ndp/del/title/1082
 "Eco Italiano (Perth, WA : 1958 - 1959)",Western Australia,1387,1958-06-04,1959-02-11,22093168,1579,https://trove.nla.gov.au/ndp/del/title/1387
-"King Island News (Currie, King Island : 1912 - 1954)",Tasmania,1078,1912-08-09,1955-12-21,22052569,1499,https://trove.nla.gov.au/ndp/del/title/1078
-"La Rondine (Perth, WA : 1969 - 1994)",Western Australia,1388,1970-03-01,1984-12-01,22093184,1383,https://trove.nla.gov.au/ndp/del/title/1388
+"La Rondine (Perth, WA : 1970 - 1974; 1983 - 1984)",Western Australia,1388,1970-03-01,1984-12-01,22093184,1383,https://trove.nla.gov.au/ndp/del/title/1388
 "Healesville Guardian (Lilydale, Vic. : 1942 - 1954)",Victoria,144,1942-10-24,1956-04-27,18380301,1115,https://trove.nla.gov.au/ndp/del/title/144
 "Vesnik (Perth, WA : 1975 - 1994)",Western Australia,1382,1975-04-01,1994-12-01,22092986,881,https://trove.nla.gov.au/ndp/del/title/1382
 "Chung Wah News (Perth, WA : 1981 - 1987)",Western Australia,1383,1981-10-01,1984-11-01,22093087,860,https://trove.nla.gov.au/ndp/del/title/1383

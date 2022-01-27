@@ -18,6 +18,8 @@ pyzotero
 requests
 lxml
 trove-query-parser
+trove-newspaper-images
+omeka-s-tools
 pycld3
 rectpack
 python-dotenv

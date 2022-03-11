@@ -82,8 +82,6 @@ idna==3.3
     #   anyio
     #   requests
     #   tldextract
-importlib-resources==5.4.0
-    # via jsonschema
 ipykernel==6.7.0
     # via
     #   ipywidgets
@@ -226,7 +224,7 @@ pexpect==4.8.0
     # via ipython
 pickleshare==0.7.5
     # via ipython
-pillow==9.0.0
+pillow==9.0.1
     # via
     #   -r requirements.in
     #   trove-newspaper-images
@@ -388,8 +386,6 @@ websockets==10.1
     # via voila
 widgetsnbextension==3.5.2
     # via ipywidgets
-zipp==3.7.0
-    # via importlib-resources
 
 # The following packages are considered to be unsafe in a requirements file:
 # pip

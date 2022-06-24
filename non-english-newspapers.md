@@ -209,7 +209,7 @@
 |---|---|---|
 | Estonian | et | 1.0 |
 
-### 33. [Mu̇sų Pastogė = Our Haven (Sydney, NSW : 1950 - 1954)](http://nla.gov.au/nla.news-title1594)
+### 33. [Musu Pastoge = Our Haven (Sydney, NSW : 1950 - 1954)](http://nla.gov.au/nla.news-title1594)
 
 | Language | Language code | Proportion of sample |
 |---|---|---|

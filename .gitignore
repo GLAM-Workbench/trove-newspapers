@@ -30,3 +30,5 @@ nla.news-article*.jpg
 .github/workflows/release_new_version.yml
 test_and_lint.sh
 trove_newspaper_issues_per_day.html
+totals
+

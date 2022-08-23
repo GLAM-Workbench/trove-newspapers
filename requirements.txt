@@ -157,6 +157,7 @@ language-tags==1.1.0
 lxml==4.9.0
     # via
     #   -r requirements.in
+    #   nbconvert
     #   trove-newspaper-images
 markupsafe==2.1.1
     # via
@@ -174,7 +175,7 @@ nbclient==0.5.13
     # via
     #   nbconvert
     #   voila
-nbconvert==6.5.0
+nbconvert==6.5.1
     # via
     #   jupyter-server
     #   notebook

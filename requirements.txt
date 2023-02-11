@@ -88,7 +88,7 @@ ipykernel==6.15.0
     # via
     #   ipywidgets
     #   notebook
-ipython==8.4.0
+ipython==8.10.0
     # via
     #   ipykernel
     #   ipywidgets
@@ -235,7 +235,7 @@ prometheus-client==0.14.1
     # via
     #   jupyter-server
     #   notebook
-prompt-toolkit==3.0.29
+prompt-toolkit==3.0.36
     # via ipython
 psutil==5.9.1
     # via ipykernel

@@ -253,8 +253,6 @@ pure-eval==0.2.3
     # via stack-data
 pyarrow==17.0.0
     # via -r requirements.in
-pycld3==0.22
-    # via -r requirements.in
 pycountry==24.6.1
     # via -r requirements.in
 pycparser==2.22

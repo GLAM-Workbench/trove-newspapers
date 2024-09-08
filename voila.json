@@ -1,0 +1,7 @@
+{
+    "VoilaConfiguration": {
+      "template": "material",
+      "file_allowlist": [".*"],
+      "show_tracebacks": true
+    }
+  }

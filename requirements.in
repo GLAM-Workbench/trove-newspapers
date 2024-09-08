@@ -23,3 +23,5 @@ omeka-s-tools
 pycld3
 rectpack
 python-dotenv
+natsort
+pyarrow

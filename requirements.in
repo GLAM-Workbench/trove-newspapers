@@ -20,6 +20,8 @@ lxml
 trove-query-parser
 trove-newspaper-images
 omeka-s-tools
-pycld3
+# pycld3
 rectpack
 python-dotenv
+natsort
+pyarrow

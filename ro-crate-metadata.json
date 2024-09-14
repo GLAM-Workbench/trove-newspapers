@@ -1,0 +1,1638 @@
+{
+    "@context": "https://w3id.org/ro/crate/1.1/context",
+    "@graph": [
+        {
+            "@id": "./",
+            "@type": "Dataset",
+            "author": [
+                {
+                    "@id": "https://orcid.org/0000-0001-7956-4498"
+                }
+            ],
+            "datePublished": "2024-09-14T07:01:36+00:00",
+            "description": "A GLAM Workbench repository",
+            "hasPart": [
+                {
+                    "@id": "Upload-Trove-newspapers-to-Omeka.ipynb"
+                },
+                {
+                    "@id": "Todays-news-yesterday.ipynb"
+                },
+                {
+                    "@id": "Map-newspaper-results-by-state.ipynb"
+                },
+                {
+                    "@id": "harvest-aww-covers-and-newspaper-front-pages.ipynb"
+                },
+                {
+                    "@id": "https://github.com/GLAM-Workbench/aww-data/blob/main/aww-issues.csv"
+                },
+                {
+                    "@id": "https://glam-workbench.s3.ap-southeast-2.amazonaws.com/aww-covers.tar.gz"
+                },
+                {
+                    "@id": "Beyond_the_copyright_cliff_of_death.ipynb"
+                },
+                {
+                    "@id": "https://github.com/GLAM-Workbench/trove-newspapers-data-post-54/blob/main/newspapers_post_54.csv"
+                },
+                {
+                    "@id": "Create-a-Trove-corrections-ticker.ipynb"
+                },
+                {
+                    "@id": "trove-newspapers-scissors-and-paste.ipynb"
+                },
+                {
+                    "@id": "Composite-thumbnails.ipynb"
+                },
+                {
+                    "@id": "querypic.ipynb"
+                },
+                {
+                    "@id": "Map-newspaper-results-by-place-of-publication.ipynb"
+                },
+                {
+                    "@id": "harvest_newspaper_issues.ipynb"
+                },
+                {
+                    "@id": "https://doi.org/10.5281/zenodo.12547036"
+                },
+                {
+                    "@id": "harvest_newspaper_issues_as_pdfs.ipynb"
+                },
+                {
+                    "@id": "snippets.ipynb"
+                },
+                {
+                    "@id": "Analysing_OCR_corrections.ipynb"
+                },
+                {
+                    "@id": "https://github.com/GLAM-Workbench/trove-newspapers-corrections/blob/main/corrections_by_title.csv"
+                },
+                {
+                    "@id": "https://github.com/GLAM-Workbench/trove-newspapers-corrections/blob/main/corrections_by_year.csv"
+                },
+                {
+                    "@id": "https://github.com/GLAM-Workbench/trove-newspapers-corrections/blob/main/corrections_by_category.csv"
+                },
+                {
+                    "@id": "trove-newspapers-create-composite-from-words.ipynb"
+                },
+                {
+                    "@id": "Save-Trove-newspaper-article-as-image.ipynb"
+                },
+                {
+                    "@id": "visualise-total-newspaper-articles-by-state-year.ipynb"
+                },
+                {
+                    "@id": "historical-data-newspaper-titles.ipynb"
+                },
+                {
+                    "@id": "https://github.com/GLAM-Workbench/trove-newspaper-titles-web-archives/blob/main/trove_newspaper_titles_2009_2021.csv"
+                },
+                {
+                    "@id": "https://github.com/GLAM-Workbench/trove-newspaper-titles-web-archives/blob/main/trove_newspaper_titles_first_appearance_2009_2021.csv"
+                },
+                {
+                    "@id": "trove-newspapers-get-coordinates-of-articles.ipynb"
+                },
+                {
+                    "@id": "find-non-english-newspapers.ipynb"
+                },
+                {
+                    "@id": "https://github.com/GLAM-Workbench/trove-newspapers-non-english/blob/main/newspapers_non_english.csv"
+                },
+                {
+                    "@id": "visualise-searches-over-time.ipynb"
+                },
+                {
+                    "@id": "Map-newspaper-results-by-place-of-publication-over-time.ipynb"
+                },
+                {
+                    "@id": "Save-page-image.ipynb"
+                },
+                {
+                    "@id": "Get-article-thumbnail.ipynb"
+                },
+                {
+                    "@id": "QueryPic_deconstructed.ipynb"
+                }
+            ],
+            "license": {
+                "@id": "https://spdx.org/licenses/MIT"
+            },
+            "mainEntityOfPage": {
+                "@id": "https://glam-workbench.net/trove-newspapers"
+            },
+            "name": "trove-newspapers",
+            "url": "https://github.com/GLAM-Workbench/trove-newspapers/"
+        },
+        {
+            "@id": "ro-crate-metadata.json",
+            "@type": "CreativeWork",
+            "about": {
+                "@id": "./"
+            },
+            "conformsTo": {
+                "@id": "https://w3id.org/ro/crate/1.1"
+            },
+            "license": {
+                "@id": "https://creativecommons.org/publicdomain/zero/1.0/"
+            }
+        },
+        {
+            "@id": "https://glam-workbench.net/trove-newspapers",
+            "@type": "CreativeWork",
+            "isPartOf": {
+                "@id": "https://glam-workbench.net/"
+            },
+            "name": "Trove newspapers",
+            "url": "https://glam-workbench.net/trove-newspapers"
+        },
+        {
+            "@id": "https://glam-workbench.net/",
+            "@type": "CreativeWork",
+            "author": [
+                {
+                    "@id": "https://orcid.org/0000-0001-7956-4498"
+                }
+            ],
+            "description": "A collection of tools, tutorials, examples, and hacks to help researchers work with data from galleries, libraries, archives, and museums (the GLAM sector).",
+            "name": "GLAM Workbench",
+            "url": "https://glam-workbench.net/"
+        },
+        {
+            "@id": "https://orcid.org/0000-0001-7956-4498",
+            "@type": "Person",
+            "mainEntityOfPage": "https://timsherratt.au",
+            "name": "Sherratt, Tim",
+            "orcid": "https://orcid.org/0000-0001-7956-4498"
+        },
+        {
+            "@id": "https://spdx.org/licenses/MIT",
+            "@type": "CreativeWork",
+            "name": "MIT License",
+            "url": "https://spdx.org/licenses/MIT.html"
+        },
+        {
+            "@id": "https://creativecommons.org/publicdomain/zero/1.0/",
+            "@type": "CreativeWork",
+            "name": "CC0 Public Domain Dedication",
+            "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+        },
+        {
+            "@id": "http://rightsstatements.org/vocab/NKC/1.0/",
+            "@type": "CreativeWork",
+            "description": "The organization that has made the Item available reasonably believes that the Item is not restricted by copyright or related rights, but a conclusive determination could not be made.",
+            "name": "No Known Copyright",
+            "url": "http://rightsstatements.org/vocab/NKC/1.0/"
+        },
+        {
+            "@id": "http://rightsstatements.org/vocab/CNE/1.0/",
+            "@type": "CreativeWork",
+            "description": "The copyright and related rights status of this Item has not been evaluated.",
+            "name": "Copyright Not Evaluated",
+            "url": "http://rightsstatements.org/vocab/CNE/1.0/"
+        },
+        {
+            "@id": "https://www.python.org/downloads/release/python-31012/",
+            "@type": [
+                "ComputerLanguage",
+                "SoftwareApplication"
+            ],
+            "name": "Python 3.10.12",
+            "url": "https://www.python.org/downloads/release/python-31012/",
+            "version": "3.10.12"
+        },
+        {
+            "@id": "https://glam-workbench.net/trove-newspapers/Upload-Trove-newspapers-to-Omeka/",
+            "@type": "CreativeWork",
+            "isPartOf": {
+                "@id": "https://glam-workbench.net"
+            },
+            "name": "Upload Trove newspaper articles to Omeka-S",
+            "url": "https://glam-workbench.net/trove-newspapers/Upload-Trove-newspapers-to-Omeka/"
+        },
+        {
+            "@id": "Upload-Trove-newspapers-to-Omeka.ipynb",
+            "@type": [
+                "File",
+                "SoftwareSourceCode"
+            ],
+            "author": [
+                {
+                    "@id": "https://orcid.org/0000-0001-7956-4498"
+                }
+            ],
+            "category": "",
+            "codeRepository": "https://github.com/GLAM-Workbench/trove-newspapers/",
+            "conformsTo": {
+                "@id": "https://purl.archive.org/textcommons/profile#Notebook"
+            },
+            "description": "This notebook steps through the process of uploading Trove newspaper articles to your own Omeka-S instance via the API. As well as uploading the article metadata, it attaches image(s) and PDFs of the articles, and creates a linked record for the publishing newspaper. The source of the articles can be a Trove search, a Trove list, a Zotero collection, or just a list of article ids.",
+            "encodingFormat": "application/x-ipynb+json",
+            "mainEntityOfPage": {
+                "@id": "https://glam-workbench.net/trove-newspapers/Upload-Trove-newspapers-to-Omeka/"
+            },
+            "name": "Upload Trove newspaper articles to Omeka-S",
+            "position": 0,
+            "programmingLanguage": {
+                "@id": "https://www.python.org/downloads/release/python-31012/"
+            },
+            "url": "https://github.com/GLAM-Workbench/trove-newspapers/blob/None/Upload-Trove-newspapers-to-Omeka.ipynb",
+            "workExample": []
+        },
+        {
+            "@id": "https://glam-workbench.net/trove-newspapers/Todays-news-yesterday/",
+            "@type": "CreativeWork",
+            "isPartOf": {
+                "@id": "https://glam-workbench.net"
+            },
+            "name": "Today\u2019s news yesterday",
+            "url": "https://glam-workbench.net/trove-newspapers/Todays-news-yesterday/"
+        },
+        {
+            "@id": "Todays-news-yesterday.ipynb",
+            "@type": [
+                "File",
+                "SoftwareSourceCode"
+            ],
+            "author": [
+                {
+                    "@id": "https://orcid.org/0000-0001-7956-4498"
+                }
+            ],
+            "category": "",
+            "codeRepository": "https://github.com/GLAM-Workbench/trove-newspapers/",
+            "conformsTo": {
+                "@id": "https://purl.archive.org/textcommons/profile#Notebook"
+            },
+            "description": "Uses the date index and the firstpageseq parameter to find articles from exactly 100 years ago that were published on the front page. It then selects one of the articles at random and downloads and displays an image of the front page.",
+            "encodingFormat": "application/x-ipynb+json",
+            "mainEntityOfPage": {
+                "@id": "https://glam-workbench.net/trove-newspapers/Todays-news-yesterday/"
+            },
+            "name": "Today's news yesterday",
+            "position": 0,
+            "programmingLanguage": {
+                "@id": "https://www.python.org/downloads/release/python-31012/"
+            },
+            "url": "https://github.com/GLAM-Workbench/trove-newspapers/blob/None/Todays-news-yesterday.ipynb",
+            "workExample": []
+        },
+        {
+            "@id": "https://glam-workbench.net/trove-newspapers/Map-newspaper-results-by-state/",
+            "@type": "CreativeWork",
+            "isPartOf": {
+                "@id": "https://glam-workbench.net"
+            },
+            "name": "Map Trove newspaper results by state",
+            "url": "https://glam-workbench.net/trove-newspapers/Map-newspaper-results-by-state/"
+        },
+        {
+            "@id": "Map-newspaper-results-by-state.ipynb",
+            "@type": [
+                "File",
+                "SoftwareSourceCode"
+            ],
+            "author": [
+                {
+                    "@id": "https://orcid.org/0000-0001-7956-4498"
+                }
+            ],
+            "category": "",
+            "codeRepository": "https://github.com/GLAM-Workbench/trove-newspapers/",
+            "conformsTo": {
+                "@id": "https://purl.archive.org/textcommons/profile#Notebook"
+            },
+            "description": "Uses the Trove state facet to create a choropleth map that visualises the number of search results per state.",
+            "encodingFormat": "application/x-ipynb+json",
+            "mainEntityOfPage": {
+                "@id": "https://glam-workbench.net/trove-newspapers/Map-newspaper-results-by-state/"
+            },
+            "name": "Map Trove newspaper results by state",
+            "position": 0,
+            "programmingLanguage": {
+                "@id": "https://www.python.org/downloads/release/python-31012/"
+            },
+            "url": "https://github.com/GLAM-Workbench/trove-newspapers/blob/None/Map-newspaper-results-by-state.ipynb",
+            "workExample": []
+        },
+        {
+            "@id": "https://glam-workbench.net/trove-newspapers/harvest-aww-covers-and-newspaper-front-pages/",
+            "@type": "CreativeWork",
+            "isPartOf": {
+                "@id": "https://glam-workbench.net"
+            },
+            "name": "Harvest Australian Women's Weekly covers (or the front pages of any newspaper)",
+            "url": "https://glam-workbench.net/trove-newspapers/harvest-aww-covers-and-newspaper-front-pages/"
+        },
+        {
+            "@id": "harvest-aww-covers-and-newspaper-front-pages.ipynb",
+            "@type": [
+                "File",
+                "SoftwareSourceCode"
+            ],
+            "author": [
+                {
+                    "@id": "https://orcid.org/0000-0001-7956-4498"
+                }
+            ],
+            "category": "",
+            "codeRepository": "https://github.com/GLAM-Workbench/trove-newspapers/",
+            "conformsTo": {
+                "@id": "https://purl.archive.org/textcommons/profile#Notebook"
+            },
+            "description": "Somewhat confusingly, the Australian Women's Weekly is in with Trove's digitised newspapers and not the rest of the magazines. There are notebooks in the GLAM Workbench's journals section to help harvest all of a journal's covers as images, so I thought I should do the same for the Weekly. This notebook can be easily adjusted to download the front pages of any digitised newspaper.",
+            "encodingFormat": "application/x-ipynb+json",
+            "mainEntityOfPage": {
+                "@id": "https://glam-workbench.net/trove-newspapers/harvest-aww-covers-and-newspaper-front-pages/"
+            },
+            "name": "Harvesting Australian Women's Weekly covers (or the front pages of any newspaper)",
+            "position": 0,
+            "programmingLanguage": {
+                "@id": "https://www.python.org/downloads/release/python-31012/"
+            },
+            "url": "https://github.com/GLAM-Workbench/trove-newspapers/blob/None/harvest-aww-covers-and-newspaper-front-pages.ipynb",
+            "workExample": []
+        },
+        {
+            "@id": "https://www.dropbox.com/s/0j6zpeuw6tbey5k/aww-1933-1939.pdf?dl=0",
+            "@type": "CreativeWork",
+            "name": "AWW covers 1933 to 1939 (PDF)",
+            "url": "https://www.dropbox.com/s/0j6zpeuw6tbey5k/aww-1933-1939.pdf?dl=0"
+        },
+        {
+            "@id": "https://www.dropbox.com/s/y1he8dd6h655weu/aww-1940-1949.pdf?dl=0",
+            "@type": "CreativeWork",
+            "name": "AWW covers 1940 to 1949 (PDF)",
+            "url": "https://www.dropbox.com/s/y1he8dd6h655weu/aww-1940-1949.pdf?dl=0"
+        },
+        {
+            "@id": "https://www.dropbox.com/s/i9gp9i51nofmlqo/aww-1950-1959.pdf?dl=0",
+            "@type": "CreativeWork",
+            "name": "AWW covers 1950 to 1959 (PDF)",
+            "url": "https://www.dropbox.com/s/i9gp9i51nofmlqo/aww-1950-1959.pdf?dl=0"
+        },
+        {
+            "@id": "https://www.dropbox.com/s/2of63tovcnphijo/aww-1960-1969.pdf?dl=0",
+            "@type": "CreativeWork",
+            "name": "AWW covers 1960 to 1969 (PDF)",
+            "url": "https://www.dropbox.com/s/2of63tovcnphijo/aww-1960-1969.pdf?dl=0"
+        },
+        {
+            "@id": "https://www.dropbox.com/s/f2yxpg8u4dx5uf2/aww-1970-1979.pdf?dl=0",
+            "@type": "CreativeWork",
+            "name": "AWW covers 1970 to 1979 (PDF)",
+            "url": "https://www.dropbox.com/s/f2yxpg8u4dx5uf2/aww-1970-1979.pdf?dl=0"
+        },
+        {
+            "@id": "https://www.dropbox.com/s/xanohtas1fi7eu4/aww-1980-1982.pdf?dl=0",
+            "@type": "CreativeWork",
+            "name": "AWW covers 1980 to 1982 (PDF)",
+            "url": "https://www.dropbox.com/s/xanohtas1fi7eu4/aww-1980-1982.pdf?dl=0"
+        },
+        {
+            "@id": "https://glam-workbench.net/trove-newspapers/dataset-aww-covers/",
+            "@type": "CreativeWork",
+            "isPartOf": {
+                "@id": "https://glam-workbench.net"
+            },
+            "name": "Australian Women's Weekly front covers, 1933 to 1982",
+            "url": "https://glam-workbench.net/trove-newspapers/dataset-aww-covers/"
+        },
+        {
+            "@id": "https://github.com/GLAM-Workbench/aww-data",
+            "@type": "Dataset",
+            "mainEntityOfPage": {
+                "@id": "https://glam-workbench.net/trove-newspapers/dataset-aww-covers/"
+            },
+            "name": "aww-data",
+            "url": "https://github.com/GLAM-Workbench/aww-data",
+            "workExample": [
+                {
+                    "@id": "https://www.dropbox.com/s/2of63tovcnphijo/aww-1960-1969.pdf?dl=0"
+                },
+                {
+                    "@id": "https://www.dropbox.com/s/f2yxpg8u4dx5uf2/aww-1970-1979.pdf?dl=0"
+                },
+                {
+                    "@id": "https://www.dropbox.com/s/xanohtas1fi7eu4/aww-1980-1982.pdf?dl=0"
+                },
+                {
+                    "@id": "https://www.dropbox.com/s/y1he8dd6h655weu/aww-1940-1949.pdf?dl=0"
+                },
+                {
+                    "@id": "https://www.dropbox.com/s/i9gp9i51nofmlqo/aww-1950-1959.pdf?dl=0"
+                },
+                {
+                    "@id": "https://www.dropbox.com/s/0j6zpeuw6tbey5k/aww-1933-1939.pdf?dl=0"
+                }
+            ]
+        },
+        {
+            "@id": "https://github.com/GLAM-Workbench/aww-data/blob/main/aww-issues.csv",
+            "@type": "File",
+            "contentSize": 259203,
+            "dateModified": "2024-09-14",
+            "description": "This file includes metadata for 2,566 issues of the Australian Women's Weekly from 1933 to 1982.",
+            "encodingFormat": "text/csv",
+            "isPartOf": {
+                "@id": "https://github.com/GLAM-Workbench/aww-data"
+            },
+            "name": "aww-issues.csv",
+            "sdDatePublished": "2024-09-14",
+            "url": "https://github.com/GLAM-Workbench/aww-data/blob/main/aww-issues.csv"
+        },
+        {
+            "@id": "https://glam-workbench.s3.ap-southeast-2.amazonaws.com/aww-covers.tar.gz",
+            "@type": "File",
+            "contentSize": "1639991506",
+            "description": "This file contains images of the covers of all digitised issues of the Australian Women's Weekly in Trove.",
+            "encodingFormat": "application/x-tar",
+            "isPartOf": {
+                "@id": "https://github.com/GLAM-Workbench/aww-data"
+            },
+            "name": "aww-covers.tar.gz",
+            "sdDatePublished": "2024-09-14",
+            "url": "https://glam-workbench.s3.ap-southeast-2.amazonaws.com/aww-covers.tar.gz"
+        },
+        {
+            "@id": "#harvest-aww-covers-and-newspaper-front-pages_run_0",
+            "@type": "CreateAction",
+            "actionStatus": {
+                "@id": "http://schema.org/CompletedActionStatus"
+            },
+            "endDate": "2024-09-14",
+            "instrument": {
+                "@id": "harvest-aww-covers-and-newspaper-front-pages.ipynb"
+            },
+            "name": "Run of notebook: harvest-aww-covers-and-newspaper-front-pages.ipynb",
+            "query": "TITLE_ID = '112'",
+            "result": [
+                {
+                    "@id": "https://github.com/GLAM-Workbench/aww-data/blob/main/aww-issues.csv"
+                },
+                {
+                    "@id": "https://glam-workbench.s3.ap-southeast-2.amazonaws.com/aww-covers.tar.gz"
+                }
+            ]
+        },
+        {
+            "@id": "https://glam-workbench.net/trove-newspapers/Beyond_the_copyright_cliff_of_death/",
+            "@type": "CreativeWork",
+            "isPartOf": {
+                "@id": "https://glam-workbench.net"
+            },
+            "name": "Beyond the copyright cliff of death",
+            "url": "https://glam-workbench.net/trove-newspapers/Beyond_the_copyright_cliff_of_death/"
+        },
+        {
+            "@id": "Beyond_the_copyright_cliff_of_death.ipynb",
+            "@type": [
+                "File",
+                "SoftwareSourceCode"
+            ],
+            "author": [
+                {
+                    "@id": "https://orcid.org/0000-0001-7956-4498"
+                }
+            ],
+            "category": "",
+            "codeRepository": "https://github.com/GLAM-Workbench/trove-newspapers/",
+            "conformsTo": {
+                "@id": "https://purl.archive.org/textcommons/profile#Notebook"
+            },
+            "description": "Most of the newspaper articles on Trove were published before 1955, but there are some from the later period. Let's find out how many, and which newspapers they were published in.",
+            "encodingFormat": "application/x-ipynb+json",
+            "mainEntityOfPage": {
+                "@id": "https://glam-workbench.net/trove-newspapers/Beyond_the_copyright_cliff_of_death/"
+            },
+            "name": "Beyond the copyright cliff of death",
+            "position": 0,
+            "programmingLanguage": {
+                "@id": "https://www.python.org/downloads/release/python-31012/"
+            },
+            "url": "https://github.com/GLAM-Workbench/trove-newspapers/blob/None/Beyond_the_copyright_cliff_of_death.ipynb",
+            "workExample": []
+        },
+        {
+            "@id": "https://glam-workbench.net/datasette-lite/?csv=https://github.com/GLAM-Workbench/trove-newspapers-data-post-54/blob/v1.5/newspapers_post_54.csv",
+            "@type": "CreativeWork",
+            "name": "Explore in Datasette",
+            "url": "https://glam-workbench.net/datasette-lite/?csv=https://github.com/GLAM-Workbench/trove-newspapers-data-post-54/blob/v1.5/newspapers_post_54.csv"
+        },
+        {
+            "@id": "https://glam-workbench.net/trove-newspapers/csv-newspapers-post-54/",
+            "@type": "CreativeWork",
+            "isPartOf": {
+                "@id": "https://glam-workbench.net"
+            },
+            "name": "Trove newspapers with articles published after 1954",
+            "url": "https://glam-workbench.net/trove-newspapers/csv-newspapers-post-54/"
+        },
+        {
+            "@id": "https://github.com/GLAM-Workbench/trove-newspapers-data-post-54",
+            "@type": "Dataset",
+            "description": "CSV formatted dataset containing a list of digitised newspapers in Trove with articles published after 1954 (the copyright cliff of death).",
+            "mainEntityOfPage": {
+                "@id": "https://glam-workbench.net/trove-newspapers/csv-newspapers-post-54/"
+            },
+            "name": "trove-newspapers-data-post-54",
+            "url": "https://github.com/GLAM-Workbench/trove-newspapers-data-post-54",
+            "workExample": [
+                {
+                    "@id": "https://glam-workbench.net/datasette-lite/?csv=https://github.com/GLAM-Workbench/trove-newspapers-data-post-54/blob/v1.5/newspapers_post_54.csv"
+                }
+            ]
+        },
+        {
+            "@id": "https://github.com/GLAM-Workbench/trove-newspapers-data-post-54/blob/main/newspapers_post_54.csv",
+            "@type": [
+                "File",
+                "Dataset"
+            ],
+            "contentSize": 16994,
+            "dateModified": "2024-09-13",
+            "encodingFormat": "text/csv",
+            "isPartOf": {
+                "@id": "https://github.com/GLAM-Workbench/trove-newspapers-data-post-54"
+            },
+            "name": "newspapers_post_54.csv",
+            "sdDatePublished": "2024-09-14",
+            "size": 119,
+            "url": "https://github.com/GLAM-Workbench/trove-newspapers-data-post-54/blob/main/newspapers_post_54.csv"
+        },
+        {
+            "@id": "#Beyond_the_copyright_cliff_of_death_run_0",
+            "@type": "CreateAction",
+            "actionStatus": {
+                "@id": "http://schema.org/CompletedActionStatus"
+            },
+            "endDate": "2024-09-13",
+            "instrument": {
+                "@id": "Beyond_the_copyright_cliff_of_death.ipynb"
+            },
+            "name": "Run of notebook: Beyond_the_copyright_cliff_of_death.ipynb",
+            "result": [
+                {
+                    "@id": "https://github.com/GLAM-Workbench/trove-newspapers-data-post-54/blob/main/newspapers_post_54.csv"
+                }
+            ]
+        },
+        {
+            "@id": "https://glam-workbench.net/trove-newspapers/Create-a-Trove-corrections-ticker/",
+            "@type": "CreativeWork",
+            "isPartOf": {
+                "@id": "https://glam-workbench.net"
+            },
+            "name": "Create a Trove OCR corrections ticker",
+            "url": "https://glam-workbench.net/trove-newspapers/Create-a-Trove-corrections-ticker/"
+        },
+        {
+            "@id": "Create-a-Trove-corrections-ticker.ipynb",
+            "@type": [
+                "File",
+                "SoftwareSourceCode"
+            ],
+            "author": [
+                {
+                    "@id": "https://orcid.org/0000-0001-7956-4498"
+                }
+            ],
+            "category": "",
+            "codeRepository": "https://github.com/GLAM-Workbench/trove-newspapers/",
+            "conformsTo": {
+                "@id": "https://purl.archive.org/textcommons/profile#Notebook"
+            },
+            "description": "Uses the has:corrections parameter to get the total number of newspaper articles with OCR corrections, then displays the results, updating every five seconds.",
+            "encodingFormat": "application/x-ipynb+json",
+            "mainEntityOfPage": {
+                "@id": "https://glam-workbench.net/trove-newspapers/Create-a-Trove-corrections-ticker/"
+            },
+            "name": "Create a Trove OCR corrections ticker",
+            "position": 0,
+            "programmingLanguage": {
+                "@id": "https://www.python.org/downloads/release/python-31012/"
+            },
+            "url": "https://github.com/GLAM-Workbench/trove-newspapers/blob/None/Create-a-Trove-corrections-ticker.ipynb",
+            "workExample": []
+        },
+        {
+            "@id": "https://glam-workbench.net/trove-newspapers/trove-newspapers-scissors-and-paste/",
+            "@type": "CreativeWork",
+            "isPartOf": {
+                "@id": "https://glam-workbench.net"
+            },
+            "name": "Create 'scissors and paste' messages from Trove newspaper articles",
+            "url": "https://glam-workbench.net/trove-newspapers/trove-newspapers-scissors-and-paste/"
+        },
+        {
+            "@id": "trove-newspapers-scissors-and-paste.ipynb",
+            "@type": [
+                "File",
+                "SoftwareSourceCode"
+            ],
+            "author": [
+                {
+                    "@id": "https://orcid.org/0000-0001-7956-4498"
+                }
+            ],
+            "category": "",
+            "codeRepository": "https://github.com/GLAM-Workbench/trove-newspapers/",
+            "conformsTo": {
+                "@id": "https://purl.archive.org/textcommons/profile#Notebook"
+            },
+            "description": "When you search for a term in Trove's digitised newspapers and click on individual article, you'll see your search terms are highlighted. If you look at the code you'll see the highlighted box around the word includes its page coordinates. That means that if we search for a word, we can find where it appears on a page, and by cropping the page to those coordinates we can create an image of an individual word. By combining these images we can create scissors and paste style messages!",
+            "encodingFormat": "application/x-ipynb+json",
+            "mainEntityOfPage": {
+                "@id": "https://glam-workbench.net/trove-newspapers/trove-newspapers-scissors-and-paste/"
+            },
+            "name": "Create 'scissors and paste' messages from Trove newspaper articles",
+            "position": 0,
+            "programmingLanguage": {
+                "@id": "https://www.python.org/downloads/release/python-31012/"
+            },
+            "url": "https://github.com/GLAM-Workbench/trove-newspapers/blob/None/trove-newspapers-scissors-and-paste.ipynb",
+            "workExample": []
+        },
+        {
+            "@id": "https://glam-workbench.net/trove-newspapers/Composite-thumbnails/",
+            "@type": "CreativeWork",
+            "isPartOf": {
+                "@id": "https://glam-workbench.net"
+            },
+            "name": "Make composite images from lots of Trove newspaper thumbnails",
+            "url": "https://glam-workbench.net/trove-newspapers/Composite-thumbnails/"
+        },
+        {
+            "@id": "Composite-thumbnails.ipynb",
+            "@type": [
+                "File",
+                "SoftwareSourceCode"
+            ],
+            "author": [
+                {
+                    "@id": "https://orcid.org/0000-0001-7956-4498"
+                }
+            ],
+            "category": "",
+            "codeRepository": "https://github.com/GLAM-Workbench/trove-newspapers/",
+            "conformsTo": {
+                "@id": "https://purl.archive.org/textcommons/profile#Notebook"
+            },
+            "description": "This notebook starts with a search in Trove's newspapers. It uses the Trove API to work its way through the search results. For each article it creates a thumbnail image using the code from this notebook. Once this first stage is finished, you have a directory full of lots of thumbnails. The next stage takes all those thumbnails and pastes them one by one into a BIG image to create a composite, or mosaic.",
+            "encodingFormat": "application/x-ipynb+json",
+            "mainEntityOfPage": {
+                "@id": "https://glam-workbench.net/trove-newspapers/Composite-thumbnails/"
+            },
+            "name": "Make composite images from lots of Trove newspaper thumbnails",
+            "position": 0,
+            "programmingLanguage": {
+                "@id": "https://www.python.org/downloads/release/python-31012/"
+            },
+            "url": "https://github.com/GLAM-Workbench/trove-newspapers/blob/None/Composite-thumbnails.ipynb",
+            "workExample": []
+        },
+        {
+            "@id": "https://glam-workbench.net/trove-newspapers/querypic/",
+            "@type": "CreativeWork",
+            "isPartOf": {
+                "@id": "https://glam-workbench.net"
+            },
+            "name": "QueryPic",
+            "url": "https://glam-workbench.net/trove-newspapers/querypic/"
+        },
+        {
+            "@id": "querypic.ipynb",
+            "@type": [
+                "File",
+                "SoftwareSourceCode"
+            ],
+            "author": [
+                {
+                    "@id": "https://orcid.org/0000-0001-7956-4498"
+                }
+            ],
+            "category": "",
+            "codeRepository": "https://github.com/GLAM-Workbench/trove-newspapers/",
+            "conformsTo": {
+                "@id": "https://purl.archive.org/textcommons/profile#Notebook"
+            },
+            "description": "QueryPic helps you explore your newspapers search results by showing you how they change over time \u2013 aggregating the number of articles matching your query by day, month, or year.",
+            "encodingFormat": "application/x-ipynb+json",
+            "mainEntityOfPage": {
+                "@id": "https://glam-workbench.net/trove-newspapers/querypic/"
+            },
+            "name": "QueryPic",
+            "position": 0,
+            "programmingLanguage": {
+                "@id": "https://www.python.org/downloads/release/python-31012/"
+            },
+            "url": "https://github.com/GLAM-Workbench/trove-newspapers/blob/None/querypic.ipynb",
+            "workExample": []
+        },
+        {
+            "@id": "https://glam-workbench.net/trove-newspapers/Map-newspaper-results-by-place-of-publication/",
+            "@type": "CreativeWork",
+            "isPartOf": {
+                "@id": "https://glam-workbench.net"
+            },
+            "name": "Map Trove newspaper results by place of publication",
+            "url": "https://glam-workbench.net/trove-newspapers/Map-newspaper-results-by-place-of-publication/"
+        },
+        {
+            "@id": "Map-newspaper-results-by-place-of-publication.ipynb",
+            "@type": [
+                "File",
+                "SoftwareSourceCode"
+            ],
+            "author": [
+                {
+                    "@id": "https://orcid.org/0000-0001-7956-4498"
+                }
+            ],
+            "category": "",
+            "codeRepository": "https://github.com/GLAM-Workbench/trove-newspapers/",
+            "conformsTo": {
+                "@id": "https://purl.archive.org/textcommons/profile#Notebook"
+            },
+            "description": "Uses the Trove title facet to find the number of results per newspaper, then merges the results with a dataset of geolocated newspapers to map where articles were published.",
+            "encodingFormat": "application/x-ipynb+json",
+            "mainEntityOfPage": {
+                "@id": "https://glam-workbench.net/trove-newspapers/Map-newspaper-results-by-place-of-publication/"
+            },
+            "name": "Map Trove newspaper results by place of publication",
+            "position": 0,
+            "programmingLanguage": {
+                "@id": "https://www.python.org/downloads/release/python-31012/"
+            },
+            "url": "https://github.com/GLAM-Workbench/trove-newspapers/blob/None/Map-newspaper-results-by-place-of-publication.ipynb",
+            "workExample": []
+        },
+        {
+            "@id": "https://glam-workbench.net/trove-newspapers/harvest_newspaper_issues/",
+            "@type": "CreativeWork",
+            "isPartOf": {
+                "@id": "https://glam-workbench.net"
+            },
+            "name": "Harvest information about newspaper issues",
+            "url": "https://glam-workbench.net/trove-newspapers/harvest_newspaper_issues/"
+        },
+        {
+            "@id": "harvest_newspaper_issues.ipynb",
+            "@type": [
+                "File",
+                "SoftwareSourceCode"
+            ],
+            "author": [
+                {
+                    "@id": "https://orcid.org/0000-0001-7956-4498"
+                }
+            ],
+            "category": "",
+            "codeRepository": "https://github.com/GLAM-Workbench/trove-newspapers/",
+            "conformsTo": {
+                "@id": "https://purl.archive.org/textcommons/profile#Notebook"
+            },
+            "description": "When you search Trove's newspapers, you find articles \u2013 these articles are grouped by page, and all the pages from a particular date make up an issue. But how do you find out what issues are available? On what dates were newspapers published? This notebook shows how you can get information about issues from the Trove API.",
+            "encodingFormat": "application/x-ipynb+json",
+            "mainEntityOfPage": {
+                "@id": "https://glam-workbench.net/trove-newspapers/harvest_newspaper_issues/"
+            },
+            "name": "Harvest information about newspaper issues",
+            "position": 0,
+            "programmingLanguage": {
+                "@id": "https://www.python.org/downloads/release/python-31012/"
+            },
+            "url": "https://github.com/GLAM-Workbench/trove-newspapers/blob/None/harvest_newspaper_issues.ipynb",
+            "workExample": []
+        },
+        {
+            "@id": "https://glam-workbench.net/examples/trove_newspaper_issues_per_day.html",
+            "@type": "CreativeWork",
+            "name": "Visualisation of the number of newspaper issues per day, 1803 to 2021",
+            "url": "https://glam-workbench.net/examples/trove_newspaper_issues_per_day.html"
+        },
+        {
+            "@id": "https://glam-workbench.net/trove-newspapers/data-newspaper-issues//",
+            "@type": "CreativeWork",
+            "isPartOf": {
+                "@id": "https://glam-workbench.net"
+            },
+            "name": "Data about newspaper issues",
+            "url": "https://glam-workbench.net/trove-newspapers/data-newspaper-issues//"
+        },
+        {
+            "@id": "https://doi.org/10.5281/zenodo.12547036",
+            "@type": "File",
+            "description": "CSV formatted dataset containing a complete list of newspaper issues available on Trove.",
+            "mainEntityOfPage": {
+                "@id": "https://glam-workbench.net/trove-newspapers/data-newspaper-issues//"
+            },
+            "name": "zenodo.12547036",
+            "sdDatePublished": "2024-09-14",
+            "url": "https://doi.org/10.5281/zenodo.12547036",
+            "workExample": [
+                {
+                    "@id": "https://glam-workbench.net/examples/trove_newspaper_issues_per_day.html"
+                }
+            ]
+        },
+        {
+            "@id": "#harvest_newspaper_issues_run_0",
+            "@type": "CreateAction",
+            "actionStatus": {
+                "@id": "http://schema.org/CompletedActionStatus"
+            },
+            "endDate": "2024-09-14",
+            "instrument": {
+                "@id": "harvest_newspaper_issues.ipynb"
+            },
+            "name": "Run of notebook: harvest_newspaper_issues.ipynb",
+            "result": [
+                {
+                    "@id": "https://doi.org/10.5281/zenodo.12547036"
+                },
+                {
+                    "@id": "https://doi.org/10.5281/zenodo.12547036"
+                }
+            ]
+        },
+        {
+            "@id": "https://glam-workbench.net/trove-newspapers/harvest_newspaper_issues_as_pdfs/",
+            "@type": "CreativeWork",
+            "isPartOf": {
+                "@id": "https://glam-workbench.net"
+            },
+            "name": "Harvest the issues of a newspaper as PDFs",
+            "url": "https://glam-workbench.net/trove-newspapers/harvest_newspaper_issues_as_pdfs/"
+        },
+        {
+            "@id": "harvest_newspaper_issues_as_pdfs.ipynb",
+            "@type": [
+                "File",
+                "SoftwareSourceCode"
+            ],
+            "author": [
+                {
+                    "@id": "https://orcid.org/0000-0001-7956-4498"
+                }
+            ],
+            "category": "",
+            "codeRepository": "https://github.com/GLAM-Workbench/trove-newspapers/",
+            "conformsTo": {
+                "@id": "https://purl.archive.org/textcommons/profile#Notebook"
+            },
+            "description": "This notebook harvests issues of a newspaper as PDFs \u2013 one PDF per issue. If the newspaper has an long print run, this will consume large amounts of time and disk space, so you might want to limit your harvest by date range.",
+            "encodingFormat": "application/x-ipynb+json",
+            "mainEntityOfPage": {
+                "@id": "https://glam-workbench.net/trove-newspapers/harvest_newspaper_issues_as_pdfs/"
+            },
+            "name": "Harvest the issues of a newspaper as PDFs",
+            "position": 0,
+            "programmingLanguage": {
+                "@id": "https://www.python.org/downloads/release/python-31012/"
+            },
+            "url": "https://github.com/GLAM-Workbench/trove-newspapers/blob/None/harvest_newspaper_issues_as_pdfs.ipynb",
+            "workExample": []
+        },
+        {
+            "@id": "snippets.ipynb",
+            "@type": [
+                "File",
+                "SoftwareSourceCode"
+            ],
+            "author": [
+                {
+                    "@id": "https://orcid.org/0000-0001-7956-4498"
+                }
+            ],
+            "category": "",
+            "codeRepository": "https://github.com/GLAM-Workbench/trove-newspapers/",
+            "conformsTo": {
+                "@id": "https://purl.archive.org/textcommons/profile#Notebook"
+            },
+            "description": "",
+            "encodingFormat": "application/x-ipynb+json",
+            "name": null,
+            "position": 0,
+            "programmingLanguage": {
+                "@id": "https://www.python.org/downloads/release/python-31012/"
+            },
+            "url": "https://github.com/GLAM-Workbench/trove-newspapers/blob/None/snippets.ipynb",
+            "workExample": []
+        },
+        {
+            "@id": "https://glam-workbench.net/trove-newspapers/Analysing_OCR_corrections/",
+            "@type": "CreativeWork",
+            "isPartOf": {
+                "@id": "https://glam-workbench.net"
+            },
+            "name": "Analyse rates of OCR correction",
+            "url": "https://glam-workbench.net/trove-newspapers/Analysing_OCR_corrections/"
+        },
+        {
+            "@id": "Analysing_OCR_corrections.ipynb",
+            "@type": [
+                "File",
+                "SoftwareSourceCode"
+            ],
+            "author": [
+                {
+                    "@id": "https://orcid.org/0000-0001-7956-4498"
+                }
+            ],
+            "category": "",
+            "codeRepository": "https://github.com/GLAM-Workbench/trove-newspapers/",
+            "conformsTo": {
+                "@id": "https://purl.archive.org/textcommons/profile#Notebook"
+            },
+            "description": "The full text of newspaper articles in Trove is extracted from page images using Optical Character Recognition (OCR). The accuracy of the OCR process is influenced by a range of factors including the font and the quality of the images. Many errors slip through. Volunteers have done a remarkable job in correcting these errors, but it's a huge task. This notebook explores the scale of OCR correction in Trove.",
+            "encodingFormat": "application/x-ipynb+json",
+            "mainEntityOfPage": {
+                "@id": "https://glam-workbench.net/trove-newspapers/Analysing_OCR_corrections/"
+            },
+            "name": "Corrections of OCRd text in Trove's newspapers",
+            "position": 0,
+            "programmingLanguage": {
+                "@id": "https://www.python.org/downloads/release/python-31012/"
+            },
+            "url": "https://github.com/GLAM-Workbench/trove-newspapers/blob/None/Analysing_OCR_corrections.ipynb",
+            "workExample": []
+        },
+        {
+            "@id": "https://glam-workbench.net/trove-newspapers/csv-newspapers-corrections/",
+            "@type": "CreativeWork",
+            "isPartOf": {
+                "@id": "https://glam-workbench.net"
+            },
+            "name": "OCR corrections in Trove newspapers",
+            "url": "https://glam-workbench.net/trove-newspapers/csv-newspapers-corrections/"
+        },
+        {
+            "@id": "https://github.com/GLAM-Workbench/trove-newspapers-corrections/",
+            "@type": "Dataset",
+            "description": "OCR errors in Trove's digitised newspapers can be corrected by users. To help understand patterns in newspaper correction, this dataset has been created to record information about the number of articles with corrections.",
+            "mainEntityOfPage": {
+                "@id": "https://glam-workbench.net/trove-newspapers/csv-newspapers-corrections/"
+            },
+            "name": "trove-newspapers-corrections",
+            "url": "https://github.com/GLAM-Workbench/trove-newspapers-corrections/",
+            "workExample": []
+        },
+        {
+            "@id": "https://github.com/GLAM-Workbench/trove-newspapers-corrections/blob/main/corrections_by_title.csv",
+            "@type": [
+                "File",
+                "Dataset"
+            ],
+            "contentSize": 223947,
+            "dateModified": "2024-09-13",
+            "description": "The number of articles corrected in each newspaper.",
+            "encodingFormat": "text/csv",
+            "isPartOf": {
+                "@id": "https://github.com/GLAM-Workbench/trove-newspapers-corrections/"
+            },
+            "name": "corrections_by_title.csv",
+            "sdDatePublished": "2024-09-14",
+            "size": 1812,
+            "url": "https://github.com/GLAM-Workbench/trove-newspapers-corrections/blob/main/corrections_by_title.csv"
+        },
+        {
+            "@id": "https://github.com/GLAM-Workbench/trove-newspapers-corrections/blob/main/corrections_by_year.csv",
+            "@type": [
+                "File",
+                "Dataset"
+            ],
+            "contentSize": 7827,
+            "dateModified": "2024-09-13",
+            "description": "The number of articles corrected in each publication year.",
+            "encodingFormat": "text/csv",
+            "isPartOf": {
+                "@id": "https://github.com/GLAM-Workbench/trove-newspapers-corrections/"
+            },
+            "name": "corrections_by_year.csv",
+            "sdDatePublished": "2024-09-14",
+            "size": 217,
+            "url": "https://github.com/GLAM-Workbench/trove-newspapers-corrections/blob/main/corrections_by_year.csv"
+        },
+        {
+            "@id": "https://github.com/GLAM-Workbench/trove-newspapers-corrections/blob/main/corrections_by_category.csv",
+            "@type": [
+                "File",
+                "Dataset"
+            ],
+            "contentSize": 1037,
+            "dateModified": "2024-09-13",
+            "description": "The number of articles corrected in each Trove category.",
+            "encodingFormat": "text/csv",
+            "isPartOf": {
+                "@id": "https://github.com/GLAM-Workbench/trove-newspapers-corrections/"
+            },
+            "name": "corrections_by_category.csv",
+            "sdDatePublished": "2024-09-14",
+            "size": 21,
+            "url": "https://github.com/GLAM-Workbench/trove-newspapers-corrections/blob/main/corrections_by_category.csv"
+        },
+        {
+            "@id": "#Analysing_OCR_corrections_run_0",
+            "@type": "CreateAction",
+            "actionStatus": {
+                "@id": "http://schema.org/CompletedActionStatus"
+            },
+            "endDate": "2024-09-13",
+            "instrument": {
+                "@id": "Analysing_OCR_corrections.ipynb"
+            },
+            "name": "Run of notebook: Analysing_OCR_corrections.ipynb",
+            "result": [
+                {
+                    "@id": "https://github.com/GLAM-Workbench/trove-newspapers-corrections/blob/main/corrections_by_title.csv"
+                },
+                {
+                    "@id": "https://github.com/GLAM-Workbench/trove-newspapers-corrections/blob/main/corrections_by_year.csv"
+                },
+                {
+                    "@id": "https://github.com/GLAM-Workbench/trove-newspapers-corrections/blob/main/corrections_by_category.csv"
+                }
+            ]
+        },
+        {
+            "@id": "https://glam-workbench.net/trove-newspapers/trove-newspapers-create-composite-from-words/",
+            "@type": "CreativeWork",
+            "isPartOf": {
+                "@id": "https://glam-workbench.net"
+            },
+            "name": "Create large composite images from snipped words",
+            "url": "https://glam-workbench.net/trove-newspapers/trove-newspapers-create-composite-from-words/"
+        },
+        {
+            "@id": "trove-newspapers-create-composite-from-words.ipynb",
+            "@type": [
+                "File",
+                "SoftwareSourceCode"
+            ],
+            "author": [
+                {
+                    "@id": "https://orcid.org/0000-0001-7956-4498"
+                }
+            ],
+            "category": "",
+            "codeRepository": "https://github.com/GLAM-Workbench/trove-newspapers/",
+            "conformsTo": {
+                "@id": "https://purl.archive.org/textcommons/profile#Notebook"
+            },
+            "description": "This is a variation of the 'scissors & paste' notebook that extracts words from Trove newspaper images and compiles them into messages. In this notebook, you can harvest multiple versions of a list of words and compile them all into one big image.",
+            "encodingFormat": "application/x-ipynb+json",
+            "mainEntityOfPage": {
+                "@id": "https://glam-workbench.net/trove-newspapers/trove-newspapers-create-composite-from-words/"
+            },
+            "name": "Create large composite images from snipped words",
+            "position": 0,
+            "programmingLanguage": {
+                "@id": "https://www.python.org/downloads/release/python-31012/"
+            },
+            "url": "https://github.com/GLAM-Workbench/trove-newspapers/blob/None/trove-newspapers-create-composite-from-words.ipynb",
+            "workExample": []
+        },
+        {
+            "@id": "https://glam-workbench.net/trove-newspapers/Save-Trove-newspaper-article-as-image/",
+            "@type": "CreativeWork",
+            "isPartOf": {
+                "@id": "https://glam-workbench.net"
+            },
+            "name": "Save a Trove newspaper article as an image",
+            "url": "https://glam-workbench.net/trove-newspapers/Save-Trove-newspaper-article-as-image/"
+        },
+        {
+            "@id": "https://glam-workbench.net/trove-newspapers/Save-Trove-newspaper-article-as-image-app/",
+            "@type": "CreativeWork",
+            "name": "Save Trove newspaper article as image web app",
+            "url": "https://glam-workbench.net/trove-newspapers/Save-Trove-newspaper-article-as-image-app/"
+        },
+        {
+            "@id": "Save-Trove-newspaper-article-as-image.ipynb",
+            "@type": [
+                "File",
+                "SoftwareSourceCode"
+            ],
+            "author": [
+                {
+                    "@id": "https://orcid.org/0000-0001-7956-4498"
+                }
+            ],
+            "category": "",
+            "codeRepository": "https://github.com/GLAM-Workbench/trove-newspapers/",
+            "conformsTo": {
+                "@id": "https://purl.archive.org/textcommons/profile#Notebook"
+            },
+            "description": "Sometimes you want to be able to save a Trove newspaper article as an image. Unfortunately, the Trove web interface doesn't make this easy. The 'Download JPG' option actually loads an HTML page, and while you could individually save the images embedded in the HTML page, often articles are sliced up in ways that make the whole thing hard to read and use. This notebook grabs the page on which an article was published, and then crops the page image to the boundaries of the article. The result is a complete, intact image which presents the article as it was originally published. And if the article is split across multiple pages, you'll get one image per page.",
+            "encodingFormat": "application/x-ipynb+json",
+            "mainEntityOfPage": {
+                "@id": "https://glam-workbench.net/trove-newspapers/Save-Trove-newspaper-article-as-image/"
+            },
+            "name": "Save a Trove newspaper article as an image",
+            "position": 0,
+            "programmingLanguage": {
+                "@id": "https://www.python.org/downloads/release/python-31012/"
+            },
+            "url": "https://github.com/GLAM-Workbench/trove-newspapers/blob/None/Save-Trove-newspaper-article-as-image.ipynb",
+            "workExample": [
+                {
+                    "@id": "https://glam-workbench.net/trove-newspapers/Save-Trove-newspaper-article-as-image-app/"
+                }
+            ]
+        },
+        {
+            "@id": "https://glam-workbench.net/trove-newspapers/visualise-total-newspaper-articles-by-state-year/",
+            "@type": "CreativeWork",
+            "isPartOf": {
+                "@id": "https://glam-workbench.net"
+            },
+            "name": "Visualise the total number of newspaper articles in Trove by year and state",
+            "url": "https://glam-workbench.net/trove-newspapers/visualise-total-newspaper-articles-by-state-year/"
+        },
+        {
+            "@id": "https://wragge.github.io/trove-newspaper-totals/",
+            "@type": "CreativeWork",
+            "name": "Trove newspaper data dashboard",
+            "url": "https://wragge.github.io/trove-newspaper-totals/"
+        },
+        {
+            "@id": "visualise-total-newspaper-articles-by-state-year.ipynb",
+            "@type": [
+                "File",
+                "SoftwareSourceCode"
+            ],
+            "author": [
+                {
+                    "@id": "https://orcid.org/0000-0001-7956-4498"
+                }
+            ],
+            "category": "",
+            "codeRepository": "https://github.com/GLAM-Workbench/trove-newspapers/",
+            "conformsTo": {
+                "@id": "https://purl.archive.org/textcommons/profile#Notebook"
+            },
+            "description": "Trove currently includes more 200 million digitised newspaper articles published between 1803 and now. In this notebook we explore how those newspaper articles are distributed over time, and by state.",
+            "encodingFormat": "application/x-ipynb+json",
+            "mainEntityOfPage": {
+                "@id": "https://glam-workbench.net/trove-newspapers/visualise-total-newspaper-articles-by-state-year/"
+            },
+            "name": "Visualise the total number of newspaper articles in Trove by year and state",
+            "position": 0,
+            "programmingLanguage": {
+                "@id": "https://www.python.org/downloads/release/python-31012/"
+            },
+            "url": "https://github.com/GLAM-Workbench/trove-newspapers/blob/None/visualise-total-newspaper-articles-by-state-year.ipynb",
+            "workExample": [
+                {
+                    "@id": "https://wragge.github.io/trove-newspaper-totals/"
+                }
+            ]
+        },
+        {
+            "@id": "https://glam-workbench.net/trove-newspapers/historical-data-newspaper-titles/",
+            "@type": "CreativeWork",
+            "isPartOf": {
+                "@id": "https://glam-workbench.net"
+            },
+            "name": "Gathering historical data about the addition of newspaper titles to Trove",
+            "url": "https://glam-workbench.net/trove-newspapers/historical-data-newspaper-titles/"
+        },
+        {
+            "@id": "historical-data-newspaper-titles.ipynb",
+            "@type": [
+                "File",
+                "SoftwareSourceCode"
+            ],
+            "author": [
+                {
+                    "@id": "https://orcid.org/0000-0001-7956-4498"
+                }
+            ],
+            "category": "",
+            "codeRepository": "https://github.com/GLAM-Workbench/trove-newspapers/",
+            "conformsTo": {
+                "@id": "https://purl.archive.org/textcommons/profile#Notebook"
+            },
+            "description": "The number of digitised newspapers available through Trove has increased dramatically since 2009. Understanding when newspapers were added is important for historiographical purposes, but there's no data about this available directly from Trove. This notebook uses web archives to extract lists of newspapers in Trove over time, and chart Trove's development.",
+            "encodingFormat": "application/x-ipynb+json",
+            "mainEntityOfPage": {
+                "@id": "https://glam-workbench.net/trove-newspapers/historical-data-newspaper-titles/"
+            },
+            "name": "Gathering historical data about the addition of newspaper titles to Trove",
+            "position": 0,
+            "programmingLanguage": {
+                "@id": "https://www.python.org/downloads/release/python-31012/"
+            },
+            "url": "https://github.com/GLAM-Workbench/trove-newspapers/blob/None/historical-data-newspaper-titles.ipynb",
+            "workExample": []
+        },
+        {
+            "@id": "https://github.com/GLAM-Workbench/trove-newspaper-titles-web-archives/blob/main/titles_list.md",
+            "@type": "CreativeWork",
+            "name": "Alphabetical list of newspaper titles showing approximately when they first appeared in Trove",
+            "url": "https://github.com/GLAM-Workbench/trove-newspaper-titles-web-archives/blob/main/titles_list.md"
+        },
+        {
+            "@id": "https://glam-workbench.net/trove-newspapers/csv-newspaper-titles-from-web-archives/",
+            "@type": "CreativeWork",
+            "isPartOf": {
+                "@id": "https://glam-workbench.net"
+            },
+            "name": "Newspaper titles harvested from web archives",
+            "url": "https://glam-workbench.net/trove-newspapers/csv-newspaper-titles-from-web-archives/"
+        },
+        {
+            "@id": "https://github.com/GLAM-Workbench/trove-newspaper-titles-web-archives",
+            "@type": "Dataset",
+            "description": "The number of digitised newspapers available through Trove has increased dramatically since 2009. Understanding when newspapers were added is important for historiographical purposes, but there's no data about this available directly from Trove. These datasets were created by harvesting information about newspaper titles in Trove from web archives.",
+            "mainEntityOfPage": {
+                "@id": "https://glam-workbench.net/trove-newspapers/csv-newspaper-titles-from-web-archives/"
+            },
+            "name": "trove-newspaper-titles-web-archives",
+            "url": "https://github.com/GLAM-Workbench/trove-newspaper-titles-web-archives",
+            "workExample": [
+                {
+                    "@id": "https://github.com/GLAM-Workbench/trove-newspaper-titles-web-archives/blob/main/titles_list.md"
+                }
+            ]
+        },
+        {
+            "@id": "https://github.com/GLAM-Workbench/trove-newspaper-titles-web-archives/blob/main/trove_newspaper_titles_2009_2021.csv",
+            "@type": [
+                "File",
+                "Dataset"
+            ],
+            "contentSize": 14056724,
+            "dateModified": "2022-01-21",
+            "description": "CSV formatted data file containing details of newspaper titles extracted from web archive captures.",
+            "encodingFormat": "text/csv",
+            "isPartOf": {
+                "@id": "https://github.com/GLAM-Workbench/trove-newspaper-titles-web-archives"
+            },
+            "name": "trove_newspaper_titles_2009_2021.csv",
+            "sdDatePublished": "2024-09-14",
+            "size": 107022,
+            "url": "https://github.com/GLAM-Workbench/trove-newspaper-titles-web-archives/blob/main/trove_newspaper_titles_2009_2021.csv"
+        },
+        {
+            "@id": "https://github.com/GLAM-Workbench/trove-newspaper-titles-web-archives/blob/main/trove_newspaper_titles_first_appearance_2009_2021.csv",
+            "@type": [
+                "File",
+                "Dataset"
+            ],
+            "contentSize": 279168,
+            "dateModified": "2022-01-21",
+            "description": "CSV formatted data file containing details of the first appearance of newspaper titles in web archive captures, indicating when the titles were (approximately) added to Trove. The complete list of captures has been filtered to include only the first appearance of each title / place / date range combination.",
+            "encodingFormat": "text/csv",
+            "isPartOf": {
+                "@id": "https://github.com/GLAM-Workbench/trove-newspaper-titles-web-archives"
+            },
+            "name": "trove_newspaper_titles_first_appearance_2009_2021.csv",
+            "sdDatePublished": "2024-09-14",
+            "size": 2120,
+            "url": "https://github.com/GLAM-Workbench/trove-newspaper-titles-web-archives/blob/main/trove_newspaper_titles_first_appearance_2009_2021.csv"
+        },
+        {
+            "@id": "#historical-data-newspaper-titles_run_0",
+            "@type": "CreateAction",
+            "actionStatus": {
+                "@id": "http://schema.org/CompletedActionStatus"
+            },
+            "endDate": "2022-01-21",
+            "instrument": {
+                "@id": "historical-data-newspaper-titles.ipynb"
+            },
+            "name": "Run of notebook: historical-data-newspaper-titles.ipynb",
+            "result": [
+                {
+                    "@id": "https://github.com/GLAM-Workbench/trove-newspaper-titles-web-archives/blob/main/trove_newspaper_titles_2009_2021.csv"
+                },
+                {
+                    "@id": "https://github.com/GLAM-Workbench/trove-newspaper-titles-web-archives/blob/main/trove_newspaper_titles_first_appearance_2009_2021.csv"
+                }
+            ]
+        },
+        {
+            "@id": "https://glam-workbench.net/trove-newspapers/trove-newspapers-get-coordinates-of-articles/",
+            "@type": "CreativeWork",
+            "isPartOf": {
+                "@id": "https://glam-workbench.net"
+            },
+            "name": "Get the page coordinates of a digitised newspaper article from Trove",
+            "url": "https://glam-workbench.net/trove-newspapers/trove-newspapers-get-coordinates-of-articles/"
+        },
+        {
+            "@id": "trove-newspapers-get-coordinates-of-articles.ipynb",
+            "@type": [
+                "File",
+                "SoftwareSourceCode"
+            ],
+            "author": [
+                {
+                    "@id": "https://orcid.org/0000-0001-7956-4498"
+                }
+            ],
+            "category": "",
+            "codeRepository": "https://github.com/GLAM-Workbench/trove-newspapers/",
+            "conformsTo": {
+                "@id": "https://purl.archive.org/textcommons/profile#Notebook"
+            },
+            "description": "This notebook demonstrates how to find the coordinates of a newspaper article on a digitised page.",
+            "encodingFormat": "application/x-ipynb+json",
+            "mainEntityOfPage": {
+                "@id": "https://glam-workbench.net/trove-newspapers/trove-newspapers-get-coordinates-of-articles/"
+            },
+            "name": "Get the page coordinates of a digitised newspaper article from Trove",
+            "position": 0,
+            "programmingLanguage": {
+                "@id": "https://www.python.org/downloads/release/python-31012/"
+            },
+            "url": "https://github.com/GLAM-Workbench/trove-newspapers/blob/None/trove-newspapers-get-coordinates-of-articles.ipynb",
+            "workExample": []
+        },
+        {
+            "@id": "https://glam-workbench.net/trove-newspapers/find-non-english-newspapers/",
+            "@type": "CreativeWork",
+            "isPartOf": {
+                "@id": "https://glam-workbench.net"
+            },
+            "name": "Finding non-English newspapers in Trove",
+            "url": "https://glam-workbench.net/trove-newspapers/find-non-english-newspapers/"
+        },
+        {
+            "@id": "find-non-english-newspapers.ipynb",
+            "@type": [
+                "File",
+                "SoftwareSourceCode"
+            ],
+            "author": [
+                {
+                    "@id": "https://orcid.org/0000-0001-7956-4498"
+                }
+            ],
+            "category": "",
+            "codeRepository": "https://github.com/GLAM-Workbench/trove-newspapers/",
+            "conformsTo": {
+                "@id": "https://purl.archive.org/textcommons/profile#Notebook"
+            },
+            "description": "There are a growing number of non-English newspapers digitised in Trove. However, if you're only searching using English keywords, you might never know that they're there. I thought it would be useful to generate a list of non-English newspapers, but it wasn't quite as straightforward as I thought.",
+            "encodingFormat": "application/x-ipynb+json",
+            "mainEntityOfPage": {
+                "@id": "https://glam-workbench.net/trove-newspapers/find-non-english-newspapers/"
+            },
+            "name": "Finding non-English newspapers in Trove",
+            "position": 0,
+            "programmingLanguage": {
+                "@id": "https://www.python.org/downloads/release/python-31012/"
+            },
+            "url": "https://github.com/GLAM-Workbench/trove-newspapers/blob/None/find-non-english-newspapers.ipynb",
+            "workExample": []
+        },
+        {
+            "@id": "https://github.com/GLAM-Workbench/trove-newspapers-non-english/blob/main/non-english-newspapers.md",
+            "@type": "CreativeWork",
+            "name": "A markdown formatted list of all Trove newspapers with non-English language content",
+            "url": "https://github.com/GLAM-Workbench/trove-newspapers-non-english/blob/main/non-english-newspapers.md"
+        },
+        {
+            "@id": "https://glam-workbench.net/trove-newspapers/list-non-english-newspapers/",
+            "@type": "CreativeWork",
+            "isPartOf": {
+                "@id": "https://glam-workbench.net"
+            },
+            "name": "Trove newspapers with non-English language content",
+            "url": "https://glam-workbench.net/trove-newspapers/list-non-english-newspapers/"
+        },
+        {
+            "@id": "https://github.com/GLAM-Workbench/trove-newspapers-non-english",
+            "@type": "Dataset",
+            "mainEntityOfPage": {
+                "@id": "https://glam-workbench.net/trove-newspapers/list-non-english-newspapers/"
+            },
+            "name": "trove-newspapers-non-english",
+            "url": "https://github.com/GLAM-Workbench/trove-newspapers-non-english",
+            "workExample": [
+                {
+                    "@id": "https://github.com/GLAM-Workbench/trove-newspapers-non-english/blob/main/non-english-newspapers.md"
+                }
+            ]
+        },
+        {
+            "@id": "https://github.com/GLAM-Workbench/trove-newspapers-non-english/blob/main/newspapers_non_english.csv",
+            "@type": [
+                "File",
+                "Dataset"
+            ],
+            "contentSize": 7619,
+            "dateModified": "2024-09-13",
+            "description": "List of the main languages detected for each newspaper with non-English language content.",
+            "encodingFormat": "text/csv",
+            "isPartOf": {
+                "@id": "https://github.com/GLAM-Workbench/trove-newspapers-non-english"
+            },
+            "name": "newspapers_non_english.csv",
+            "sdDatePublished": "2024-09-14",
+            "size": 88,
+            "url": "https://github.com/GLAM-Workbench/trove-newspapers-non-english/blob/main/newspapers_non_english.csv"
+        },
+        {
+            "@id": "#find-non-english-newspapers_run_0",
+            "@type": "CreateAction",
+            "actionStatus": {
+                "@id": "http://schema.org/CompletedActionStatus"
+            },
+            "endDate": "2024-09-13",
+            "instrument": {
+                "@id": "find-non-english-newspapers.ipynb"
+            },
+            "name": "Run of notebook: find-non-english-newspapers.ipynb",
+            "result": [
+                {
+                    "@id": "https://github.com/GLAM-Workbench/trove-newspapers-non-english/blob/main/newspapers_non_english.csv"
+                }
+            ]
+        },
+        {
+            "@id": "https://glam-workbench.net/trove-newspapers/visualise-searches-over-time/",
+            "@type": "CreativeWork",
+            "isPartOf": {
+                "@id": "https://glam-workbench.net"
+            },
+            "name": "Visualise Trove newspaper searches over time",
+            "url": "https://glam-workbench.net/trove-newspapers/visualise-searches-over-time/"
+        },
+        {
+            "@id": "visualise-searches-over-time.ipynb",
+            "@type": [
+                "File",
+                "SoftwareSourceCode"
+            ],
+            "author": [
+                {
+                    "@id": "https://orcid.org/0000-0001-7956-4498"
+                }
+            ],
+            "category": "",
+            "codeRepository": "https://github.com/GLAM-Workbench/trove-newspapers/",
+            "conformsTo": {
+                "@id": "https://purl.archive.org/textcommons/profile#Notebook"
+            },
+            "description": "This notebook helps you zoom out and explore how the number of Trove newspaper articles in your search results varies over time by using the decade and year facets. We then combine this approach with other search facets to see how we can slice a set of results up in different ways to investigate historical changes.",
+            "encodingFormat": "application/x-ipynb+json",
+            "mainEntityOfPage": {
+                "@id": "https://glam-workbench.net/trove-newspapers/visualise-searches-over-time/"
+            },
+            "name": "Visualise Trove newspaper searches over time",
+            "position": 0,
+            "programmingLanguage": {
+                "@id": "https://www.python.org/downloads/release/python-31012/"
+            },
+            "url": "https://github.com/GLAM-Workbench/trove-newspapers/blob/None/visualise-searches-over-time.ipynb",
+            "workExample": []
+        },
+        {
+            "@id": "https://glam-workbench.net/trove-newspapers/Map-newspaper-results-by-place-of-publication-over-time/",
+            "@type": "CreativeWork",
+            "isPartOf": {
+                "@id": "https://glam-workbench.net"
+            },
+            "name": "Map Trove newspaper results by place of publication over time",
+            "url": "https://glam-workbench.net/trove-newspapers/Map-newspaper-results-by-place-of-publication-over-time/"
+        },
+        {
+            "@id": "Map-newspaper-results-by-place-of-publication-over-time.ipynb",
+            "@type": [
+                "File",
+                "SoftwareSourceCode"
+            ],
+            "author": [
+                {
+                    "@id": "https://orcid.org/0000-0001-7956-4498"
+                }
+            ],
+            "category": "",
+            "codeRepository": "https://github.com/GLAM-Workbench/trove-newspapers/",
+            "conformsTo": {
+                "@id": "https://purl.archive.org/textcommons/profile#Notebook"
+            },
+            "description": "Uses the Trove title facet to find the number of results per newspaper, then merges the results with a dataset of geolocated newspapers to map where articles were published, and adds a time dimension to create an animated heatmap.",
+            "encodingFormat": "application/x-ipynb+json",
+            "mainEntityOfPage": {
+                "@id": "https://glam-workbench.net/trove-newspapers/Map-newspaper-results-by-place-of-publication-over-time/"
+            },
+            "name": "Map Trove newspaper results by place of publication over time",
+            "position": 0,
+            "programmingLanguage": {
+                "@id": "https://www.python.org/downloads/release/python-31012/"
+            },
+            "url": "https://github.com/GLAM-Workbench/trove-newspapers/blob/None/Map-newspaper-results-by-place-of-publication-over-time.ipynb",
+            "workExample": []
+        },
+        {
+            "@id": "Save-page-image.ipynb",
+            "@type": [
+                "File",
+                "SoftwareSourceCode"
+            ],
+            "author": [
+                {
+                    "@id": "https://orcid.org/0000-0001-7956-4498"
+                }
+            ],
+            "category": "",
+            "codeRepository": "https://github.com/GLAM-Workbench/trove-newspapers/",
+            "conformsTo": {
+                "@id": "https://purl.archive.org/textcommons/profile#Notebook"
+            },
+            "description": "",
+            "encodingFormat": "application/x-ipynb+json",
+            "name": "Download a page image",
+            "position": 0,
+            "programmingLanguage": {
+                "@id": "https://www.python.org/downloads/release/python-31012/"
+            },
+            "url": "https://github.com/GLAM-Workbench/trove-newspapers/blob/None/Save-page-image.ipynb",
+            "workExample": []
+        },
+        {
+            "@id": "https://glam-workbench.net/trove-newspapers/Get-article-thumbnail/",
+            "@type": "CreativeWork",
+            "isPartOf": {
+                "@id": "https://glam-workbench.net"
+            },
+            "name": "Generate an article thumbnail",
+            "url": "https://glam-workbench.net/trove-newspapers/Get-article-thumbnail/"
+        },
+        {
+            "@id": "Get-article-thumbnail.ipynb",
+            "@type": [
+                "File",
+                "SoftwareSourceCode"
+            ],
+            "author": [
+                {
+                    "@id": "https://orcid.org/0000-0001-7956-4498"
+                }
+            ],
+            "category": "",
+            "codeRepository": "https://github.com/GLAM-Workbench/trove-newspapers/",
+            "conformsTo": {
+                "@id": "https://purl.archive.org/textcommons/profile#Notebook"
+            },
+            "description": "Generate a nice square thumbnail image for a newspaper article.",
+            "encodingFormat": "application/x-ipynb+json",
+            "mainEntityOfPage": {
+                "@id": "https://glam-workbench.net/trove-newspapers/Get-article-thumbnail/"
+            },
+            "name": "Generate a thumbnail image from a Trove newspaper article",
+            "position": 0,
+            "programmingLanguage": {
+                "@id": "https://www.python.org/downloads/release/python-31012/"
+            },
+            "url": "https://github.com/GLAM-Workbench/trove-newspapers/blob/None/Get-article-thumbnail.ipynb",
+            "workExample": []
+        },
+        {
+            "@id": "https://glam-workbench.net/trove-newspapers/QueryPic_deconstructed/",
+            "@type": "CreativeWork",
+            "isPartOf": {
+                "@id": "https://glam-workbench.net"
+            },
+            "name": "QueryPic Deconstructed",
+            "url": "https://glam-workbench.net/trove-newspapers/QueryPic_deconstructed/"
+        },
+        {
+            "@id": "QueryPic_deconstructed.ipynb",
+            "@type": [
+                "File",
+                "SoftwareSourceCode"
+            ],
+            "author": [
+                {
+                    "@id": "https://orcid.org/0000-0001-7956-4498"
+                }
+            ],
+            "category": "",
+            "codeRepository": "https://github.com/GLAM-Workbench/trove-newspapers/",
+            "conformsTo": {
+                "@id": "https://purl.archive.org/textcommons/profile#Notebook"
+            },
+            "description": "This is an older version of QueryPic that lets you build queries using keywords, states, or newspapers.",
+            "encodingFormat": "application/x-ipynb+json",
+            "mainEntityOfPage": {
+                "@id": "https://glam-workbench.net/trove-newspapers/QueryPic_deconstructed/"
+            },
+            "name": "QueryPic deconstructed",
+            "position": 0,
+            "programmingLanguage": {
+                "@id": "https://www.python.org/downloads/release/python-31012/"
+            },
+            "url": "https://github.com/GLAM-Workbench/trove-newspapers/blob/None/QueryPic_deconstructed.ipynb",
+            "workExample": []
+        }
+    ]
+}

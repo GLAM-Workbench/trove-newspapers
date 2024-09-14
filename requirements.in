@@ -3,7 +3,7 @@ voila
 voila-material @ git+https://github.com/GLAM-Workbench/voila-material.git
 beautifulsoup4
 pycountry
-langdetect
+#langdetect
 pillow
 folium
 requests_cache
@@ -21,6 +21,7 @@ trove-query-parser
 trove-newspaper-images
 omeka-s-tools
 # pycld3
+py3langid
 rectpack
 python-dotenv
 natsort

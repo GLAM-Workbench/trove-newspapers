@@ -1,5 +1,7 @@
 # trove-newspapers
 
+CURRENT VERSION: v2.0.0
+
 A GLAM Workbench repository
 
 For more information and documentation see the [Trove newspapers](https://glam-workbench.net/trove-newspapers) section of the [GLAM Workbench](https://glam-workbench.net).
